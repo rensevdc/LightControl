@@ -18,12 +18,12 @@ Door gebruik te maken van maar twee onderdelen en geen touchscreens wordt de afl
 
 ## Introductie
 
-Het dashboard van hedendaagse wagens beschikken over touchscreens en veel knoppen om functies in de wagen te bedienen. Dit zorgt voor veel variaties van functies en maakt dat de wagen bijna alles doet wat een gsm ook kan. Dit brengt echter een probleem met zich mee. Door de gecompliceerde interfaces of overaanbod aan knoppen is er een zekere afleiding achter het stuur. De bestuurder verliest voor een moment de focus van de baan en in deze korte tijd kan er een ongeval gebeuren. (Beeckman, 2021)
+Het dashboard van hedendaagse wagens beschikken over touchscreens en veel knoppen om functies in de wagen te bedienen. Dit zorgt voor veel variaties van functies en maakt dat de wagen bijna alles doet wat een gsm ook kan. Dit brengt echter een probleem met zich mee. Door de gecompliceerde interfaces of overaanbod aan knoppen is er een zekere afleiding achter het stuur. De bestuurder verliest voor een moment de focus van de baan en in deze korte tijd kan er een ongeval gebeuren. (Beeckman, 2021)[^1]
 
-Het is dus van belang om een dashboard te ontwikkelen die de focus van de bestuurder niet van de baan af haalt. Ook is het nodig om een intuïtief bedieningssysteem te maken zonder complexe touchscreens of te veel knoppen. (Staring, 2023) 
+Het is dus van belang om een dashboard te ontwikkelen die de focus van de bestuurder niet van de baan af haalt. Ook is het nodig om een intuïtief bedieningssysteem te maken zonder complexe touchscreens of te veel knoppen. (Staring, 2023)[^3]
 
 De doelstelling is om een dashboard te maken die hoofdfuncties kan bedienen in minder dan vijf seconden en een sub functie kan bedienen in minder dan twee seconden. Het moet veilig zijn en het mag de focus van de bestuurder niet van de baan afhalen. In het beste geval moet de bestuurder zijn/haar ogen niet van de baan afhalen om een functie te bedienen. 
-Ook is er besloten geweest dat tijdens het rijden er geen scherm mag gebruikt worden (met uitzondering van AR-projectie en HUD-systeem met beperkte informatie). Schermen hebben de neiging om de focus van de baan af te halen en zo de bestuurder in gevaar te brengen. Als de wagen volledig in stilstand is gekomen kan er een scherm bediend worden voor wat functies te regelen.  (Harrison, 2018)
+Ook is er besloten geweest dat tijdens het rijden er geen scherm mag gebruikt worden (met uitzondering van AR-projectie en HUD-systeem met beperkte informatie). Schermen hebben de neiging om de focus van de baan af te halen en zo de bestuurder in gevaar te brengen. Als de wagen volledig in stilstand is gekomen kan er een scherm bediend worden voor wat functies te regelen.  (Harrison, 2018)[^2]
 
 
 ## Methdologie
@@ -136,6 +136,12 @@ Beeckman, H. (2021) Aanraakschermen in je auto bedienen drie keer gevaarlijker d
 Harrison, T. (2018) Porsche has invested in race instructor head-up displays. BBC Top-gear. https://www.topgear.com/car-news/future-tech/porsche-has-invested-race-instructor-head-displays
 
 Staring, B. (2023) How Dashboards Contribute to Distracted Driving. AMAinsider. https://amainsider.com/dashboards-contribute-distracted-driving/
+
+[^1]: Beeckman, H. (2021) Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: "Europese regels nodig". VRT-nieuws. https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/
+
+[^2]: Harrison, T. (2018) Porsche has invested in race instructor head-up displays. BBC Top-gear. https://www.topgear.com/car-news/future-tech/porsche-has-invested-race-instructor-head-displays
+
+[^3]: Staring, B. (2023) How Dashboards Contribute to Distracted Driving. AMAinsider. https://amainsider.com/dashboards-contribute-distracted-driving/
 
 ## Bijlagen
 
