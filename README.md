@@ -54,7 +54,7 @@ Uit het vooronderzoek wordt er al een algemeen beeld gegeven waar de focus moet 
 
 ## Definition
 
-**Doestellingen**
+**Doelstellingen**
 
 De doelstelling van de definition fase was om onze concepten te testen bij gebruikers. Hieruit kan beslist worden met welk concept er verder gewerkt wordt. Ook wordt er gezien waar de sterke en zwakke punten in het gekozen concept zitten en kunnen deze nog verder uitgewerkt worden. Het hoofddoel is om te weten of het concept werkt of niet.
 
