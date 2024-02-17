@@ -129,6 +129,11 @@ Er zouden ook nog meer functies bediend moeten worden zoals het wisselen van pla
 
 De gebruikers zouden dit verkiezen in hun wagen boven de hedendaagse manier van rijden indien het dezelfde prijs heeft en het nog wat verder uitgewerkt wordt. De gebruikers vinden dat ze minder afgeleid zijn van de baan en vinden het ook tof om op deze manier met de wagen te rijden.
 
+Ten laatste werden er design requirements opgesetld voor het dashboard waartoe volgende ontwerpen aan moeten voldoen.
+
+![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/bcab20b6-9264-4830-868c-80df155946e7)
+
+
 ## Bronnen
 
 Beeckman, H. (2021) Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: "Europese regels nodig". VRT-nieuws. https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/
