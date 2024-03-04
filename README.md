@@ -215,6 +215,13 @@ Voor het swipepaneel geldt dus dat dit het best tussen een afstand van 251 mm en
 
 Het testprotocol voor deze test staat in de bijlage. 
 
+**Bediencilinder**
+
+**Het stuur**
+Om het ergonomisch aspect van het bedieningswiel en de andere knoppen te bepalen word eerst gekeken naar het stuur in het algemeen. Hierbij zijn er drie zones die van belang zijn, de voorkant en de rand. Op de voorkant kunnen verschillende elementen geplaatst worden zoals knoppen of touchpads. Aan de achterkant kunnen de shiftpanelen zitten of de hendels voor richtingaanwijzers of ruitenwissers. De bedieningscilinder zou dan hgemonteerd worden op de rand. De hoofdfunctie van het stuur is het besturen van de auto, dit gebeurd in het xy-vlak. Aangzien het stuur gepositioneert staat in het xy-vlak zullen extra bewegingen in het xy-vlak voor extra besturingsfuncties op het stuur. Daarom zijn duw of trek bewegingen in de z-richting de voorkeur om interacties op het stuur te plaatsen, ook beeldschermen en veegbewegingen zijn best gericht in de z-richting.
+![image](https://github.com/rensevdc/UCD_SEM1/assets/160232035/6df68a08-4f89-4739-9d77-b8f2976434cb)
+
+
 **Conclusies & implicaties**
 
 ## Kritische reflectie
