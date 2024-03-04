@@ -241,9 +241,16 @@ Uit het vooronderzoek blijkt dat het gebruik van knoppen zeer handig is, maar oo
 
 Om de positie van de ring op het stuur te bepalen moet er bepaald worden waar de handen van de bestuurder op het stuur zelf aanwezig is en waar deze bijna nooit passeerd. Tijdens de periode van een week zullen de onderzoekers iedereen filmen waarmee men in een auto zal zitten. Hier filmen deze onderzoekers de handen en achteraf kunnen via de beelden bepaald worden waar de handen van de bestuurder zich bevinden.
 
+![Screenshot_2024-03-04-13-35-58-77_92460851df6f172a4592fca41cc2d2e6](https://github.com/rensevdc/UCD_SEM1/assets/160232035/271459b4-5844-4c85-b824-13f01644f353)![Screenshot_2024-03-04-13-36-17-95_92460851df6f172a4592fca41cc2d2e6](https://github.com/rensevdc/UCD_SEM1/assets/160232035/52255704-3116-4d55-8f03-0d21ed6376b6)
+
+
+
 **Reseltaten Onderzoek**
 
 Tijdens het bekijken van de beelden hebben we enkele verschillende bestuurders bekeken en zien hierbij een vast patroon bij het rijden. De rachter hand wordt vaak van het stuur gehaald. De linker hand heeft de neiging om naar boven of beneden te glijden langs het stuur. Tijdens het draaien van de auto wordt de hand op een vaste positie geplaatst of neemt doet men de standaar draai en doorgrijpen. Tijdens de draai en grijp beweging zijn er 3 punten die vastgegrepen worden: 12u, 4u en 8u. 
+
+![Screenshot_2024-03-04-13-36-37-75_92460851df6f172a4592fca41cc2d2e6](https://github.com/rensevdc/UCD_SEM1/assets/160232035/1453f356-bdc6-4371-91c5-4289bc4910ea)
+
 
 **Conclusies & implicaties**
 
