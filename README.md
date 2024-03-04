@@ -221,11 +221,11 @@ Het testprotocol voor deze test staat in de bijlage.
 
 Om het ergonomisch aspect van het bedieningswiel en de andere knoppen te bepalen word eerst gekeken naar het stuur in het algemeen. Hierbij zijn er drie zones die van belang zijn, de voorkant en de rand. Op de voorkant kunnen verschillende elementen geplaatst worden zoals knoppen of touchpads. Aan de achterkant kunnen de shiftpanelen zitten of de hendels voor richtingaanwijzers of ruitenwissers. De bedieningscilinder zou dan hgemonteerd worden op de rand. De hoofdfunctie van het stuur is het besturen van de auto, dit gebeurd in het xy-vlak. Aangzien het stuur gepositioneert staat in het xy-vlak zullen extra bewegingen in het xy-vlak voor extra besturingsfuncties op het stuur. Daarom zijn duw of trek bewegingen in de z-richting de voorkeur om interacties op het stuur te plaatsen, ook beeldschermen en veegbewegingen zijn best gericht in de z-richting.
 
-    ![image](https://github.com/rensevdc/UCD_SEM1/assets/160232035/6df68a08-4f89-4739-9d77-b8f2976434cb)              ![image](https://github.com/rensevdc/UCD_SEM1/assets/160232035/a616de61-f869-4a70-ad78-544bf44e7f44)
+![image](https://github.com/rensevdc/UCD_SEM1/assets/160232035/6df68a08-4f89-4739-9d77-b8f2976434cb)                    ![image](https://github.com/rensevdc/UCD_SEM1/assets/160232035/a616de61-f869-4a70-ad78-544bf44e7f44)
 
 In moderne wagens wordt er veel gebruik gemaakt van knoppen op het stuur. De knoppen op het stuur bestaan meestal uit drukknopen in de Z-richting of een rollbeweging rond de x-as. Deze knoppen zorgen dat er veel functies op het stuur mogelijk zijn en maken het stuur een multifunctioneel bestuurcenter van de auto. De meeste acties op het stuur worden uitgevoerd door de duim, dit gebeurt tijdens het sturen. De andere vingers houden dan het stuur vast. De positie van de handen op het stuur zijn 10 en 2 volgens de klok. Deze positie zorgt ervoor dat bij het crashen van het voertuig de airbag de armen niet tegen het lichaam aanduwd. In het geval dat we dan een interactie uitvoeren op het stuur is de tijd die men neemt om de knop te bedienen echter korter als de knop op het stuur zit dan als de knop in het dashboard verwerkt zit. Deze interactieknoppen zouden dan ook makkelijk berijkbaar moeten zijn en als het kan blind bedienbaar zijn. Dit is simpel te bekomen door de knoppen groter te maken en een duidelijke schijding tussen de knoppen.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/160232035/ec0dd831-f80b-4bbd-8f22-da584bfc313d)
+                                                                  ![image](https://github.com/rensevdc/UCD_SEM1/assets/160232035/ec0dd831-f80b-4bbd-8f22-da584bfc313d)
 
 
 **Conclusies & implicaties**
