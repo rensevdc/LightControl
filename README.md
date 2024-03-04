@@ -207,6 +207,8 @@ Om een swipebeweging te maken wordt het op elke positie als een comfortabele pos
 
 Voor het swipepaneel geldt dus dat dit het best tussen een afstand van 251 mm en 695 mm van het midden van het stuur zit. Het zit op een diepte tussen twee cirkels met een straal van 394 mm en 508 mm bekeken vanaf de schouder (middelpunt). Op een hoogte tussen 46 mm en 542mm ten opzichte van het zitvlak bevestigd zit. In het volgende deel zullen de gebruikerstesten beschreven worden.
 
+https://acrobat.adobe.com/id/urn:aaid:sc:EU:86257e14-afbf-47a2-a1fc-788938a581b1
+
 **Resultaten**
 
 **Swipepaneel** 
