@@ -151,7 +151,7 @@ Ten laatste werden er design requirements opgesetld voor het dashboard waartoe v
 
 **Doelstellingen**
 
-De doelstelling van de Anthropometrie analyse is om het ergonomisch aspect ven het concept beter uit te werken en te optimaliseren. Uit deze analyse worden er opnieuw design requirements opgesteld en nieuwe iteraties gemaakt. 
+De doelstelling van de Anthropometrie analyse is om het ergonomisch aspect van het concept beter uit te werken en te optimaliseren. Uit deze analyse worden er opnieuw design requirements opgesteld en nieuwe iteraties gemaakt. 
 
 **Materiaal & methoden**
 
