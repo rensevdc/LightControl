@@ -249,7 +249,8 @@ Om de positie van de ring op het stuur te bepalen moet er bepaald worden waar de
 
 Tijdens het bekijken van de beelden hebben we enkele verschillende bestuurders bekeken en zien hierbij een vast patroon bij het rijden. De rachter hand wordt vaak van het stuur gehaald. De linker hand heeft de neiging om naar boven of beneden te glijden langs het stuur. Tijdens het draaien van de auto wordt de hand op een vaste positie geplaatst of neemt doet men de standaar draai en doorgrijpen. Tijdens de draai en grijp beweging zijn er 3 punten die vastgegrepen worden: 12u, 4u en 8u. 
 
-![Screenshot_2024-03-04-13-36-37-75_92460851df6f172a4592fca41cc2d2e6](https://github.com/rensevdc/UCD_SEM1/assets/160232035/1453f356-bdc6-4371-91c5-4289bc4910ea)
+<img width="552" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/966f5bd0-bb0c-47d1-ab25-8f44204000fe">
+
 
 
 **Conclusies & implicaties**
