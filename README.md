@@ -231,7 +231,19 @@ De achterkant van het stuur maakt gebruik van alle vingers naast de duim. Meervi
 
 ![image](https://github.com/rensevdc/UCD_SEM1/assets/160232035/35741724-7077-4019-b271-6601478d55ba)![image](https://github.com/rensevdc/UCD_SEM1/assets/160232035/822a2c09-b479-45b2-96ed-20ce364cbd97)
 
+**positionering bediencilinder**
 
+**Reflectering onderzoek**
+
+Uit het vooronderzoek blijkt dat het gebruik van knoppen zeer handig is, maar ook dat op de rand van het stuur zelf ook functies kunnen bestuurd worden. De keuze ligt bij een ring die een draai en knijp beweging gebruikt om zo bepaalde instellingen aan te passen. De positie van deze ring zal ook zeer belangrijk zijn. Deze zal bepalen of er niet gewenste interacties zijn of niet. Hiervoor word er een onderzoek gedaan.
+
+**Testopstelling**
+
+Om de positie van de ring op het stuur te bepalen moet er bepaald worden waar de handen van de bestuurder op het stuur zelf aanwezig is en waar deze bijna nooit passeerd. Tijdens de periode van een week zullen de onderzoekers iedereen filmen waarmee men in een auto zal zitten. Hier filmen deze onderzoekers de handen en achteraf kunnen via de beelden bepaald worden waar de handen van de bestuurder zich bevinden.
+
+**Reseltaten Onderzoek**
+
+Tijdens het bekijken van de beelden hebben we enkele verschillende bestuurders bekeken en zien hierbij een vast patroon bij het rijden. De rachter hand wordt vaak van het stuur gehaald. De linker hand heeft de neiging om naar boven of beneden te glijden langs het stuur. Tijdens het draaien van de auto wordt de hand op een vaste positie geplaatst of neemt doet men de standaar draai en doorgrijpen. Tijdens de draai en grijp beweging zijn er 3 punten die vastgegrepen worden: 12u, 4u en 8u. 
 
 **Conclusies & implicaties**
 
