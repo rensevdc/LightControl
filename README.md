@@ -13,7 +13,7 @@ Een oplossing die de afleiding in de wagen kan verminderen is om te werken via e
 
 Door gebruik te maken van maar twee onderdelen en geen touchscreens wordt de afleiding in de wagen verminderd, de bestuurder moet minder denken welke knoppen er moeten ingedrukt worden om een functie te bedienen en alles info staat in het zicht van de bestuurder.
 
-<img width="850" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/b2dcd549-1412-4568-902f-9afe4e874f5a" width="200" height="400">
+<img width="850" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/b2dcd549-1412-4568-902f-9afe4e874f5a" width="200">
 
 
 
@@ -30,7 +30,7 @@ Ook is er besloten geweest dat tijdens het rijden er geen scherm mag gebruikt wo
 ## Methdologie
 Het eerste semester was opgedeeld in twee grote fasen: de discovery fase en de definition fase. Zoals in de figuur hieronder te zien is werd er per fase met andere methodes het doel bereikt.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/62ab4172-664f-4525-b4a2-9a87e2a99b2f | width=100)
+![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/62ab4172-664f-4525-b4a2-9a87e2a99b2f.png | width=100)
 
 In de eerste deelfase (vooronderzoek) werd er nagedacht over het probleem die opgelost moest worden. Via een Literatuuronderzoek (met internetbronnen) werd er informatie opgedaan over dit onderwerp. Het was belangrijk om deze info goed te ontleden om het probleem te vinden. Na een literatuuronderzoek werd er naar GRAND STUDIO gegaan om de eisen van de opdrachtgevers beter in beeld te krijgen. Hierbij werden er heel wat dingen opgeklaard. Ten laatste werden er user interviews afgelegd. Hierbij werd er afgetoetst wat de gebruiker verwachte van een dashboard en op welke manieren de gebruikers afgeleid worden in de wagen. Al deze informatie werd gebundeld in een rapport en zo werden de eisen van het dashboard bepaald. Hierna werd uit al de bekomen info bepaald wat de belangerijkste aspecten voor het dashboard zijn. Dit werd aan de hand van een WWWWWH, persona en decision framewrok gedaan. 
 
