@@ -13,7 +13,7 @@ Een oplossing die de afleiding in de wagen kan verminderen is om te werken via e
 
 Door gebruik te maken van maar twee onderdelen en geen touchscreens wordt de afleiding in de wagen verminderd, de bestuurder moet minder denken welke knoppen er moeten ingedrukt worden om een functie te bedienen en alles info staat in het zicht van de bestuurder.
 
-<img width="850" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/b2dcd549-1412-4568-902f-9afe4e874f5a">
+<img width="850" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/b2dcd549-1412-4568-902f-9afe4e874f5a" width="200" height="400">
 
 
 
@@ -30,7 +30,7 @@ Ook is er besloten geweest dat tijdens het rijden er geen scherm mag gebruikt wo
 ## Methdologie
 Het eerste semester was opgedeeld in twee grote fasen: de discovery fase en de definition fase. Zoals in de figuur hieronder te zien is werd er per fase met andere methodes het doel bereikt.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/62ab4172-664f-4525-b4a2-9a87e2a99b2f)
+![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/62ab4172-664f-4525-b4a2-9a87e2a99b2f width="200" height="400")
 
 In de eerste deelfase (vooronderzoek) werd er nagedacht over het probleem die opgelost moest worden. Via een Literatuuronderzoek (met internetbronnen) werd er informatie opgedaan over dit onderwerp. Het was belangrijk om deze info goed te ontleden om het probleem te vinden. Na een literatuuronderzoek werd er naar GRAND STUDIO gegaan om de eisen van de opdrachtgevers beter in beeld te krijgen. Hierbij werden er heel wat dingen opgeklaard. Ten laatste werden er user interviews afgelegd. Hierbij werd er afgetoetst wat de gebruiker verwachte van een dashboard en op welke manieren de gebruikers afgeleid worden in de wagen. Al deze informatie werd gebundeld in een rapport en zo werden de eisen van het dashboard bepaald. Hierna werd uit al de bekomen info bepaald wat de belangerijkste aspecten voor het dashboard zijn. Dit werd aan de hand van een WWWWWH, persona en decision framewrok gedaan. 
 
@@ -50,11 +50,11 @@ Om te weten wat belangrijk is en welke wensen de gebruiker heeft wordt er een vo
 
 Een groot deel van het vooronderzoek werd online uitgevoerd, er zijn al veel studies uitgevoerd naar veiligheid in de auto toe. Deze studies werden gebruikt om te weten welke factoren in een auto de oorzaak zijn van ongevallen. We kunnen dan ook concluderen dat de meeste ongevallen veroorzaakt worden door een touchscreen. Dit komt omdat touchscreens vaak een complexer systeem hebben om een doel te bereiken. Dit zorgt dat men meer stappen moet doen om een actie uit te voeren en dus langer hun aandacht weg van de baan hebben. 
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/102b6195-8bce-4e45-9608-ad5c5c33ef0d)
+![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/102b6195-8bce-4e45-9608-ad5c5c33ef0d width="200" height="400")
 
 Naast online onderzoek werden er ook interviews met verschillende bestuurders gedaan. Bij deze interviews werd er gevraagd naar de functies van het dashboard die men gebruikt, de voorkeur tussen oudere dashboards en nieuwere, ect. Tijdens de interviews werd er ook een tabel gemaakt met functies, in deze tabel werd gevraagd welke functies men het meest gebruikt en welke functies het belangrijkst zijn. Aan de hand van deze tabel kunnen er functies uit de hedendaagse auto gehaald worden om de complexheid van het systeem te verminderen. Uit de interviews zelf werd geconcludeerd dat een dashboard met enkele knoppen de voorkeur krijgt op complexe dashboards. Veel moderne functies behoren wel tot de wensen van gebruiker zoals het verbinden van de gsm met de auto waarbij Spotify, handsfree bellen en vele andere functies bij komen. De geïnterviewden gaven ook nog enkel dingen aan die ze zelf gebruiken en handig vinden. De knoppen op een stuur waren een groot pluspunt, het DIU-scherm tussen het stuur was ook een toepassing die handig gevonden werd een groter mag.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/f601ad05-5cfb-4430-8127-5bc2b1f7afb7)
+![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/f601ad05-5cfb-4430-8127-5bc2b1f7afb7 width="200" height="400")
 
 **Resultaten**
 
@@ -87,7 +87,7 @@ Voor de eerste wave prototypes worden er drie testen gedaan (per prototype één
 
 Voor de bediening met het controlepaneel dat per vinger een andere functie aanduidt werd het meteen duidelijk dat dit niet zo intuïtief was als eerst gedacht. De gebruikers hadden moeite om de juist functie te vinden. Ook week de auto bij elke gebruiker van de baan af als dit prototype gebruikt werd. Het bleek uit de vragen achteraf dat het te complex was om de juiste vinger bij de juiste knop te houden en deze dan nog eens apart in te drukken. Ook naar het einde toe van de test was het duidelijk dat de auto van de baan bleef afwijken bij het bedienen van deze functie.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/7d59b4a3-f843-4939-91ad-e27308f22881)
+![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/7d59b4a3-f843-4939-91ad-e27308f22881 width="200" height="400")
 
 Bij de draaiknop is er een ander verhaal. Het was bij elke gebruiker duidelijk dat er moest gedraaid worden aan het prototype om een naar een andere functie te bedienen. In het begin week de auto licht van de baan af maar naarmate de gebruikers gewend werden aan de bediening was er geen afwijking meer. 
 
