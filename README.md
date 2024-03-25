@@ -250,8 +250,6 @@ Om de positie van de ring op het stuur te bepalen moet er bepaald worden waar de
 
 <img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/52255704-3116-4d55-8f03-0d21ed6376b6">
 
-
-
 **Reseltaten Onderzoek**
 
 Tijdens het bekijken van de beelden hebben we enkele verschillende bestuurders bekeken en zien hierbij een vast patroon bij het rijden. De rachter hand wordt vaak van het stuur gehaald. De linker hand heeft de neiging om naar boven of beneden te glijden langs het stuur. Tijdens het draaien van de auto wordt de hand op een vaste positie geplaatst of neemt doet men de standaar draai en doorgrijpen. Tijdens de draai en grijp beweging zijn er 3 punten die vastgegrepen worden: 12u, 4u en 8u. In onderstaande figuur zijn de groene gebieden degene die het meest aangeraakt worden tijdens het rijde. Naarmate de kleur naar oranje toeneemt zijn de plaatsen die minder aangeraakt worden en de witte plaatsen worden amper aangeraakt.
@@ -260,9 +258,26 @@ Tijdens het bekijken van de beelden hebben we enkele verschillende bestuurders b
 
 **Conclusies & implicaties**
 
-## Kritische reflectie
+## Human Mind
+
+**Doelstellingen**
+
+De doelstelling van dit deelonderzoek is om de gebruiksvriendelijkheid en UX aspecten van het prototype in diepgang te bekijken. Aan de hand van experttesten (N=2) en gebruikerstesten (N=4) zal dit aspect van het dashboard verbeterd worden.
+
+**Materiaal en methoden**
+
+Om de expert en gebruikerstesten tot een goed eind te laten komen zijn er nieuwe prototypes nodig die meer focussen op de UX aspecten van het dashboard zoals de bediening van functies met het bediencilinder, de connectie tussen de functies en de lichtsignalen en de werking van het swipepaneel. Aan de hand van Arduino en Protopie wordt er een systeem ontwerpen waarbij er op een gsm geswiped wordt om een display aan te sturen. Indien er op de gsm geswiped wordt kan het display tussen drie situaties wisselen (Spotify (groen), Klimaatregeling (rood) en temperatuurregeling (blauw)). Voor het onderdeel van spotify kan via een potentiometer het volume van afspelende muziek aangepast worden. Voor de klimaatregeling kan er tussen vier verschillende bedieningen verwisseld worden met de potentiometer. Om de temperatuur kan ook veranderen door aan de potentiometer te draaien. 
+In totaal worden er twee experttesten en vier gebruikerstesten gedaan. Voor al deze testen werd er een deel via The Wizzard of Ozz testing gewerkt en een deel via een echt werkende display en swipepaneel. 
+
+https://ugentbe-my.sharepoint.com/:v:/r/personal/rense_vandecasteele_ugent_be/Documents/2%20IO/Gebruiksgericht%20ontwerpen/test_display_1.mp4?csf=1&web=1&e=6Ev8QQ
+
+**Resultaten**
 
 
+
+**Conclusies & implicaties**
+
+**Kritische reflectie**
 ## Bronnen
 
 Beeckman, H. (2021) Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: "Europese regels nodig". VRT-nieuws. https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/
