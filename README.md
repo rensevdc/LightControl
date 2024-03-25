@@ -271,11 +271,15 @@ In totaal worden er twee experttesten en vier gebruikerstesten gedaan. Voor al d
 
 https://ugentbe-my.sharepoint.com/:v:/r/personal/rense_vandecasteele_ugent_be/Documents/2%20IO/Gebruiksgericht%20ontwerpen/test_display_1.mp4?csf=1&web=1&e=6Ev8QQ
 
+Protocol expertesten: https://acrobat.adobe.com/id/urn:aaid:sc:EU:c72a1823-73fa-4b4a-86d1-fe6bce3dae5b
+
 **Resultaten**
 
-
+Uit eerste experttesten bleek dat het display te aanlokkelijk is om naar te kijken tijden het rijden. De kleurenfuncties krijgen niet de bovenhand waardoor er weer extra afleiding is. Het systeem om funties met de cilinderbediening te manipuleren wordt als zeer goed ervaren. Het is makkelijk in gebruik en zit niet in de weg. In het begin was het niet duidelijk wat de bedoeling van het swipepaneel was maar één van de expert zei: 'Als je weet dat het swipepaneel dient om de functies te manipuleren is het wel intuïtief'. 
 
 **Conclusies & implicaties**
+
+De conclusies uit de expert testen zijn dat het display beter afgewerkt moet zijn en dat het ook minder afleidend moet gemaakt worden. De bediening via het swipepaneel en de bediencilinder zijn al goed uitgewerkt en makkelijk in gebruik.
 
 **Kritische reflectie**
 ## Bronnen
