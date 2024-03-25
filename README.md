@@ -30,7 +30,6 @@ Ook is er besloten geweest dat tijdens het rijden er geen scherm mag gebruikt wo
 ## Methdologie
 Het eerste semester was opgedeeld in twee grote fasen: de discovery fase en de definition fase. Zoals in de figuur hieronder te zien is werd er per fase met andere methodes het doel bereikt.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/62ab4172-664f-4525-b4a2-9a87e2a99b2f)
 <img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/62ab4172-664f-4525-b4a2-9a87e2a99b2f">
 
 In de eerste deelfase (vooronderzoek) werd er nagedacht over het probleem die opgelost moest worden. Via een Literatuuronderzoek (met internetbronnen) werd er informatie opgedaan over dit onderwerp. Het was belangrijk om deze info goed te ontleden om het probleem te vinden. Na een literatuuronderzoek werd er naar GRAND STUDIO gegaan om de eisen van de opdrachtgevers beter in beeld te krijgen. Hierbij werden er heel wat dingen opgeklaard. Ten laatste werden er user interviews afgelegd. Hierbij werd er afgetoetst wat de gebruiker verwachte van een dashboard en op welke manieren de gebruikers afgeleid worden in de wagen. Al deze informatie werd gebundeld in een rapport en zo werden de eisen van het dashboard bepaald. Hierna werd uit al de bekomen info bepaald wat de belangerijkste aspecten voor het dashboard zijn. Dit werd aan de hand van een WWWWWH, persona en decision framewrok gedaan. 
@@ -55,7 +54,7 @@ Een groot deel van het vooronderzoek werd online uitgevoerd, er zijn al veel stu
 
 Naast online onderzoek werden er ook interviews met verschillende bestuurders gedaan. Bij deze interviews werd er gevraagd naar de functies van het dashboard die men gebruikt, de voorkeur tussen oudere dashboards en nieuwere, ect. Tijdens de interviews werd er ook een tabel gemaakt met functies, in deze tabel werd gevraagd welke functies men het meest gebruikt en welke functies het belangrijkst zijn. Aan de hand van deze tabel kunnen er functies uit de hedendaagse auto gehaald worden om de complexheid van het systeem te verminderen. Uit de interviews zelf werd geconcludeerd dat een dashboard met enkele knoppen de voorkeur krijgt op complexe dashboards. Veel moderne functies behoren wel tot de wensen van gebruiker zoals het verbinden van de gsm met de auto waarbij Spotify, handsfree bellen en vele andere functies bij komen. De geïnterviewden gaven ook nog enkel dingen aan die ze zelf gebruiken en handig vinden. De knoppen op een stuur waren een groot pluspunt, het DIU-scherm tussen het stuur was ook een toepassing die handig gevonden werd een groter mag.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/f601ad05-5cfb-4430-8127-5bc2b1f7afb7.png | width=100)
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/f601ad05-5cfb-4430-8127-5bc2b1f7afb7">
 
 **Resultaten**
 
@@ -88,19 +87,19 @@ Voor de eerste wave prototypes worden er drie testen gedaan (per prototype één
 
 Voor de bediening met het controlepaneel dat per vinger een andere functie aanduidt werd het meteen duidelijk dat dit niet zo intuïtief was als eerst gedacht. De gebruikers hadden moeite om de juist functie te vinden. Ook week de auto bij elke gebruiker van de baan af als dit prototype gebruikt werd. Het bleek uit de vragen achteraf dat het te complex was om de juiste vinger bij de juiste knop te houden en deze dan nog eens apart in te drukken. Ook naar het einde toe van de test was het duidelijk dat de auto van de baan bleef afwijken bij het bedienen van deze functie.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/7d59b4a3-f843-4939-91ad-e27308f22881 | width=100)
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/7d59b4a3-f843-4939-91ad-e27308f22881">
 
 Bij de draaiknop is er een ander verhaal. Het was bij elke gebruiker duidelijk dat er moest gedraaid worden aan het prototype om een naar een andere functie te bedienen. In het begin week de auto licht van de baan af maar naarmate de gebruikers gewend werden aan de bediening was er geen afwijking meer. 
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/066b2366-78d4-4849-ae6a-5de688a39cdf | width=100)
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/066b2366-78d4-4849-ae6a-5de688a39cdf">
 
 Voor het swipe-paneel werden dezelfde resultaten bekomen als bij de draai bediending. Het was rap duidelijk wat er verwacht werd bij het prototype en de functies werden rap gevonden. Hierbij week de auto nog minder van de baan af dan bij de voorgaande prototypes (dit heeft ook voor een deel te maken dat ze de bediening van het spel beter onder de knie kregen). Naar het einde toe van deze test week de auto ook niet meer van de baan af.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/fb8c64eb-e69b-42f1-8e96-7a473cbc84f5 | width=100)
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/fb8c64eb-e69b-42f1-8e96-7a473cbc84f5">
 
 Voor het bedienen van de sub-functies werd er rap gevonden dat er een het deel op het stuur moest gedraaid worden. Dit vonden de gebruikers een zeer goed onderdeel van de prototypes. *‘Dit stimuleerd ook het tien voor twee rijgedrag!’*
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/1b3d2cf9-15eb-43f4-b61b-270253f844cc)
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/1b3d2cf9-15eb-43f4-b61b-270253f844cc">
 
 Ook het gebruik van een kleurenindicatie vond elke gebruiker zeer goed, sommigen vonden wel dat de kleuren nog op een ander deel kunnen terugkeren. De AR-projectie die gesimuleerd werd door de game zelf vonden de gebruikers ook heel handig. *‘Het is veel beter dan te kijken op een klein schermpje!’*. 
 
@@ -109,15 +108,15 @@ Er bleek ook dat over het algemeen de bedieningselementen wat dichter bij de geb
 Bij de tweede wave van prototypes wordt er verder gewerkt met het swipe-paneel. Een algemeen prototype werd gemaakt die in verschillende toestanden kan opgesteld worden. Hierin is er een gleuf gemaakt zodat er licht door kan schijnen van een RGB-lamp. Deze worden weer getest via the wizard of Oz testing. 
 De eerste opstelling is gelijkaardig aan de het vorige swipe paneel. De bedoeling is dat de gebruiker met een hand boven of op het paneel swiped (van links naar rechts). De kleuren veranderen weer bij een andere functie. De secundaire bediening is nu ook weer via de cilinder op het stuur. 
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/eaadde1b-df2c-4579-8e60-73be341b974c)
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/eaadde1b-df2c-4579-8e60-73be341b974c">
 
 De tweede opstelling is wanneer het paneel rechtstaat en de gebruiker van boven naar beneden of visa versa moet bewegen met een hand. Ook weer hier veranderen de kleuren als er een nieuwe functie bekomen is. De cilinder wordt ook hier gebruikt om de sub functie te bedienen. *‘Deze houding komt minder natuurlijk over dan de voorgaande swipebeweging.’*.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/fe7f465a-b858-46f3-998c-1faf4df89a45)
+<img width="600" alt="image" src="(https://github.com/rensevdc/UCD_SEM1/assets/155004668/fe7f465a-b858-46f3-998c-1faf4df89a45">
 
 De laatste opstelling is wanneer de gebruiker van links naar recht moet swipen met een hand. Ook weer hier wordt er gebruik gemaakt van kleuren die de hoofdfunctie aanduiden. Maar in de plaats van een cilinder op het stuur wordt een draaiknop gebruikt om de secundaire functies te bedienen. Hierbij wordt er toch nog eens nagegaan of de gebruikers deze manier van werken niet beter vinden dan met de cilinder op het stuur. Hieruit bleek dat het werken via de cilinder aan het stuur een betere optie was dan een aparte draaiknop. Dit kwam doordat de gebruiker zich meer kon focussen op de baan indien de handen aan het stuur waren. *‘Met de draaiknop voel ik me minder gefocussed op de baan, ik moet ook weer mijn arm weg van het stuur bewegen.’*.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/d3fae400-ac21-4a3d-b94c-ab2b8183b0fd)
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/d3fae400-ac21-4a3d-b94c-ab2b8183b0fd">
 
 **Conclusies & implicaties**
 
@@ -146,7 +145,7 @@ De gebruikers zouden dit verkiezen in hun wagen boven de hedendaagse manier van 
 
 Ten laatste werden er design requirements opgesetld voor het dashboard waartoe volgende ontwerpen aan moeten voldoen.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/bcab20b6-9264-4830-868c-80df155946e7)
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/bcab20b6-9264-4830-868c-80df155946e7">
 
 ## Anthopometrie
 
@@ -172,11 +171,12 @@ De designmethode die zal worden gebuikt is: Design for adjustable (aangezien de 
 
 Het eerste aspect dat bekeken wordt voor het swipepaneel is hoe ver het gemonteerd moet zijn t.o.v. de bestuurder. Zoals in onderstaande figuur te zien is, zou het swipepaneel best in een cirkel met een straal tussen de 394 en 508 mm komen te staan waarbij het middelpunt de rechterscouder van de bestuurder is en het eindpunte de hand van de bestuurder. (Zhanfeng, 2018)[^4] 
 Een volgend ascpect is te bepalen hoe diep het paneel moet wegzitten in het dashboard. 
-![image](https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/6eaba38c-1336-4648-9423-11f3994a7f10)
+
+<img width="600" alt="image" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/6eaba38c-1336-4648-9423-11f3994a7f10">
 
 Ook hiervoor wordt er naar onderstaande figuur verwezen. De beste hoogte om het display te bedienen is op elbooghoogte. Dit komt meestal overeen met een hoogte tussen de 150 mm onder elbooghoogte en 250 mm boven elbooghoogte. De diepte van het dashboard (x-as) wordt kleiner naarmate het display hoger of lager komt te staan. Zo is op elbooghoogte deze nog maximaal 50cm ten opzichte van de borst. Indien de hand op 250 mm boven de elbooghoogte geposistioneerd is wordt de diepte maximaal 600 mm. En ten laatste wanneer de hand zich op 150mm onder de elbooghoogte bevind is de maximale diepte 400 mm van de borst af. (Blumstengel, 2019)[^5]
 
-![image](https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/98b7f8ab-325a-456e-bf75-417ddaa0cffc)
+<img width="600" alt="image" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/98b7f8ab-325a-456e-bf75-417ddaa0cffc">
 
 Vervolgens kunnen er designrequirements opgesteld worden. Het swipepaneel tussen een afstand van 394 en 508 mm van de schouder van de bestuurder zitten en tussen een afstand van 250 mm boven of 150 mm onder de elbooghoogte. 
 
@@ -196,7 +196,7 @@ Ellebooghoogte: De gemiddelde ellebooghoogte is 244 mm, voor 95,5% van de bevolk
 
 Vervolgens worden deze waarden in een Siemens NX simulatie geanalyseerd. Er worden verschillende situaties bekeken, het swipepaneel wordt telkens op een andere plaats gezet, de eerste manier is op een afstand van 250 mm van het stuur en op een maximale afstand van 508mm van de schouder van de bestuurder vandaan (cirkel rond shcouder), ook wordt het op schoduerhoogte gezet (100 mm boven ellebooghoogte). Zoals te zien is op onderstaande figuur is de rechter arm hoogte buiten de comfort zone, de schouderpositie zitten juist op de rand van comfortabel, dit blijft zo voor elke verschillende positie en heeft dus niks te maken met de positie van het swipepaneel. 
 
-![image](https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/4404519c-4530-4c7d-b497-929f125680d1)
+<img width="600" alt="image" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/4404519c-4530-4c7d-b497-929f125680d1">
 
 De volgende positie is indien het swipepaneel swipepaneel op een afstand van 394 mm ten opzichte van de schouder geplaatst wordt. De andere waarden veranderen niet, hieruit blijkt dat de arm elevation een nog slechtere comfortabilieteit heeft dan bij de vorige opstelling. De andere waarden blijven ongeveer gelijk.
 
@@ -204,7 +204,7 @@ Vervolgens wordt het scherm terug op de 508 mm geplaatst t.o.v. de schouder, dez
 
 Om een swipebeweging te maken wordt het op elke positie als een comfortabele positie gezien. 
 
-![image](https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/8e0a45ee-d865-4466-b5c2-8035d5d743ae)
+<img width="600" alt="image" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/8e0a45ee-d865-4466-b5c2-8035d5d743ae">
 
 Voor het swipepaneel geldt dus dat dit het best tussen een afstand van 251 mm en 695 mm van het midden van het stuur zit. Het zit op een diepte tussen twee cirkels met een straal van 394 mm en 508 mm bekeken vanaf de schouder (middelpunt). Op een hoogte tussen 46 mm en 542mm ten opzichte van het zitvlak bevestigd zit. In het volgende deel zullen de gebruikerstesten beschreven worden.
 
@@ -222,15 +222,19 @@ Het testprotocol voor deze test staat in de bijlage.
 
 Om het ergonomisch aspect van het bedieningswiel en de andere knoppen te bepalen word eerst gekeken naar het stuur in het algemeen. Hierbij zijn er drie zones die van belang zijn, de voorkant en de rand. Op de voorkant kunnen verschillende elementen geplaatst worden zoals knoppen of touchpads. Aan de achterkant kunnen de shiftpanelen zitten of de hendels voor richtingaanwijzers of ruitenwissers. De bedieningscilinder zou dan gemonteerd worden op de rand. De hoofdfunctie van het stuur is het besturen van de auto, dit gebeurd in het xy-vlak. Aangzien het stuur gepositioneert staat in het xy-vlak zullen extra bewegingen in het xy-vlak voor extra besturingsfuncties op het stuur. Daarom zijn duw of trek bewegingen in de z-richting de voorkeur om interacties op het stuur te plaatsen, ook beeldschermen en veegbewegingen zijn best gericht in de z-richting.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/160232035/6df68a08-4f89-4739-9d77-b8f2976434cb)                    ![image](https://github.com/rensevdc/UCD_SEM1/assets/160232035/a616de61-f869-4a70-ad78-544bf44e7f44)
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/6df68a08-4f89-4739-9d77-b8f2976434cb">
+
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/a616de61-f869-4a70-ad78-544bf44e7f44">
 
 In moderne wagens wordt er veel gebruik gemaakt van knoppen op het stuur. De knoppen op het stuur bestaan meestal uit drukknopen in de Z-richting of een rollbeweging rond de x-as. Deze knoppen zorgen dat er veel functies op het stuur mogelijk zijn en maken het stuur een multifunctioneel bestuurcenter van de auto. De knoppen zullen geplaatst moeten worden zodat niet gewilde interactie vermeden word. De meeste acties op het stuur worden uitgevoerd door de duim, dit gebeurt tijdens het sturen. De andere vingers houden dan het stuur vast. De positie van de handen op het stuur zijn 10 en 2 volgens de klok. Deze positie zorgt ervoor dat bij het crashen van het voertuig de airbag de armen niet tegen het lichaam aanduwd. In het geval dat we dan een interactie uitvoeren op het stuur is de tijd die men neemt om de knop te bedienen echter korter als de knop op het stuur zit dan als de knop in het dashboard verwerkt zit. Deze interactieknoppen zouden dan ook makkelijk berijkbaar moeten zijn en als het kan blind bedienbaar zijn. Dit is simpel te bekomen door de knoppen groter te maken en een duidelijke schijding tussen de knoppen.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/160232035/ec0dd831-f80b-4bbd-8f22-da584bfc313d)
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/ec0dd831-f80b-4bbd-8f22-da584bfc313d">
 
 De achterkant van het stuur maakt gebruik van alle vingers naast de duim. Meervingerige trek acties zijn vaak gebruikt en simpel te gebruiken, deze zullen wel binnen het berijk van de vingers moeten liggen. In dit gedeelte worden meeste interacties gedaan terwijl het stuur vastgehouden wordt. Deze eigenschap wordt dan ook gedeeld met de andere zones op het stuur. Ook hier moeten de knoppen zo geplaatst worden dat deze niet gewilde interactie vermeiden. Op de rand van het stuur kan men ook enkele functies aanbrengen zoals bvb. knijp en draai bewegingen of veeg bewegingen. Hierbij worden de regels ook weer toegepast.
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/160232035/35741724-7077-4019-b271-6601478d55ba)![image](https://github.com/rensevdc/UCD_SEM1/assets/160232035/822a2c09-b479-45b2-96ed-20ce364cbd97)
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/35741724-7077-4019-b271-6601478d55ba">
+
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/822a2c09-b479-45b2-96ed-20ce364cbd97">
 
 **positionering bediencilinder**
 
@@ -242,7 +246,9 @@ Uit het vooronderzoek blijkt dat het gebruik van knoppen zeer handig is, maar oo
 
 Om de positie van de ring op het stuur te bepalen moet er bepaald worden waar de handen van de bestuurder op het stuur zelf aanwezig is en waar deze bijna nooit passeerd. Tijdens de periode van een week zullen de onderzoekers iedereen filmen waarmee men in een auto zal zitten. Hier filmen deze onderzoekers de handen en achteraf kunnen via de beelden bepaald worden waar de handen van de bestuurder zich bevinden.
 
-![Screenshot_2024-03-04-13-35-58-77_92460851df6f172a4592fca41cc2d2e6](https://github.com/rensevdc/UCD_SEM1/assets/160232035/271459b4-5844-4c85-b824-13f01644f353)![Screenshot_2024-03-04-13-36-17-95_92460851df6f172a4592fca41cc2d2e6](https://github.com/rensevdc/UCD_SEM1/assets/160232035/52255704-3116-4d55-8f03-0d21ed6376b6)
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/271459b4-5844-4c85-b824-13f01644f353">
+
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/52255704-3116-4d55-8f03-0d21ed6376b6">
 
 
 
@@ -250,9 +256,7 @@ Om de positie van de ring op het stuur te bepalen moet er bepaald worden waar de
 
 Tijdens het bekijken van de beelden hebben we enkele verschillende bestuurders bekeken en zien hierbij een vast patroon bij het rijden. De rachter hand wordt vaak van het stuur gehaald. De linker hand heeft de neiging om naar boven of beneden te glijden langs het stuur. Tijdens het draaien van de auto wordt de hand op een vaste positie geplaatst of neemt doet men de standaar draai en doorgrijpen. Tijdens de draai en grijp beweging zijn er 3 punten die vastgegrepen worden: 12u, 4u en 8u. In onderstaande figuur zijn de groene gebieden degene die het meest aangeraakt worden tijdens het rijde. Naarmate de kleur naar oranje toeneemt zijn de plaatsen die minder aangeraakt worden en de witte plaatsen worden amper aangeraakt.
 
-<img width="552" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/966f5bd0-bb0c-47d1-ab25-8f44204000fe">
-
-
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/966f5bd0-bb0c-47d1-ab25-8f44204000fe">
 
 **Conclusies & implicaties**
 
