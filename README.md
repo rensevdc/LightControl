@@ -54,7 +54,7 @@ Een groot deel van het vooronderzoek werd online uitgevoerd, er zijn al veel stu
 
 Naast online onderzoek werden er ook interviews met verschillende bestuurders gedaan. Bij deze interviews werd er gevraagd naar de functies van het dashboard die men gebruikt, de voorkeur tussen oudere dashboards en nieuwere, ect. Tijdens de interviews werd er ook een tabel gemaakt met functies, in deze tabel werd gevraagd welke functies men het meest gebruikt en welke functies het belangrijkst zijn. Aan de hand van deze tabel kunnen er functies uit de hedendaagse auto gehaald worden om de complexheid van het systeem te verminderen. Uit de interviews zelf werd geconcludeerd dat een dashboard met enkele knoppen de voorkeur krijgt op complexe dashboards. Veel moderne functies behoren wel tot de wensen van gebruiker zoals het verbinden van de gsm met de auto waarbij Spotify, handsfree bellen en vele andere functies bij komen. De geïnterviewden gaven ook nog enkel dingen aan die ze zelf gebruiken en handig vinden. De knoppen op een stuur waren een groot pluspunt, het DIU-scherm tussen het stuur was ook een toepassing die handig gevonden werd een groter mag.
 
-<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/f601ad05-5cfb-4430-8127-5bc2b1f7afb7">
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/982a12dc-e669-48f0-9237-ae1d61595fc4">
 
 **Resultaten**
 
