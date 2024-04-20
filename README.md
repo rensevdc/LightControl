@@ -145,7 +145,8 @@ De gebruikers zouden dit verkiezen in hun wagen boven de hedendaagse manier van 
 
 Ten laatste werden er design requirements opgesetld voor het dashboard waartoe volgende ontwerpen aan moeten voldoen.
 
-<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/bcab20b6-9264-4830-868c-80df155946e7">
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/bffc67b9-f40c-408e-8ab7-5432a069eac5">
+
 
 ## Anthopometrie
 
