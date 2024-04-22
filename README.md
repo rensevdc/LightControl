@@ -143,10 +143,9 @@ Er zouden ook nog meer functies bediend moeten worden zoals het wisselen van pla
 
 De gebruikers zouden dit verkiezen in hun wagen boven de hedendaagse manier van rijden indien het dezelfde prijs heeft en het nog wat verder uitgewerkt wordt. De gebruikers vinden dat ze minder afgeleid zijn van de baan en vinden het ook tof om op deze manier met de wagen te rijden.
 
-Ten laatste werden er design requirements opgesetld voor het dashboard waartoe volgende ontwerpen aan moeten voldoen.
+Ten laatste werden er design requirements opgesteld voor het dashboard waartoe volgende ontwerpen aan moeten voldoen.
 
-<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/bffc67b9-f40c-408e-8ab7-5432a069eac5">
-
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/6a2b8aad-6b5f-41d8-a044-e3c1d6c214e9">
 
 ## Anthopometrie
 
