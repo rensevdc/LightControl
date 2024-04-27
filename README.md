@@ -191,7 +191,6 @@ Schouderbreedte: De gemiddelde schouderbreedte is 438 mm, voor 95,5% van de bevo
 Ellebooghoogte: De gemiddelde ellebooghoogte is 244 mm, voor 95,5% van de bevolking in een zittende houding ligt de ellebooghouding tussen 196 en 292 mm. Het swipepaneel moet dus op een hoogte van minimaal 46 mm (196 -150 mm) en maximaal 542 mm (292 +250 mm) staan t.o.v. het zitvlak. 
 
 
-
 **Simulatie**
 
 Vervolgens worden deze waarden in een Siemens NX simulatie geanalyseerd. Er worden verschillende situaties bekeken, het swipepaneel wordt telkens op een andere plaats gezet, de eerste manier is op een afstand van 250 mm van het stuur en op een maximale afstand van 508mm van de schouder van de bestuurder vandaan (cirkel rond shcouder), ook wordt het op schoduerhoogte gezet (100 mm boven ellebooghoogte). Zoals te zien is op onderstaande figuur is de rechter arm hoogte buiten de comfort zone, de schouderpositie zitten juist op de rand van comfortabel, dit blijft zo voor elke verschillende positie en heeft dus niks te maken met de positie van het swipepaneel. 
@@ -280,12 +279,14 @@ De bedieningsring ligt op een hoek van 45° aan de rechterbovenkant ten opzichte
 
 De doelstelling van dit deelonderzoek is om de gebruiksvriendelijkheid en UX aspecten van het prototype in diepgang te bekijken. Aan de hand van experttesten (N=2) en gebruikerstesten (N=4) zal dit aspect van het dashboard verbeterd worden.
 
+**Expert testen (N=2)**
+
 **Materiaal en methoden**
 
 Om de expert en gebruikerstesten tot een goed eind te laten komen zijn er nieuwe prototypes nodig die meer focussen op de UX aspecten van het dashboard zoals de bediening van functies met het bediencilinder, de connectie tussen de functies en de lichtsignalen en de werking van het swipepaneel. Aan de hand van Arduino en Protopie wordt er een systeem ontwerpen waarbij er op een gsm geswiped wordt om een display aan te sturen. Indien er op de gsm geswiped wordt kan het display tussen drie situaties wisselen (Spotify (groen), Klimaatregeling (rood) en temperatuurregeling (blauw)). Voor het onderdeel van spotify kan via een potentiometer het volume van afspelende muziek aangepast worden. Voor de klimaatregeling kan er tussen vier verschillende bedieningen verwisseld worden met de potentiometer. Om de temperatuur kan ook veranderen door aan de potentiometer te draaien. 
 In totaal worden er twee experttesten en vier gebruikerstesten gedaan. Voor al deze testen werd er een deel via The Wizzard of Ozz testing gewerkt en een deel via een echt werkende display en swipepaneel. 
 
-https://ugentbe-my.sharepoint.com/:v:/r/personal/rense_vandecasteele_ugent_be/Documents/2%20IO/Gebruiksgericht%20ontwerpen/test_display_1.mp4?csf=1&web=1&e=6Ev8QQ
+*Werking eerste prototype interface*: https://ugentbe-my.sharepoint.com/:v:/r/personal/rense_vandecasteele_ugent_be/Documents/2%20IO/Gebruiksgericht%20ontwerpen/test_display_1.mp4?csf=1&web=1&e=6Ev8QQ
 
 Protocol expertesten: https://acrobat.adobe.com/id/urn:aaid:sc:EU:c72a1823-73fa-4b4a-86d1-fe6bce3dae5b
 
@@ -293,11 +294,58 @@ Protocol expertesten: https://acrobat.adobe.com/id/urn:aaid:sc:EU:c72a1823-73fa-
 
 Uit eerste experttesten bleek dat het display te aanlokkelijk is om naar te kijken tijden het rijden. De kleurenfuncties krijgen niet de bovenhand waardoor er weer extra afleiding is. Het systeem om funties met de cilinderbediening te manipuleren wordt als zeer goed ervaren. Het is makkelijk in gebruik en zit niet in de weg. In het begin was het niet duidelijk wat de bedoeling van het swipepaneel was maar één van de expert zei: 'Als je weet dat het swipepaneel dient om de functies te manipuleren is het wel intuïtief'. 
 
+Bediening Spotify:
+
+Bediening temperatuurregeling:
+
+Bediening klimaatmenu:
+
+Swipepaneel:
+
+Bedienring:
+
+Layout:
+
+Lichtfeedback:
+
+Afleiding:
+
 **Conclusies & implicaties**
 
 De conclusies uit de expert testen zijn dat het display beter afgewerkt moet zijn en dat het ook minder afleidend moet gemaakt worden. De bediening via het swipepaneel en de bediencilinder zijn al goed uitgewerkt en makkelijk in gebruik.
 
+**Gebruikerstesten (N=4)**
+
+**Materialen en methoden**
+
+Voor de gebruikerstesten wordt het eerste prototype aangepast met de feedback uit het eerste prototype. De aanpassingen die gemaakt worden zijn betere iconen op het klimaatmenu, een cijferwaarde voor de temperatuurregeling, een intensiteitsregeling voor airco, voorruit of achterruitregeling. Ook worden er twee knoppen toegevoegd om extra functies beter te kunnen bedienen. Er zijn extra animaties en overgangen tussen de verschillende displays. De methode die toegepast wordt om deze testen te doen is concepttesting met een diepgaand interview achterna.
+
+Het protoype is hetzelfde opgebouwd zoals het eerste prototype maar met twee extra knoppen en een ander interface. 
+
+**Resultaten**
+
+Bediening Spotify:
+
+Bediening temperatuurregeling:
+
+Bediening klimaatmenu:
+
+Knoppen:
+
+Swipepaneel:
+
+Bedienring:
+
+Layout:
+
+Lichtfeedback:
+
+Afleiding:
+
+**Conclusies & implicaties**
+
 **Kritische reflectie**
+
 ## Bronnen
 
 Beeckman, H. (2021) Aanraakschermen in je auto bedienen drie keer gevaarlijker dan rijden onder invloed: "Europese regels nodig". VRT-nieuws. https://www.vrt.be/vrtnws/nl/2021/03/11/aanraakschermen-in-je-auto-bedienen-drie-keer-gevaarlijker-dan-r/
