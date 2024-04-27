@@ -369,7 +369,11 @@ Doordat de interface alleen de nodige info toont vinden de gerbuikers dit veel m
 
 **Conclusies & implicaties**
 
-![image](https://github.com/rensevdc/UCD_SEM1/assets/155004668/b4286fd4-40b2-4a93-8d2b-767b27e4969d)
+De belangerijkste conclusies zijn dat het dashboard wel degelijk werkt. Uit de testen blijkt dat gebruikers dit graag gebruiken en dat het een veel minder complexe werking heeft dan hedendaagse dashboards. 
+DE interface is duidelijk opgebouw maar bevat nog een paar fouten en bugs. De knoppen moeten beter werken en zouden ook een icoon mogen hebben zodat het duidelijk is waarvoor deze dienen. Over het algemeen zou de layout van het dashboard wat mooier mogen zijn. Er kunnen nog wat meer animaties bijkomen en een minder opvallend kleurengebruik zodat de focus meer ligt op de LEDstrip. 
+De bediening wordt duidelijk door de potentiometer en het swipepaneel. De gebruikers vinden dit een aangename en zelf toffe manier om functies aan te passen. Wel ontbreken er nog een paar functies zoals telefoongesprekken, cruisecontrol en contacten. De bedienring zou een kliksysteem kunnen hebben zodat er teruggevallen kan worden op standaardtusseninstellingen. 
+Om minder afgeleid te zijn zou het beter zijn moest het display uitvallen na vijf seconden als er geen functie bediend wordt. Ook zou het display wat kleiner mogen zijn zodat het wat minder opvalt en ook weer de LEDstrip de bovenhand kan nemen.  Bij de elke interface is er vaak nog een extra bevesteging nodig die aangeeft indier er een functie aangepast werd. 
+De gebruikers zouden dit dashbaord in hun auto willen gebruiken en het zelf vooropnemen omdat het veel veiliger is dan ingewikkelde touchscreens om te complexe knoppen. Ook zouden ze dit aanraden bij andere bestuurders indien het volledig uitgewerkt is.
 
 
 **Kritische reflectie**
