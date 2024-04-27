@@ -236,13 +236,7 @@ De achterkant van het stuur maakt gebruik van alle vingers naast de duim. Meervi
 
 <img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/822a2c09-b479-45b2-96ed-20ce364cbd97">
 
-**positionering bediencilinder**
-
-**Reflectering onderzoek**
-
-Uit het vooronderzoek blijkt dat het gebruik van knoppen zeer handig is, maar ook dat op de rand van het stuur zelf ook functies kunnen bestuurd worden. De keuze ligt bij een ring die een draai en knijp beweging gebruikt om zo bepaalde instellingen aan te passen. De positie van deze ring zal ook zeer belangrijk zijn. Deze zal bepalen of er niet gewenste interacties zijn of niet. Hiervoor word er een onderzoek gedaan.
-
-**Testopstelling**
+**Fielresearch**
 
 Om de positie van de ring op het stuur te bepalen moet er bepaald worden waar de handen van de bestuurder op het stuur zelf aanwezig is en waar deze bijna nooit passeerd. Tijdens de periode van een week zullen de onderzoekers iedereen filmen waarmee men in een auto zal zitten. Hier filmen deze onderzoekers de handen en achteraf kunnen via de beelden bepaald worden waar de handen van de bestuurder zich bevinden.
 
@@ -256,7 +250,29 @@ Tijdens het bekijken van de beelden hebben we enkele verschillende bestuurders b
 
 <img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/966f5bd0-bb0c-47d1-ab25-8f44204000fe">
 
+**Gebruikerstesten (N=4)**
+
+Het voorgaande ergonomische onderzoek wordt ook nog eens getest met gebruikers. Het concept wordt weer in twee delen opgesplitst: het swipepaneel en het bedieningscilinder. De bedoeling van deze testen is om na te gaan of afstanden van het voorgaand onderzoek ook kloppen in de praktijk. 
+Het prototype waarvan gebruik gemaakt wordt bestaat uit een kartonnen plaat die in de wagen geplaatsts wordt waarop er negen verdelingen staan die telkens een apparte locatie van het swipepaneel moeten aanduiden. De bedoeling is dat de gebruiker over elke positie swiped en aangeeft of dit comfortabel aanvoelt of niet. Deze waarden worden vervolgens gemapped waardoor de ideale positie gevonden wordt. Voor het bedieningscilinder wordt er op het stuur vier mogelijke locaties afgeplats met schilderstape. De gerbuiker moet ook hier aangeven op welke positie deze het bedieningscilinder het comfortableste kan bedienen. Hieronder is de schematische en de praktische uitvoering van deze test te zien. 
+
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/5b673fa3-b226-4b89-a94f-64fb850188aa">
+
+Uit deze testen bleek voor het swipepaneel dat de meest comfortabele plaats tussen 1 en 2 ligt. Dit geldt voor elke gebruiker die gestets is geweest. Deze positie wordt gekozen omdat het dicht bij het stuur zit en de gebruikers niet teveel moet bewegen met hun arm om de functies te kunnen bedienen. Ook staat het paneel op die positie niet te hoog of te laag ten opzichte van het stuur. 
+Na metingen blijkt dat het swipepaneeltussen 100 en 250 mm van de rechterkantvan het stuur moet geplaatst worden, op een hoogte tussen 370 en 420 mm ten opzichte van de basis van de versnellingspook. Op een afstand tussen de 400 en 600 mm van de rechterschouder van de bestuurder zit.
+
+Uit de testen van het bedieningscilinder blijkt dat de beste positie voor elke gebruiker op de rechterbovenkant van het stuur plaatsvind. Deze test werd uitgevoerd met zowel links als rechtshandige gebruikers. Dit wordt als de beste positie aanvaard omdat de gerbuikers meteen na het swipen de bedieningsring kunnen manipuleren met diezelfde hand. Nadien wordt de positie op het stuur gemeten en deze ligt op een hoek van 45° tegen de klok in ten opzichte van het midden van het stuur. 
+
+**Reflectering onderzoek**
+
+De waarden uit de gebruikerstesten worden vergeleken met de waarden uit het voorgaande onderzoek: Tussen de 61 en 505 mm van de rechterkant van het stuur. De waarde uit de test ligt tussen dit interval en geeft een meer specifieke waarde (100-250mm). De hoogte ligt tussen de 46 en 542 mm ten opzichte van de basis van de versnellingspook. De waarde uit de testen ligt ook nu weer tussen dit interval (370-420 mm). Ook nu wordt er een beter interval gevonden. Het swipepaneel moet zich tussen de 394 en 508 mm van de rechterschouder van de gerbuiker plaatsvinden. De gesteste waarde ligt ook binnen dit interval (400-600 mm). 
+
+Voor de bedieningsring blijkt dat de beste positie op een hoek van 45° ten opzicht van het midden van het stuur ligt. Indien deze waarde vergeleken wordt met de fieldresearch dan blijkt dat deze positie dicht bij een plaats op het stuur ligt waar de hand van de bestuurder het vaakst komt tijdens het rijden. Hierdoor kan de funtie makkelijk bediend worden zonder dat de bestuurder zijn hand moet verleggen op het stuur. Ook was de opmerking van één gebruiker dat dit ook het tien voor twee rijgedrag bevorderd wat wel een goeie aanwinst is. 
+
 **Conclusies & implicaties**
+
+Uit het onderzoek en de gebruikerstesten valt te concluderen dat het swipepaneel op een postie tussen de 100 en 250 mm van de rechterkant van het stuur ligt. Op een positie tussen de 370 en 420 mm van de basis van de versnellingspook ligt. En op een positie tussen de 400 en 600 mm ten opzichte van de rechterschouder van de bestuurder ligt. 
+
+De bedieningsring ligt op een hoek van 45° aan de rechterbovenkant ten opzichte van het midden van het stuur. 
 
 ## Human Mind
 
