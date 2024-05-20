@@ -427,7 +427,7 @@ De bediening wordt duidelijk door de potentiometer en het swipepaneel. De gebrui
 Om minder afgeleid te zijn zou het beter zijn moest het display uitvallen na vijf seconden als er geen functie bediend wordt. Ook zou het display wat kleiner mogen zijn zodat het wat minder opvalt en ook weer de LEDstrip de bovenhand kan nemen.  Bij de elke interface is er vaak nog een extra bevesteging nodig die aangeeft indier er een functie aangepast werd. 
 De gebruikers zouden dit dashbaord in hun auto willen gebruiken en het zelf vooropnemen omdat het veel veiliger is dan ingewikkelde touchscreens om te complexe knoppen. Ook zouden ze dit aanraden bij andere bestuurders indien het volledig uitgewerkt is.
 
-**Interaction-design**
+## Interaction-design
 
 **Meterialen en methoden**
 
@@ -435,7 +435,7 @@ De gebruikers zouden dit dashbaord in hun auto willen gebruiken en het zelf voor
 
 **Conclusies en implicaties**
 
-**Kritische reflectie**
+## Kritische reflectie
 
 ## Bronnen
 
