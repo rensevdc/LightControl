@@ -13,7 +13,7 @@ Een oplossing die de afleiding in de wagen kan verminderen is om te werken via e
 
 Door gebruik te maken van maar twee onderdelen en geen touchscreens wordt de afleiding in de wagen verminderd, de bestuurder moet minder denken welke knoppen er moeten ingedrukt worden om een functie te bedienen en alles info staat in het zicht van de bestuurder.
 
-<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/b2dcd549-1412-4568-902f-9afe4e874f5a">
+<img width="1280" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/b2dcd549-1412-4568-902f-9afe4e874f5a">
 
 
 
