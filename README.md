@@ -288,7 +288,7 @@ In totaal worden er twee experttesten en vier gebruikerstesten gedaan. Voor al d
 
 *Werking eerste prototype interface*: https://ugentbe-my.sharepoint.com/:v:/r/personal/rense_vandecasteele_ugent_be/Documents/2%20IO/Gebruiksgericht%20ontwerpen/test_display_1.mp4?csf=1&web=1&e=6Ev8QQ
 
-Protocol expertesten: https://acrobat.adobe.com/id/urn:aaid:sc:EU:c72a1823-73fa-4b4a-86d1-fe6bce3dae5b
+Protocol expertesten (met 10 heuristieken): https://acrobat.adobe.com/id/urn:aaid:sc:EU:e2d8e9e2-8357-4fb2-a962-19639df5569f
 
 **Resultaten**
 
@@ -296,19 +296,39 @@ Uit eerste experttesten bleek dat het display te aanlokkelijk is om naar te kijk
 
 Bediening Spotify:
 
+Voor de bediening van Spotify blijkt dat de onderste situatie beter aanvaard wordt. Beide experts vinden deze meer herkenbaar dan de nieuwe bovenste bediening. Om de bovenste beter te maken zou de betekenis van de bollen (het wisselen van playslist) beter moeten aangegeven zijn. Het aangeven van een schaal die het volume voorsteld wordt als goed ondervonden. 
+
 Bediening temperatuurregeling:
+
+De experts vinden dat het beter is om een getalwaarde af te lezen voor de tempereatuur, zo weten ze exacter hoe warm het is in de wagen. De layout van de eerste bediening vinden ze dan wel beter dan degene met de cijfers. Voor de rest is de werking van deze functie duidelijk genoeg.
 
 Bediening klimaatmenu:
 
+Hierbij vindt de ene expert de bovenste en de andere expert de onderste bediening beter. De bovenste wordt beter ondervonden doordat het duidelijker is met de rode pijl op welke functie ze juist staan. Het zou wel beter zijn mocht de layout hiervan wat meer diepgang krijgen. De onderste bediening wordt dan aan de andere kant beter ondervonden doordat het overzichtelijker is. De nieuwe iconenen voor de voor en achterruitontdooing zijn nog wat ingewikkeld. De rest van de werking is duidelijk en geeft een meerwaarde aan de wagen.
+
+Ook bij het aangeven van de intensiteit van de airco/voor of achterruit verwarming is er een meningsverschil tussen de experts. De bediening links wordt goed ervaren doordat de intensiteit niet echt een waarde nodig heeft en de bediening recht wordt beter ervaren juist doordat er wel een getalwaarde staat. Uit verdere testen zal moeten blijken welke van de twee bij andere gebruikers als beste ondervonden wordt. 
+
+Voor de zetelverwarmingsintensiteit vinden bijde experts de bediening met drie grote balken de beste omdat de zetelverwarming vaak niet met een exacte waarde maar met een standensysteem werkt. 
+
 Swipepaneel:
+
+Het swipen wordt als natuurlijk ondervonden en de experts vinden het een goeie manier om de hoofdfuncties te bedienen. Het wordt zelf als leuk ervaren en geeft dus een meerwaarde aan de ueser experience. De experts gebruiken telkens een beweging van links naar recht of omgekeerd omdat dit het meest natuurlijk aanvoeld. Deze werking kan dus verder ingebouwd worden in een sensor of nieuw prototype. 
 
 Bedienring:
 
+Het verder instellen van de subfunties met een bedienring vinden de experten ook goed en leuk om te gebruiken. Ze vinden ook dat het een veiliger gevoel geeft doordat hun handen op het stuur blijven staan. Indien dit echt zou werken (momenteel met wizzard of Oz testing) zou dit een zeer goeie functie zijn in de wagen. 
+
 Layout:
+
+De layout zou nog beter kunnen maar ze vinden het beide niet slecht. 
 
 Lichtfeedback:
 
+Door een sober interface nemen de kleuren van de LEDstrip meer de bovenhand. Het wordt rap duidelijk op welke functie de experten zich begeven voordat ze op het display kijken. Het zou goed zijn mochten de lichten niet volledig uitslaan indien de bediencilinder (potentiometer) naar beneden gedraaid wordt. 
+
 Afleiding:
+
+Over het algemeen vinden de experts dat er minder afleiding achter het stuur is. De interface wordt momenteel tamelijk groot afgebeeld waardoor het ook wel opvalt. Indien dit ingewerkt zou zitten in een HUD systeem of indien het op de voorruit geprojecteerd zou worden, denken de experts wel dat het veel minder afleiding zou geven dan hedendaagse dashboards. 
 
 **Conclusies & implicaties**
 
