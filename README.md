@@ -117,7 +117,7 @@ De eerste opstelling is gelijkaardig aan de het vorige swipe paneel. De bedoelin
 
 De tweede opstelling is wanneer het paneel rechtstaat en de gebruiker van boven naar beneden of visa versa moet bewegen met een hand. Ook weer hier veranderen de kleuren als er een nieuwe functie bekomen is. De cilinder wordt ook hier gebruikt om de sub functie te bedienen. *‘Deze houding komt minder natuurlijk over dan de voorgaande swipebeweging.’*.
 
-<img width="1280" alt="image" src="(https://github.com/rensevdc/UCD_SEM1/assets/155004668/fe7f465a-b858-46f3-998c-1faf4df89a45">
+<img width="1280" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/fe7f465a-b858-46f3-998c-1faf4df89a45">
 
 De laatste opstelling is wanneer de gebruiker van links naar recht moet swipen met een hand. Ook weer hier wordt er gebruik gemaakt van kleuren die de hoofdfunctie aanduiden. Maar in de plaats van een cilinder op het stuur wordt een draaiknop gebruikt om de secundaire functies te bedienen. Hierbij wordt er toch nog eens nagegaan of de gebruikers deze manier van werken niet beter vinden dan met de cilinder op het stuur. Hieruit bleek dat het werken via de cilinder aan het stuur een betere optie was dan een aparte draaiknop. Dit kwam doordat de gebruiker zich meer kon focussen op de baan indien de handen aan het stuur waren. *‘Met de draaiknop voel ik me minder gefocussed op de baan, ik moet ook weer mijn arm weg van het stuur bewegen.’*.
 
@@ -156,10 +156,6 @@ Er zouden ook nog meer functies bediend moeten worden zoals het wisselen van pla
 
 De gebruikers zouden dit verkiezen in hun wagen boven de hedendaagse manier van rijden indien het dezelfde prijs heeft en het nog wat verder uitgewerkt wordt. De gebruikers vinden dat ze minder afgeleid zijn van de baan en vinden het ook tof om op deze manier met de wagen te rijden.
 
-Ten laatste werden er design requirements opgesteld voor het dashboard waartoe volgende ontwerpen aan moeten voldoen.
-
-<img width="1280" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/6a2b8aad-6b5f-41d8-a044-e3c1d6c214e9">
-
 ## Anthopometrie
 
 **Doelstellingen**
@@ -186,6 +182,7 @@ Het eerste aspect dat bekeken wordt voor het swipepaneel is hoe ver het gemontee
 Een volgend ascpect is te bepalen hoe diep het paneel moet wegzitten in het dashboard. 
 
 <img width="1280" alt="image" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/6eaba38c-1336-4648-9423-11f3994a7f10">
+<img class="image-align-left" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/6eaba38c-1336-4648-9423-11f3994a7f10"/><img class="image-align-left" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/98b7f8ab-325a-456e-bf75-417ddaa0cffc"/>
 
 Ook hiervoor wordt er naar onderstaande figuur verwezen. De beste hoogte om het display te bedienen is op elbooghoogte. Dit komt meestal overeen met een hoogte tussen de 150 mm onder elbooghoogte en 250 mm boven elbooghoogte. De diepte van het dashboard (x-as) wordt kleiner naarmate het display hoger of lager komt te staan. Zo is op elbooghoogte deze nog maximaal 50cm ten opzichte van de borst. Indien de hand op 250 mm boven de elbooghoogte geposistioneerd is wordt de diepte maximaal 600 mm. En ten laatste wanneer de hand zich op 150mm onder de elbooghoogte bevind is de maximale diepte 400 mm van de borst af. (Blumstengel, 2019)[^5]
 
