@@ -295,18 +295,28 @@ Protocol expertesten (met 10 heuristieken): https://acrobat.adobe.com/id/urn:aai
 *Bediening Spotify:* 
 Voor de bediening van Spotify blijkt dat de onderste situatie beter aanvaard wordt. Beide experts vinden deze meer herkenbaar dan de nieuwe bovenste bediening. Om de bovenste beter te maken zou de betekenis van de bollen (het wisselen van playslist) beter moeten aangegeven zijn. Het aangeven van een schaal die het volume voorsteld wordt als goed ondervonden. 
 
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/c903b55b-ee37-4de3-ad0e-1bf97365f2e2">
+
 *Bediening temperatuurregeling:* 
 De experts vinden dat het beter is om een getalwaarde af te lezen voor de tempereatuur, zo weten ze exacter hoe warm het is in de wagen. De layout van de eerste bediening vinden ze dan wel beter dan degene met de cijfers. Voor de rest is de werking van deze functie duidelijk genoeg.
+
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/cb42de9b-68e9-4b14-8662-f442cf037c38">
 
 *Bediening klimaatmenu:* 
 Hierbij vindt de ene expert de bovenste en de andere expert de onderste bediening beter. De bovenste wordt beter ondervonden doordat het duidelijker is met de rode pijl op welke functie ze juist staan. Het zou wel beter zijn mocht de layout hiervan wat meer diepgang krijgen. De onderste bediening wordt dan aan de andere kant beter ondervonden doordat het overzichtelijker is. De nieuwe iconenen voor de voor en achterruitontdooing zijn nog wat ingewikkeld. De rest van de werking is duidelijk en geeft een meerwaarde aan de wagen.
 
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/66156fdc-433c-43c7-8f77-9c4bdb8e7804">
+
 Ook bij het aangeven van de intensiteit van de airco/voor of achterruit verwarming is er een meningsverschil tussen de experts. De bediening links wordt goed ervaren doordat de intensiteit niet echt een waarde nodig heeft en de bediening recht wordt beter ervaren juist doordat er wel een getalwaarde staat. Uit verdere testen zal moeten blijken welke van de twee bij andere gebruikers als beste ondervonden wordt. 
+
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/6f34e32c-83a7-4079-a37b-fa334c6f5141">
 
 Voor de zetelverwarmingsintensiteit vinden bijde experts de bediening met drie grote balken de beste omdat de zetelverwarming vaak niet met een exacte waarde maar met een standensysteem werkt. 
 
+<img width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/c1f5b67c-604e-45f1-8d22-b997e34225f3">
+
 *Swipepaneel:*
-Het swipen wordt als natuurlijk ondervonden en de experts vinden het een goeie manier om de hoofdfuncties te bedienen. Het wordt zelf als leuk ervaren en geeft dus een meerwaarde aan de ueser experience. De experts gebruiken telkens een beweging van links naar recht of omgekeerd omdat dit het meest natuurlijk aanvoeld. Deze werking kan dus verder ingebouwd worden in een sensor of nieuw prototype. 
+Het swipen wordt als natuurlijk ondervonden en de experts vinden het een goeie manier om de hoofdfuncties te bedienen. Het wordt zelf als leuk ervaren en geeft dus een meerwaarde aan de ueser experience. De experts gebruiken telkens een beweging van links naar recht of omgekeerd omdat dit het meest natuurlijk aanvoeld. Deze werking kan dus verder ingebouwd worden in een sensor of nieuw prototype.
 
 *Bedienring:*
 Het verder instellen van de subfunties met een bedienring vinden de experten ook goed en leuk om te gebruiken. Ze vinden ook dat het een veiliger gevoel geeft doordat hun handen op het stuur blijven staan. Indien dit echt zou werken (momenteel met wizzard of Oz testing) zou dit een zeer goeie functie zijn in de wagen. 
