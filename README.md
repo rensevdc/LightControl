@@ -65,6 +65,11 @@ Mogelijke technologiën die gebruikt kunnen worden zijn AR-technologie om de nav
 **Conclusies & implicaties**
 
 Uit het vooronderzoek is het duidelijk geworden aan welke aspecten het dashboard moet voldoen. Het belangrijkste aspect is veiligheid, de bestuurder moet veilig het dashboard kunnen bedienen en moet zo weinig mogelijk zijn ogen van de baan afhalen. Het is ook duidelijk dat er veel verschillende functies moeten bediend worden, er zal dus een manier moeten gezocht worden om al deze functies te kunnen bedienen zonder een scherm of te veel ingewikkelde knoppen. Natuurlijk moet het dashboard ook nog in de wagen passen en moet deze een mooi afgewerkte look krijgen.
+> [!NOTE]
+> Designrequirements
+> - De bestuurder mag niet afgeleid zijn van de weg
+> - De belangrijkste functies moeten bedienbaar zijn met het dashboard
+> - Er mogen geen overbodige schermen gebruikt worden
 
 ## Definition
 
@@ -121,6 +126,14 @@ De laatste opstelling is wanneer de gebruiker van links naar recht moet swipen m
 **Conclusies & implicaties**
 
 Voor volgende prototypes zal er verder gewerkt worden met het swipe-paneel aangezien deze als beste beschouwd werd door de gebruikers. Het blijkt dat het swipen van links naar recht beter aanvoelt dan van boven naar onder toe. Ook wordt het bedienen van de secundaire functies liever gedaan via een cilinder aan het stuur dan met een aparte draaiknop. Het zal beter geïntegreerd worden in het dashboard en ook zal er een interface gemaakt worden die samengaat met de kleuren van de functies. Het kleurgebruik zal op meerdere plaatsten terugkomen en ook zal dit beter geïntegreerd worden in het dashboard. 
+
+> [!NOTE]
+> Designrequirements
+> - Hoofdfuncties moeten in minder dan 3 seconden bediend worden
+> - Subfuncties moeten in minder dan 5 sec bediend worden
+> - De LEDstrip moet ook zichtbaar zijn overdag
+> - De bedienring moet ingebouwd zijn in het stuur
+> - Het dashboard mag niet complex zijn
 
 **Bill of materials**
 
@@ -273,6 +286,14 @@ Uit het onderzoek en de gebruikerstesten valt te concluderen dat het swipepaneel
 
 De bedieningsring ligt op een hoek van 45° aan de rechterbovenkant ten opzichte van het midden van het stuur. 
 
+> [!NOTE]
+> Designrequirements
+> - Het swipepaneel zit tussen de 100 en 250 mm van de rechterkant van het stuur
+> - Het swipepaneel zit op een hoogte tussen de 370 en 420 mm van de basis van de versnellingspook
+> - Het swipepaneel zit tussen de 400 en 600 mm ten opzichte van de rechterschouder van de bestuurder
+> - De bedienring zit op een hoek van 45° ten opzichte van het midden van het stuur
+> - Het dashboard moet bedienbaar zijn voor 95% van de populatie
+
 ## Human Mind
 
 **Doelstellingen**
@@ -368,6 +389,16 @@ DE experts vinden het niet nodig om vooraf dingen te moeten leren om het systeem
 
 De conclusies uit de expert testen zijn dat het display beter afgewerkt moet zijn en dat het ook minder afleidend moet gemaakt worden. De interface zit al goed in elkaar om functies te bedienen maar er moeten nog een paar kriteria voldaan worden vooraleer het perfect is. De bediening via het swipepaneel en de bediencilinder zijn al goed uitgewerkt en makkelijk in gebruik. Er is al een goeie user experience bij deze interface maar alles zou moeten geïntegreerd moeten zijn om een volledige gebruikservaring te kunnen beleven. 
 
+> [!NOTE]
+> Designrequirements
+> - De interface heeft een aantrekkelijke layout
+> - De interface is makkelijk te bedienen
+> - Alle functies op de interface zijn duidelijk
+> - De interface mag niet voor extra afleiding zorgen
+> - De interface moet uitvallen na 5 seconden niet gebruikt te zijn
+> - Er zijn knoppen nodig om extra functies te bedienen
+> - Er zijn cijferwaardes nodig voor temperatuurinstellingen
+
 **Gebruikerstesten (N=4)**
 
 **Materialen en methoden**
@@ -429,6 +460,13 @@ De bediening wordt duidelijk door de potentiometer en het swipepaneel. De gebrui
 Om minder afgeleid te zijn zou het beter zijn moest het display uitvallen na vijf seconden als er geen functie bediend wordt. Ook zou het display wat kleiner mogen zijn zodat het wat minder opvalt en ook weer de LEDstrip de bovenhand kan nemen.  Bij de elke interface is er vaak nog een extra bevesteging nodig die aangeeft indier er een functie aangepast werd. 
 De gebruikers zouden dit dashbaord in hun auto willen gebruiken en het zelf vooropnemen omdat het veel veiliger is dan ingewikkelde touchscreens om te complexe knoppen. Ook zouden ze dit aanraden bij andere bestuurders indien het volledig uitgewerkt is.
 
+> [!NOTE]
+> Designrequirements
+> - De interface moet neutraal zijn
+> - Er is extra feedback nodig bij het aanpassen van een functie
+> - Het dashboard is energiezuinig
+> - De interface mag een paar animaties hebben
+
 ## Interaction-design
 
 **Meterialen en methoden**
@@ -436,6 +474,14 @@ De gebruikers zouden dit dashbaord in hun auto willen gebruiken en het zelf voor
 **Resulataten**
 
 **Conclusies en implicaties**
+
+## Design  requirements
+
+| ID | Design Requirement | Bron |
+| --- | --- | --- |
+| Deel 1 | Swipepaneel |
+| 1.1 | Het swipepaneel zit op een afstand tussen de  |
+| git diff | Show file differences that haven't been staged |
 
 ## Kritische reflectie
 
