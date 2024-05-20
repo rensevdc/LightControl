@@ -281,6 +281,8 @@ De doelstelling van dit deelonderzoek is om de gebruiksvriendelijkheid en UX asp
 
 **Expert testen (N=2)**
 
+Tijdens dit project zijn er twee expert testen uitgevoerd voor het dashboard interface, hieronder wordt de tweede experttest verwerkt aangezien deze veel meer feedback geeft over de werking van de interface aan de hand van de 10 heuristieken. De eerste experttesten gaven een soortgelijke uitkomst met de usertesten van het eerste interface. Hierbij werd er aangeraden om nog knoppen toe te voegen en een betere uitwerking te doen van de interface. De user testen gingen over het eerste design van de interface.
+
 **Materiaal en methoden**
 
 Om de expert en gebruikerstesten tot een goed eind te laten komen zijn er nieuwe prototypes nodig die meer focussen op de UX aspecten van het dashboard zoals de bediening van functies met het bediencilinder, de connectie tussen de functies en de lichtsignalen en de werking van het swipepaneel. Aan de hand van Arduino en Protopie wordt er een systeem ontwerpen waarbij er op een gsm geswiped wordt om een display aan te sturen. Indien er op de gsm geswiped wordt kan het display tussen drie situaties wisselen (Spotify (groen), Klimaatregeling (rood) en temperatuurregeling (blauw)). Voor het onderdeel van spotify kan via een potentiometer het volume van afspelende muziek aangepast worden. Voor de klimaatregeling kan er tussen vier verschillende bedieningen verwisseld worden met de potentiometer. Om de temperatuur kan ook veranderen door aan de potentiometer te draaien. 
