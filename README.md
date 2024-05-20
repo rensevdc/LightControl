@@ -180,18 +180,13 @@ De designmethode die zal worden gebuikt is: Design for adjustable (aangezien de 
 
 Het eerste aspect dat bekeken wordt voor het swipepaneel is hoe ver het gemonteerd moet zijn t.o.v. de bestuurder. Zoals in onderstaande figuur te zien is, zou het swipepaneel best in een cirkel met een straal tussen de 394 en 508 mm komen te staan waarbij het middelpunt de rechterscouder van de bestuurder is en het eindpunte de hand van de bestuurder. (Zhanfeng, 2018)[^4] 
 Een volgend ascpect is te bepalen hoe diep het paneel moet wegzitten in het dashboard. 
+Ook hiervoor wordt er naar onderstaande figuur verwezen. De beste hoogte om het display te bedienen is op elbooghoogte. Dit komt meestal overeen met een hoogte tussen de 150 mm onder elbooghoogte en 250 mm boven elbooghoogte. De diepte van het dashboard (x-as) wordt kleiner naarmate het display hoger of lager komt te staan. Zo is op elbooghoogte deze nog maximaal 50cm ten opzichte van de borst. Indien de hand op 250 mm boven de elbooghoogte geposistioneerd is wordt de diepte maximaal 600 mm. En ten laatste wanneer de hand zich op 150mm onder de elbooghoogte bevind is de maximale diepte 400 mm van de borst af. (Blumstengel, 2019)[^5]
 
-<img width="1280" alt="image" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/6eaba38c-1336-4648-9423-11f3994a7f10">
 <p float="left">
   <img align="top" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/6eaba38c-1336-4648-9423-11f3994a7f10" width="500" />
   <img align="top" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/98b7f8ab-325a-456e-bf75-417ddaa0cffc" width="500" />
 </p>
 
-Ook hiervoor wordt er naar onderstaande figuur verwezen. De beste hoogte om het display te bedienen is op elbooghoogte. Dit komt meestal overeen met een hoogte tussen de 150 mm onder elbooghoogte en 250 mm boven elbooghoogte. De diepte van het dashboard (x-as) wordt kleiner naarmate het display hoger of lager komt te staan. Zo is op elbooghoogte deze nog maximaal 50cm ten opzichte van de borst. Indien de hand op 250 mm boven de elbooghoogte geposistioneerd is wordt de diepte maximaal 600 mm. En ten laatste wanneer de hand zich op 150mm onder de elbooghoogte bevind is de maximale diepte 400 mm van de borst af. (Blumstengel, 2019)[^5]
-
-<img width="1280" alt="image" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/98b7f8ab-325a-456e-bf75-417ddaa0cffc">
-
-Vervolgens kunnen er designrequirements opgesteld worden. Het swipepaneel tussen een afstand van 394 en 508 mm van de schouder van de bestuurder zitten en tussen een afstand van 250 mm boven of 150 mm onder de elbooghoogte. 
 
 **Standaardderivaties en percentielen**
 
