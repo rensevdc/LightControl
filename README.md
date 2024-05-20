@@ -184,7 +184,6 @@ Een volgend ascpect is te bepalen hoe diep het paneel moet wegzitten in het dash
 <img width="1280" alt="image" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/6eaba38c-1336-4648-9423-11f3994a7f10">
 <p align="center">
   <img alt="Light" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/6eaba38c-1336-4648-9423-11f3994a7f10" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/98b7f8ab-325a-456e-bf75-417ddaa0cffc" width="45%">
 </p>
 
