@@ -292,47 +292,69 @@ Protocol expertesten (met 10 heuristieken): https://acrobat.adobe.com/id/urn:aai
 
 **Resultaten**
 
-Uit eerste experttesten bleek dat het display te aanlokkelijk is om naar te kijken tijden het rijden. De kleurenfuncties krijgen niet de bovenhand waardoor er weer extra afleiding is. Het systeem om funties met de cilinderbediening te manipuleren wordt als zeer goed ervaren. Het is makkelijk in gebruik en zit niet in de weg. In het begin was het niet duidelijk wat de bedoeling van het swipepaneel was maar één van de expert zei: 'Als je weet dat het swipepaneel dient om de functies te manipuleren is het wel intuïtief'. 
-
-Bediening Spotify:
-
+*Bediening Spotify:* 
 Voor de bediening van Spotify blijkt dat de onderste situatie beter aanvaard wordt. Beide experts vinden deze meer herkenbaar dan de nieuwe bovenste bediening. Om de bovenste beter te maken zou de betekenis van de bollen (het wisselen van playslist) beter moeten aangegeven zijn. Het aangeven van een schaal die het volume voorsteld wordt als goed ondervonden. 
 
-Bediening temperatuurregeling:
-
+*Bediening temperatuurregeling:* 
 De experts vinden dat het beter is om een getalwaarde af te lezen voor de tempereatuur, zo weten ze exacter hoe warm het is in de wagen. De layout van de eerste bediening vinden ze dan wel beter dan degene met de cijfers. Voor de rest is de werking van deze functie duidelijk genoeg.
 
-Bediening klimaatmenu:
-
+*Bediening klimaatmenu:* 
 Hierbij vindt de ene expert de bovenste en de andere expert de onderste bediening beter. De bovenste wordt beter ondervonden doordat het duidelijker is met de rode pijl op welke functie ze juist staan. Het zou wel beter zijn mocht de layout hiervan wat meer diepgang krijgen. De onderste bediening wordt dan aan de andere kant beter ondervonden doordat het overzichtelijker is. De nieuwe iconenen voor de voor en achterruitontdooing zijn nog wat ingewikkeld. De rest van de werking is duidelijk en geeft een meerwaarde aan de wagen.
 
 Ook bij het aangeven van de intensiteit van de airco/voor of achterruit verwarming is er een meningsverschil tussen de experts. De bediening links wordt goed ervaren doordat de intensiteit niet echt een waarde nodig heeft en de bediening recht wordt beter ervaren juist doordat er wel een getalwaarde staat. Uit verdere testen zal moeten blijken welke van de twee bij andere gebruikers als beste ondervonden wordt. 
 
 Voor de zetelverwarmingsintensiteit vinden bijde experts de bediening met drie grote balken de beste omdat de zetelverwarming vaak niet met een exacte waarde maar met een standensysteem werkt. 
 
-Swipepaneel:
-
+*Swipepaneel:*
 Het swipen wordt als natuurlijk ondervonden en de experts vinden het een goeie manier om de hoofdfuncties te bedienen. Het wordt zelf als leuk ervaren en geeft dus een meerwaarde aan de ueser experience. De experts gebruiken telkens een beweging van links naar recht of omgekeerd omdat dit het meest natuurlijk aanvoeld. Deze werking kan dus verder ingebouwd worden in een sensor of nieuw prototype. 
 
-Bedienring:
-
+*Bedienring:*
 Het verder instellen van de subfunties met een bedienring vinden de experten ook goed en leuk om te gebruiken. Ze vinden ook dat het een veiliger gevoel geeft doordat hun handen op het stuur blijven staan. Indien dit echt zou werken (momenteel met wizzard of Oz testing) zou dit een zeer goeie functie zijn in de wagen. 
 
-Layout:
-
+*Layout:*
 De layout zou nog beter kunnen maar ze vinden het beide niet slecht. 
 
-Lichtfeedback:
-
+*Lichtfeedback:*
 Door een sober interface nemen de kleuren van de LEDstrip meer de bovenhand. Het wordt rap duidelijk op welke functie de experten zich begeven voordat ze op het display kijken. Het zou goed zijn mochten de lichten niet volledig uitslaan indien de bediencilinder (potentiometer) naar beneden gedraaid wordt. 
 
-Afleiding:
-
+*Afleiding:*
 Over het algemeen vinden de experts dat er minder afleiding achter het stuur is. De interface wordt momenteel tamelijk groot afgebeeld waardoor het ook wel opvalt. Indien dit ingewerkt zou zitten in een HUD systeem of indien het op de voorruit geprojecteerd zou worden, denken de experts wel dat het veel minder afleiding zou geven dan hedendaagse dashboards. 
+
+**10 heuristieken:**
+
+Na de testen en de bevraging hebben de experts een invulblad gekregen met de 10 heuristieken op en een schaal. Er werd hen gevraagd om deze in te vullen en waar nodig ook feedback op te geven. Dit was telkens op een schaal van 1 tot en met 5 of met een schaal eerder niet - eerder wel. Naast een heuristiek staat telkens tussen haakjes welke score er gegeven is. *bv. (4-5) de eertse expert gaf een score van 4/5 en de tweede expert gaf een score van 5/5*.
+
+*Regelmatig gebruik:* (5 - 4)
+De experts vinden het een innovatief systeem om mee te werken en vinden de bediening met de cilinder en swipesysteem zeer tof. 
+
+*onnodig complex:* (helemaal niet - helemaal niet)
+De experts vinden het systeem niet complex en denken ook dat andere gebruikers er rap mee weg zullen zijn.
+
+*gemakklijk te gebruiken:* (5 - 5)
+Door een simpele bediening wordt het dashboard als eenvoudeig ervaren. Ook het swipesysteem maakt het makkelijk om functies van elkaar te onderscheiden. Het kleurengebruik geeft dan ook weer een extra bevesteging.
+
+*Hulp nodig van een technisch persoon:* (eerder niet - eerder niet)
+Het systeem makkelijk te bedienen dus de expert vinden ook niet de gebruikers hulp zouden nodig hebben van een persoon met de nodige kennis. 
+
+*Functies goed geïntegreerd:* (4-5)
+De fucnties zijn meetal duidelijk weergegeven. Er is meestal genoeg feedback indien er iets aangepast wordt.
+
+*Rappe bediening:* (4-4)
+Jongere mensen zouden er rapper mee overweg kunnen dan 50 plussers, maar dit neemt niet weg van de eenvoudigheid van het systeem. 
+
+*Moeizaam te bedienen:* (eerder niet-eerder niet)
+De exeprts vinden het niet moeizaam te bedienen.
+
+*Zelfzeker om het systeem te bedienen:* (5-4)
+Het heeft eerst wat wenning nodig maar na het eens te gebruiken wordt het systeem bedienen als goed en tof ervaren.
+
+*Dingen leren vooraleer het systeem te gebruiken:* (eerder niet-eerder niet)
+DE experts vinden het niet nodig om vooraf dingen te moeten leren om het systeem te bedienen.
+
 
 **Conclusies & implicaties**
 
-De conclusies uit de expert testen zijn dat het display beter afgewerkt moet zijn en dat het ook minder afleidend moet gemaakt worden. De bediening via het swipepaneel en de bediencilinder zijn al goed uitgewerkt en makkelijk in gebruik.
+De conclusies uit de expert testen zijn dat het display beter afgewerkt moet zijn en dat het ook minder afleidend moet gemaakt worden. De interface zit al goed in elkaar om functies te bedienen maar er moeten nog een paar kriteria voldaan worden vooraleer het perfect is. De bediening via het swipepaneel en de bediencilinder zijn al goed uitgewerkt en makkelijk in gebruik. Er is al een goeie user experience bij deze interface maar alles zou moeten geïntegreerd moeten zijn om een volledige gebruikservaring te kunnen beleven. 
 
 **Gebruikerstesten (N=4)**
 
