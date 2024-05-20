@@ -412,16 +412,19 @@ Op het spotifymenu zat er een kleine bug in de code waardoor de pauzeknop maar v
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/81bc21f6-f091-4e1a-a659-05754d3d6fa0">
 </p>
+
 *Bediening temperatuurregeling:*
 De interface voor de temperatuur te regelen vonden de gebruikers ook goed om te bedienen. Hierbij is het weergeven van de temperatuur op het display wel een verbetering aangezien dit nu preciezer kan geregeld worden. Er werd aangegeven dat het handiger zou zijn dat het display opent indien er aan het bedieningsring gedraaid wordt en dan na vijf seconden inactief te zijn weer weg te gaan. Ook hierbij is er een bug in de code waarbij er indien er op een knop geklikt wordt het display naar het klimaatmenu terugkeert. Bij de intenciteitsregeling is het duidelijk dat er tussen 20 standen gegaan kan worden. De witte kleur van de leds duiden duidelijk aan dat er geen temperatuur maar intenciteit geregeld wordt. 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/0ef47f86-ab79-47e2-89ac-f716fa04a187">
 </p>
+
 *Bediening klimaatmenu:*
 Nu er iconen aan het klimaatmenu toegevoegd zijn wordt het meteen duidelijk wat de bedoeling van dit menu is. De gebruikers vonden het goed dat de verschillende vakken verandereden van grootte om aan te geven op welke functie er gefloat word. Het rood worden van de vakken geeft ook een goeie feedback hierbij. Eén gebruiker vond het verloop tegen de klok in van het selecteren van de functie niet natuurlijk aanvoeld en dat het beter zou zijn om de funties met de klok mee te laten bewegen of op een andere manier. (aangegeven door de rode pijl) Het overgaan naar de temperatuurklok met de knoppen vinden de gerbuikers ook handig, maar ze zouden nog een extra bevesteging willen om aan te geven dat ze de functie veranderd hebben zoals een extra keer klikken op een knop.
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/5d3c28f0-fbdf-4e63-ac49-e976b376383d">
 </p>
+
 *Knoppen:*
 Bij deze test werd er met twee knoppen gewerkt. Bij de bediening met spotify werd de pauze knop rap gevonden maar door een bug werkte deze vaak niet op de juiste manier. Een tweede knop dient om van playlist te veranderen en deze werd wel op een goeie manier bediend. De gebruikers vonden het vaak moeilijk om te weten waarvoor de knoppen juist dienden, ze willen nog een extra icoon om dit aan te geven. 
 Bij het klimaatmenu is het ook twijfelen welke van de twee knoppen er juist dient om over te gaan naar de temperatuurregeling. De knoppen zijn wel een aanwinst om het dashbaord te bedienen en zijn vaak een goeie extra feedback. De beste positie voor deze knoppen is dat deze allemaal recht staan volgens de gebruikers.
