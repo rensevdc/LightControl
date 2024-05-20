@@ -29,9 +29,9 @@ Ook is er besloten geweest dat tijdens het rijden er geen scherm mag gebruikt wo
 
 ## Methdologie
 Het eerste semester was opgedeeld in twee grote fasen: de discovery fase en de definition fase. Zoals in de figuur hieronder te zien is werd er per fase met andere methodes het doel bereikt.
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/62ab4172-664f-4525-b4a2-9a87e2a99b2f">
-
+</p>
 In de eerste deelfase (vooronderzoek) werd er nagedacht over het probleem die opgelost moest worden. Via een Literatuuronderzoek (met internetbronnen) werd er informatie opgedaan over dit onderwerp. Het was belangrijk om deze info goed te ontleden om het probleem te vinden. Na een literatuuronderzoek werd er naar GRAND STUDIO gegaan om de eisen van de opdrachtgevers beter in beeld te krijgen. Hierbij werden er heel wat dingen opgeklaard. Ten laatste werden er user interviews afgelegd. Hierbij werd er afgetoetst wat de gebruiker verwachte van een dashboard en op welke manieren de gebruikers afgeleid worden in de wagen. Al deze informatie werd gebundeld in een rapport en zo werden de eisen van het dashboard bepaald. Hierna werd uit al de bekomen info bepaald wat de belangerijkste aspecten voor het dashboard zijn. Dit werd aan de hand van een WWWWWH, persona en decision framewrok gedaan. 
 
 De tweede deelfase bestond uit het maken van concepten. Dit startte door een brainstormsessie in de les gebruiksgericht ontwerpen. Hierbij werden er ideeën uitgewisseld en nieuwe gedachtegangen konden ook plaatsvinden. Op deze ideeën werd er een COCD-analyse toegepast om de beste ideeën in kaart te kunnen berengen. Na deze brainstormsessie werden er concepten bedacht die volstaan aan de eisen en wensen van het dashboard. Ten laatste werden de concepten gepitched aan de hand van een kleine video. 
@@ -49,13 +49,13 @@ In dit project wordt er gestreefd naar een car dashboard waar geen afleidingen a
 Om te weten wat belangrijk is en welke wensen de gebruiker heeft wordt er een vooronderzoek gedaan. Ook de oorzaak van ongevallen wordt onderzocht, hierdoor kunnen we het probleem beter aanpakken en dus meer focussen op de punten die echt de oorzaak zijn.
 
 Een groot deel van het vooronderzoek werd online uitgevoerd, er zijn al veel studies uitgevoerd naar veiligheid in de auto toe. Deze studies werden gebruikt om te weten welke factoren in een auto de oorzaak zijn van ongevallen. We kunnen dan ook concluderen dat de meeste ongevallen veroorzaakt worden door een touchscreen. Dit komt omdat touchscreens vaak een complexer systeem hebben om een doel te bereiken. Dit zorgt dat men meer stappen moet doen om een actie uit te voeren en dus langer hun aandacht weg van de baan hebben. 
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/af89ce06-ba4c-46b9-9646-eca88ac17652">
-
+</p>
 Naast online onderzoek werden er ook interviews met verschillende bestuurders gedaan. Bij deze interviews werd er gevraagd naar de functies van het dashboard die men gebruikt, de voorkeur tussen oudere dashboards en nieuwere, ect. Tijdens de interviews werd er ook een tabel gemaakt met functies, in deze tabel werd gevraagd welke functies men het meest gebruikt en welke functies het belangrijkst zijn. Aan de hand van deze tabel kunnen er functies uit de hedendaagse auto gehaald worden om de complexheid van het systeem te verminderen. Uit de interviews zelf werd geconcludeerd dat een dashboard met enkele knoppen de voorkeur krijgt op complexe dashboards. Veel moderne functies behoren wel tot de wensen van gebruiker zoals het verbinden van de gsm met de auto waarbij Spotify, handsfree bellen en vele andere functies bij komen. De geïnterviewden gaven ook nog enkel dingen aan die ze zelf gebruiken en handig vinden. De knoppen op een stuur waren een groot pluspunt, het DIU-scherm tussen het stuur was ook een toepassing die handig gevonden werd een groter mag.
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/982a12dc-e669-48f0-9237-ae1d61595fc4">
-
+</p>
 **Resultaten**
 
 Uit het vooronderzoek wordt er al een algemeen beeld gegeven waar de focus moet liggen. Aangezien de grootste afleiding ontstaat bij het gebruiken van touchscreens wordt er voor een screen free display gekozen, waar er zo weinig mogelijk tot geen schermen aanwezig zijn. De voorkeur naar de controls bij het stuur te houden stelt een duidelijke voorkeur naar controle over het systeem door knoppen en andere op het stuur te plaatsen. Er zal dus gestreefd worden naar een centraal bestuurssysteem waar weinig tot geen schermen aanwezig zijn en een interface op het stuur die acties binnen bepaalde onderdelen van het besturingssysteem kan voltooien. Uit onderzoek zien we ook dat tijdens het rijden met het voertuig weinig instellingen moeten aangepast worden en er zelf geen vraag is naar het kunnen sturen of lezen van berichten. De instellingsmenu van de wagen wordt vrijwel niet gebruikt en zal dus ook niet snel beschikbaar moeten zijn.
@@ -91,38 +91,38 @@ Na de testen werd er nog een interview afgenomen om de mening van de gebruiker t
 Voor de eerste wave prototypes worden er drie testen gedaan (per prototype één test). Dit werd gedaan zoals de methode die hierboven beschreven staat. Bij de eerste wave werd er gekeken welke bediening de beste is. Ook werd er getoetst of het kleurengebruik en de AR-projectie voldoende duidelijk zijn.
 
 Voor de bediening met het controlepaneel dat per vinger een andere functie aanduidt werd het meteen duidelijk dat dit niet zo intuïtief was als eerst gedacht. De gebruikers hadden moeite om de juist functie te vinden. Ook week de auto bij elke gebruiker van de baan af als dit prototype gebruikt werd. Het bleek uit de vragen achteraf dat het te complex was om de juiste vinger bij de juiste knop te houden en deze dan nog eens apart in te drukken. Ook naar het einde toe van de test was het duidelijk dat de auto van de baan bleef afwijken bij het bedienen van deze functie.
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/7d59b4a3-f843-4939-91ad-e27308f22881">
-
+</p>
 Bij de draaiknop is er een ander verhaal. Het was bij elke gebruiker duidelijk dat er moest gedraaid worden aan het prototype om een naar een andere functie te bedienen. In het begin week de auto licht van de baan af maar naarmate de gebruikers gewend werden aan de bediening was er geen afwijking meer. 
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/066b2366-78d4-4849-ae6a-5de688a39cdf">
-
+</p>
 Voor het swipe-paneel werden dezelfde resultaten bekomen als bij de draai bediending. Het was rap duidelijk wat er verwacht werd bij het prototype en de functies werden rap gevonden. Hierbij week de auto nog minder van de baan af dan bij de voorgaande prototypes (dit heeft ook voor een deel te maken dat ze de bediening van het spel beter onder de knie kregen). Naar het einde toe van deze test week de auto ook niet meer van de baan af.
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/fb8c64eb-e69b-42f1-8e96-7a473cbc84f5">
-
+</p>
 Voor het bedienen van de sub-functies werd er rap gevonden dat er een het deel op het stuur moest gedraaid worden. Dit vonden de gebruikers een zeer goed onderdeel van de prototypes. *‘Dit stimuleerd ook het tien voor twee rijgedrag!’*
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/1b3d2cf9-15eb-43f4-b61b-270253f844cc">
-
+</p>
 Ook het gebruik van een kleurenindicatie vond elke gebruiker zeer goed, sommigen vonden wel dat de kleuren nog op een ander deel kunnen terugkeren. De AR-projectie die gesimuleerd werd door de game zelf vonden de gebruikers ook heel handig. *‘Het is veel beter dan te kijken op een klein schermpje!’*. 
 
 Er bleek ook dat over het algemeen de bedieningselementen wat dichter bij de gebruiker mochten geplaatst worden. 
 
 Bij de tweede wave van prototypes wordt er verder gewerkt met het swipe-paneel. Een algemeen prototype werd gemaakt die in verschillende toestanden kan opgesteld worden. Hierin is er een gleuf gemaakt zodat er licht door kan schijnen van een RGB-lamp. Deze worden weer getest via the wizard of Oz testing. 
 De eerste opstelling is gelijkaardig aan de het vorige swipe paneel. De bedoeling is dat de gebruiker met een hand boven of op het paneel swiped (van links naar rechts). De kleuren veranderen weer bij een andere functie. De secundaire bediening is nu ook weer via de cilinder op het stuur. 
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/eaadde1b-df2c-4579-8e60-73be341b974c">
-
+</p>
 De tweede opstelling is wanneer het paneel rechtstaat en de gebruiker van boven naar beneden of visa versa moet bewegen met een hand. Ook weer hier veranderen de kleuren als er een nieuwe functie bekomen is. De cilinder wordt ook hier gebruikt om de sub functie te bedienen. *‘Deze houding komt minder natuurlijk over dan de voorgaande swipebeweging.’*.
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/fe7f465a-b858-46f3-998c-1faf4df89a45">
-
+</p>
 De laatste opstelling is wanneer de gebruiker van links naar recht moet swipen met een hand. Ook weer hier wordt er gebruik gemaakt van kleuren die de hoofdfunctie aanduiden. Maar in de plaats van een cilinder op het stuur wordt een draaiknop gebruikt om de secundaire functies te bedienen. Hierbij wordt er toch nog eens nagegaan of de gebruikers deze manier van werken niet beter vinden dan met de cilinder op het stuur. Hieruit bleek dat het werken via de cilinder aan het stuur een betere optie was dan een aparte draaiknop. Dit kwam doordat de gebruiker zich meer kon focussen op de baan indien de handen aan het stuur waren. *‘Met de draaiknop voel ik me minder gefocussed op de baan, ik moet ook weer mijn arm weg van het stuur bewegen.’*.
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/d3fae400-ac21-4a3d-b94c-ab2b8183b0fd">
-
+</p>
 **Conclusies & implicaties**
 
 Voor volgende prototypes zal er verder gewerkt worden met het swipe-paneel aangezien deze als beste beschouwd werd door de gebruikers. Het blijkt dat het swipen van links naar recht beter aanvoelt dan van boven naar onder toe. Ook wordt het bedienen van de secundaire functies liever gedaan via een cilinder aan het stuur dan met een aparte draaiknop. Het zal beter geïntegreerd worden in het dashboard en ook zal er een interface gemaakt worden die samengaat met de kleuren van de functies. Het kleurgebruik zal op meerdere plaatsten terugkomen en ook zal dit beter geïntegreerd worden in het dashboard. 
@@ -202,17 +202,17 @@ Ellebooghoogte: De gemiddelde ellebooghoogte is 244 mm, voor 95,5% van de bevolk
 **Simulatie**
 
 Vervolgens worden deze waarden in een Siemens NX simulatie geanalyseerd. Er worden verschillende situaties bekeken, het swipepaneel wordt telkens op een andere plaats gezet, de eerste manier is op een afstand van 250 mm van het stuur en op een maximale afstand van 508mm van de schouder van de bestuurder vandaan (cirkel rond shcouder), ook wordt het op schoduerhoogte gezet (100 mm boven ellebooghoogte). Zoals te zien is op onderstaande figuur is de rechter arm hoogte buiten de comfort zone, de schouderpositie zitten juist op de rand van comfortabel, dit blijft zo voor elke verschillende positie en heeft dus niks te maken met de positie van het swipepaneel. 
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/4404519c-4530-4c7d-b497-929f125680d1">
-
+</p>
 De volgende positie is indien het swipepaneel swipepaneel op een afstand van 394 mm ten opzichte van de schouder geplaatst wordt. De andere waarden veranderen niet, hieruit blijkt dat de arm elevation een nog slechtere comfortabilieteit heeft dan bij de vorige opstelling. De andere waarden blijven ongeveer gelijk.
 
 Vervolgens wordt het scherm terug op de 508 mm geplaatst t.o.v. de schouder, deze keer staat het scherm op een hoogte van 250 mm boven de elleboog. Hierbij is de arm elevation nogmaals slechter dan voordien. Indien het scherm op een hoogte van 100 mm onder de elleboog geplaatst wordt is de arm elevation beter een pak beter. Hoe lager het swipepaneel staat hoe comfortabeler deze positie aanvaard wordt. Het zal moeten blijken uit gebruikerstesten welke positie de beste is bij een beweging van het stuur naar het swipepaneel heen. 
 
 Om een swipebeweging te maken wordt het op elke positie als een comfortabele positie gezien. 
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/8e0a45ee-d865-4466-b5c2-8035d5d743ae">
-
+</p>
 Voor het swipepaneel geldt dus dat dit het best tussen een afstand van 251 mm en 695 mm van het midden van het stuur zit. Het zit op een diepte tussen twee cirkels met een straal van 394 mm en 508 mm bekeken vanaf de schouder (middelpunt). Op een hoogte tussen 46 mm en 542mm ten opzichte van het zitvlak bevestigd zit. In het volgende deel zullen de gebruikerstesten beschreven worden.
 
 **Protocol_testen_swipepaneel:** https://acrobat.adobe.com/id/urn:aaid:sc:EU:86257e14-afbf-47a2-a1fc-788938a581b1
@@ -235,9 +235,9 @@ Om het ergonomisch aspect van het bedieningswiel en de andere knoppen te bepalen
 </p>
 
 In moderne wagens wordt er veel gebruik gemaakt van knoppen op het stuur. De knoppen op het stuur bestaan meestal uit drukknopen in de Z-richting of een rollbeweging rond de x-as. Deze knoppen zorgen dat er veel functies op het stuur mogelijk zijn en maken het stuur een multifunctioneel bestuurcenter van de auto. De knoppen zullen geplaatst moeten worden zodat niet gewilde interactie vermeden word. De meeste acties op het stuur worden uitgevoerd door de duim, dit gebeurt tijdens het sturen. De andere vingers houden dan het stuur vast. De positie van de handen op het stuur zijn 10 en 2 volgens de klok. Deze positie zorgt ervoor dat bij het crashen van het voertuig de airbag de armen niet tegen het lichaam aanduwd. In het geval dat we dan een interactie uitvoeren op het stuur is de tijd die men neemt om de knop te bedienen echter korter als de knop op het stuur zit dan als de knop in het dashboard verwerkt zit. Deze interactieknoppen zouden dan ook makkelijk berijkbaar moeten zijn en als het kan blind bedienbaar zijn. Dit is simpel te bekomen door de knoppen groter te maken en een duidelijke schijding tussen de knoppen.
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/ec0dd831-f80b-4bbd-8f22-da584bfc313d">
-
+</p>
 De achterkant van het stuur maakt gebruik van alle vingers naast de duim. Meervingerige trek acties zijn vaak gebruikt en simpel te gebruiken, deze zullen wel binnen het berijk van de vingers moeten liggen. In dit gedeelte worden meeste interacties gedaan terwijl het stuur vastgehouden wordt. Deze eigenschap wordt dan ook gedeeld met de andere zones op het stuur. Ook hier moeten de knoppen zo geplaatst worden dat deze niet gewilde interactie vermeiden. Op de rand van het stuur kan men ook enkele functies aanbrengen zoals bvb. knijp en draai bewegingen of veeg bewegingen. Hierbij worden de regels ook weer toegepast.
 
 <p float="left">
@@ -257,16 +257,16 @@ Om de positie van de ring op het stuur te bepalen moet er bepaald worden waar de
 **Reseltaten Onderzoek**
 
 Tijdens het bekijken van de beelden hebben we enkele verschillende bestuurders bekeken en zien hierbij een vast patroon bij het rijden. De rachter hand wordt vaak van het stuur gehaald. De linker hand heeft de neiging om naar boven of beneden te glijden langs het stuur. Tijdens het draaien van de auto wordt de hand op een vaste positie geplaatst of neemt doet men de standaar draai en doorgrijpen. Tijdens de draai en grijp beweging zijn er 3 punten die vastgegrepen worden: 12u, 4u en 8u. In onderstaande figuur zijn de groene gebieden degene die het meest aangeraakt worden tijdens het rijde. Naarmate de kleur naar oranje toeneemt zijn de plaatsen die minder aangeraakt worden en de witte plaatsen worden amper aangeraakt.
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/966f5bd0-bb0c-47d1-ab25-8f44204000fe">
-
+</p>
 **Gebruikerstesten (N=4)**
 
 Het voorgaande ergonomische onderzoek wordt ook nog eens getest met gebruikers. Het concept wordt weer in twee delen opgesplitst: het swipepaneel en het bedieningscilinder. De bedoeling van deze testen is om na te gaan of afstanden van het voorgaand onderzoek ook kloppen in de praktijk. 
 Het prototype waarvan gebruik gemaakt wordt bestaat uit een kartonnen plaat die in de wagen geplaatsts wordt waarop er negen verdelingen staan die telkens een apparte locatie van het swipepaneel moeten aanduiden. De bedoeling is dat de gebruiker over elke positie swiped en aangeeft of dit comfortabel aanvoelt of niet. Deze waarden worden vervolgens gemapped waardoor de ideale positie gevonden wordt. Voor het bedieningscilinder wordt er op het stuur vier mogelijke locaties afgeplats met schilderstape. De gerbuiker moet ook hier aangeven op welke positie deze het bedieningscilinder het comfortableste kan bedienen. Hieronder is de schematische en de praktische uitvoering van deze test te zien. 
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/5b673fa3-b226-4b89-a94f-64fb850188aa">
-
+</p>
 Uit deze testen bleek voor het swipepaneel dat de meest comfortabele plaats tussen 1 en 2 ligt. Dit geldt voor elke gebruiker die gestets is geweest. Deze positie wordt gekozen omdat het dicht bij het stuur zit en de gebruikers niet teveel moet bewegen met hun arm om de functies te kunnen bedienen. Ook staat het paneel op die positie niet te hoog of te laag ten opzichte van het stuur. 
 Na metingen blijkt dat het swipepaneeltussen 100 en 250 mm van de rechterkantvan het stuur moet geplaatst worden, op een hoogte tussen 370 en 420 mm ten opzichte van de basis van de versnellingspook. Op een afstand tussen de 400 en 600 mm van de rechterschouder van de bestuurder zit.
 
@@ -315,27 +315,27 @@ Protocol expertesten (met 10 heuristieken): https://acrobat.adobe.com/id/urn:aai
 
 *Bediening Spotify:* 
 Voor de bediening van Spotify blijkt dat de onderste situatie beter aanvaard wordt. Beide experts vinden deze meer herkenbaar dan de nieuwe bovenste bediening. Om de bovenste beter te maken zou de betekenis van de bollen (het wisselen van playslist) beter moeten aangegeven zijn. Het aangeven van een schaal die het volume voorsteld wordt als goed ondervonden. 
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/c903b55b-ee37-4de3-ad0e-1bf97365f2e2">
-
+</p>
 *Bediening temperatuurregeling:* 
 De experts vinden dat het beter is om een getalwaarde af te lezen voor de tempereatuur, zo weten ze exacter hoe warm het is in de wagen. De layout van de eerste bediening vinden ze dan wel beter dan degene met de cijfers. Voor de rest is de werking van deze functie duidelijk genoeg.
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/cb42de9b-68e9-4b14-8662-f442cf037c38">
-
+</p>
 *Bediening klimaatmenu:* 
 Hierbij vindt de ene expert de bovenste en de andere expert de onderste bediening beter. De bovenste wordt beter ondervonden doordat het duidelijker is met de rode pijl op welke functie ze juist staan. Het zou wel beter zijn mocht de layout hiervan wat meer diepgang krijgen. De onderste bediening wordt dan aan de andere kant beter ondervonden doordat het overzichtelijker is. De nieuwe iconenen voor de voor en achterruitontdooing zijn nog wat ingewikkeld. De rest van de werking is duidelijk en geeft een meerwaarde aan de wagen.
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/66156fdc-433c-43c7-8f77-9c4bdb8e7804">
-
+</p>
 Ook bij het aangeven van de intensiteit van de airco/voor of achterruit verwarming is er een meningsverschil tussen de experts. De bediening links wordt goed ervaren doordat de intensiteit niet echt een waarde nodig heeft en de bediening recht wordt beter ervaren juist doordat er wel een getalwaarde staat. Uit verdere testen zal moeten blijken welke van de twee bij andere gebruikers als beste ondervonden wordt. 
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/6f34e32c-83a7-4079-a37b-fa334c6f5141">
-
+</p>
 Voor de zetelverwarmingsintensiteit vinden bijde experts de bediening met drie grote balken de beste omdat de zetelverwarming vaak niet met een exacte waarde maar met een standensysteem werkt. 
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/c1f5b67c-604e-45f1-8d22-b997e34225f3">
-
+</p>
 *Swipepaneel:*
 Het swipen wordt als natuurlijk ondervonden en de experts vinden het een goeie manier om de hoofdfuncties te bedienen. Het wordt zelf als leuk ervaren en geeft dus een meerwaarde aan de ueser experience. De experts gebruiken telkens een beweging van links naar recht of omgekeerd omdat dit het meest natuurlijk aanvoeld. Deze werking kan dus verder ingebouwd worden in een sensor of nieuw prototype.
 
@@ -409,20 +409,19 @@ Het protoype is hetzelfde opgebouwd zoals het eerste prototype maar met twee ext
 
 *Bediening Spotify:*
 Op het spotifymenu zat er een kleine bug in de code waardoor de pauzeknop maar voor één nummer werkte. Dit zorgde voor wat verwarring bij de gebruikers. De knoppen vonden ze handig te gebruiken vooral de pauze en doorspoelknop. De interface vinden ze zeer duidelijk, wel zou de pauze knop nog moeten veranderen van icoon. (1) Eén van de gebruikers klikte te lang op de knoppen waardoor deze meerdere signalen doorstuurde naar protopie en de juiste functie dus soms niet berijkt werd. Het idee om vooringestelde playlist in te voegen in een app vinden de gebruikers goed, één van de gebruikers vond dat hij zich gelimiteerd zou voelen aangezien deze vaak van playlist veranderde.
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/81bc21f6-f091-4e1a-a659-05754d3d6fa0">
-
-
+</p>
 *Bediening temperatuurregeling:*
 De interface voor de temperatuur te regelen vonden de gebruikers ook goed om te bedienen. Hierbij is het weergeven van de temperatuur op het display wel een verbetering aangezien dit nu preciezer kan geregeld worden. Er werd aangegeven dat het handiger zou zijn dat het display opent indien er aan het bedieningsring gedraaid wordt en dan na vijf seconden inactief te zijn weer weg te gaan. Ook hierbij is er een bug in de code waarbij er indien er op een knop geklikt wordt het display naar het klimaatmenu terugkeert. Bij de intenciteitsregeling is het duidelijk dat er tussen 20 standen gegaan kan worden. De witte kleur van de leds duiden duidelijk aan dat er geen temperatuur maar intenciteit geregeld wordt. 
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/0ef47f86-ab79-47e2-89ac-f716fa04a187">
-
+</p>
 *Bediening klimaatmenu:*
 Nu er iconen aan het klimaatmenu toegevoegd zijn wordt het meteen duidelijk wat de bedoeling van dit menu is. De gebruikers vonden het goed dat de verschillende vakken verandereden van grootte om aan te geven op welke functie er gefloat word. Het rood worden van de vakken geeft ook een goeie feedback hierbij. Eén gebruiker vond het verloop tegen de klok in van het selecteren van de functie niet natuurlijk aanvoeld en dat het beter zou zijn om de funties met de klok mee te laten bewegen of op een andere manier. (aangegeven door de rode pijl) Het overgaan naar de temperatuurklok met de knoppen vinden de gerbuikers ook handig, maar ze zouden nog een extra bevesteging willen om aan te geven dat ze de functie veranderd hebben zoals een extra keer klikken op een knop.
-
+<p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/5d3c28f0-fbdf-4e63-ac49-e976b376383d">
-
+</p>
 *Knoppen:*
 Bij deze test werd er met twee knoppen gewerkt. Bij de bediening met spotify werd de pauze knop rap gevonden maar door een bug werkte deze vaak niet op de juiste manier. Een tweede knop dient om van playlist te veranderen en deze werd wel op een goeie manier bediend. De gebruikers vonden het vaak moeilijk om te weten waarvoor de knoppen juist dienden, ze willen nog een extra icoon om dit aan te geven. 
 Bij het klimaatmenu is het ook twijfelen welke van de twee knoppen er juist dient om over te gaan naar de temperatuurregeling. De knoppen zijn wel een aanwinst om het dashbaord te bedienen en zijn vaak een goeie extra feedback. De beste positie voor deze knoppen is dat deze allemaal recht staan volgens de gebruikers.
