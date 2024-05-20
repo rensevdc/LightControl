@@ -479,9 +479,34 @@ De gebruikers zouden dit dashbaord in hun auto willen gebruiken en het zelf voor
 
 | ID | Design Requirement | Bron |
 | --- | --- | --- |
-| Deel 1 | Swipepaneel |
-| 1.1 | Het swipepaneel zit op een afstand tussen de  |
-| git diff | Show file differences that haven't been staged |
+| **Deel 1** | **Algemeen** |
+| 1.1 | Het dashboard is energiezuinig | Define user test |
+| 1.2 | Het dashboard moet bedienbaar zijn voor 95% van de populatie | Ergonomische testen |
+| 1.3 | Hoofdfuncties moeten in minder dan 3 seconden bediend worden | Define user test |
+| 1.4 | Subfuncties moeten in minder dan 5 sec bediend worden | Define user test |
+| 1.5 | De LEDstrip moet ook zichtbaar zijn overdag | Define user test |
+| 1.6 | De bedienring moet ingebouwd zijn in het stuur | Define user test |
+| 1.7 | Het dashboard mag niet complex zijn | Define user test |
+| **Deel 2** | **Swipepaneel** |
+| 2.1 | Het swipepaneel zit tussen de 100 en 250 mm van de rechterkant van het stuur | Ergonomische testen |
+| 2.2 | Het swipepaneel zit op een hoogte tussen de 370 en 420 mm van de basis van de versnellingspook | Ergonomische testen |
+| 2.3 | Het swipepaneel zit tussen de 400 en 600 mm ten opzichte van de rechterschouder van de bestuurder | Ergonomische testen |
+| **Deel 3** | **Bediening** |
+| 3.1 | De bedienring zit op een hoek van 45° ten opzichte van het midden van het stuur | Ergonomische testen |
+| 3.2 | De bedienring moet ingebouwd zijn in het stuur | Ergonomische testen |
+| 3.3 | De bedienring heeft een textruu nodig zodat deze opvalt | Develop 1 |
+| **Deel 4** | **Interface** |
+| 4.1 | De interface heeft een aantrekkelijke layout | Develop 2 user test |
+| 4.2 | De interface is makkelijk te bedienen | Develop 2 expert test |
+| 4.3 | Alle functies op de interface zijn duidelijk | Develop 2 user test |
+| 4.4 | De interface mag niet voor extra afleiding zorgen | Develop 2 expert test |
+| 4.5 | De interface moet uitvallen na 5 seconden niet gebruikt te zijn | Develop 2 expert test |
+| 4.6 | Er zijn knoppen nodig om extra functies te bedienen | Develop 2 expert test |
+| 4.7 | Er zijn cijferwaardes nodig voor temperatuurinstellingen | Develop 2 expert test |
+| 4.8 | Er is extra feedback nodig bij het aanpassen van een functie | Develop 2 user test |
+| 4.9 | De interface moet neutraal zijn | Develop 2 user test |
+| 4.10 | De interface mag een paar animaties hebben | Develop 2 user test |
+
 
 ## Kritische reflectie
 
