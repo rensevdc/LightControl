@@ -12,9 +12,9 @@ Tegenwoordig zijn er veel touchscreens en knoppen aanwezig in de wagen om functi
 Een oplossing die de afleiding in de wagen kan verminderen is om te werken via een bediening waarbij de bestuurder zijn ogen niet van de weg moet halen. Ons idee is om via een swipe-paneel een hoofdfunctie te bedienen zoals: muziek, navigatie, klimaat, etc. Per hoofdfunctie kan er een sub functie bediend worden. Dit gebeurt via een draaiend deel op het stuur (cilinder) die naar voor of naar achter toe kan draaien. De bestuurder weet welke functie die aan het bedienen is door lichtsignalen. Elke functie heeft zijn eigen kleur die vooraf in een app kunnen ingesteld worden. Belangrijke functies zoals de snelheid, waarschuwingssymbolen, brandstofpijl, ect. Worden weergegeven op een HUD-scherm die zich in het zicht van de bestuurder bevindt. De navigatie wordt geregeld via een AR-projectie met pijlen die de richting aangeven.
 
 Door gebruik te maken van maar twee onderdelen en geen touchscreens wordt de afleiding in de wagen verminderd, de bestuurder moet minder denken welke knoppen er moeten ingedrukt worden om een functie te bedienen en alles info staat in het zicht van de bestuurder.
-
+<p align="center">
 <img align="middle" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/b2dcd549-1412-4568-902f-9afe4e874f5a">
-
+</p>
 
 
 ## Introductie
