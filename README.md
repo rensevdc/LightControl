@@ -474,9 +474,8 @@ De gebruikers zouden dit dashbaord in hun auto willen gebruiken en het zelf voor
 **Resulataten**
 
 <p align="center">
-<img align="center" width="600" alt="image" src="https://github.com/rensevdc/LightControl/assets/155004668/6f948fe7-9bd5-48da-8294-7c7006eddc0f">
+<img align="center" width="900" alt="image" src="https://github.com/rensevdc/LightControl/assets/155004668/21ca07d4-a13c-4bd2-9440-5888351bcd65">
 </p>
-
 
 **Conclusies en implicaties**
 
