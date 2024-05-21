@@ -429,8 +429,8 @@ Bij de tweede expert testen werd er weer een nieuw prototype gebruikt. Het displ
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/c903b55b-ee37-4de3-ad0e-1bf97365f2e2">
 </p>
-https://youtu.be/HdFvddhLETc
-[![Watch the video](https://img.youtube.com/vi/HdFvddhLETc/maxresdefault.jpg)](https://youtu.be/HdFvddhLETc)
+
+https://github.com/rensevdc/LightControl/assets/155004668/ff5a35de-5090-4249-b663-6f9598e03a4b
 
 **Resultaten**
 
