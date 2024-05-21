@@ -426,6 +426,12 @@ Protocol expertesten (met 10 heuristieken): https://acrobat.adobe.com/id/urn:aai
 
 Bij de tweede expert testen werd er weer een nieuw prototype gebruikt. Het display werd aangepast met de feedback uit de voorgaande testen. De werking blijft echter hetzelfde: er zijn drie grote functies (muziek, temperatuurregeling en klimaatsysteem). De layout, iconen, interactie en feedback van de interface werd vanuit een ander perspectief bekeken. Er worden lichtere kleuren gebruikt zodat het minder opvalt in de wagen. Door twee aparte interfaces te maken wordt er achteraf bepaald uit welke onderdelen van beide interfaces het best overkomen. Deze keer wordt er getest met zowel een gsm die dient als een fysiek swipesysteem en een grove sensor die vanop een afstand bediend kan worden. Na de test werden de expert gevraagd om een vragenlijst met de 10 heuristieken in te vullen om zo te bekijken of de werking en bediening van de interface goed scoort op user Experience.
 
+<p align="center">
+<img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/c903b55b-ee37-4de3-ad0e-1bf97365f2e2">
+</p>
+https://youtu.be/HdFvddhLETc
+[![Watch the video](https://img.youtube.com/vi/HdFvddhLETc/maxresdefault.jpg)](https://youtu.be/HdFvddhLETc)
+
 **Resultaten**
 
 *Bediening Spotify:* 
