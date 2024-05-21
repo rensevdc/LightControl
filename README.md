@@ -329,10 +329,6 @@ De bedieningsring ligt op een hoek van 45° aan de rechterbovenkant ten opzichte
 
 De doelstelling van dit deelonderzoek is om de gebruiksvriendelijkheid en UX aspecten van het prototype in diepgang te bekijken. Aan de hand van experttesten (N=2) en gebruikerstesten (N=4) zal dit aspect van het dashboard verbeterd worden.
 
-**Expert testen (N=2)**
-
-Tijdens dit project zijn er twee expert testen uitgevoerd voor het dashboard interface, hieronder wordt de tweede experttest verwerkt aangezien deze veel meer feedback geeft over de werking van de interface aan de hand van de 10 heuristieken. De eerste experttesten gaven een soortgelijke uitkomst met de usertesten van het eerste interface. Hierbij werd er aangeraden om nog knoppen toe te voegen en een betere uitwerking te doen van de interface. De user testen gingen over het eerste design van de interface.
-
 **Materiaal en methoden**
 
 Om de expert en gebruikerstesten tot een goed eind te laten komen zijn er nieuwe prototypes nodig die meer focussen op de UX aspecten van het dashboard zoals de bediening van functies met het bediencilinder, de connectie tussen de functies en de lichtsignalen en de werking van het swipepaneel. Aan de hand van Arduino en Protopie wordt er een systeem ontwerpen waarbij er op een gsm geswiped wordt om een display aan te sturen. Indien er op de gsm geswiped wordt kan het display tussen drie situaties wisselen (Spotify (groen), Klimaatregeling (rood) en temperatuurregeling (blauw)). Voor het onderdeel van spotify kan via een potentiometer het volume van afspelende muziek aangepast worden. Voor de klimaatregeling kan er tussen vier verschillende bedieningen verwisseld worden met de potentiometer. Om de temperatuur kan ook veranderen door aan de potentiometer te draaien. 
@@ -341,6 +337,8 @@ In totaal worden er twee experttesten en vier gebruikerstesten gedaan. Voor al d
 *Werking eerste prototype interface*: https://ugentbe-my.sharepoint.com/:v:/r/personal/rense_vandecasteele_ugent_be/Documents/2%20IO/Gebruiksgericht%20ontwerpen/test_display_1.mp4?csf=1&web=1&e=6Ev8QQ
 
 **Resultaten**
+
+**Expert test 1 (N=2)**
 
 Uit de experttesten blijkt dat de interface nog niet in orde is. Er moeten meer iconen gebruikt worden om aan te geven op welke functie de gebruiker zich begeeft. De Spotify bediening met de potentiometer werkt goed maar ook hier is er nog een functie nodig om de muziek te kunnen pauzeren en van playlist te wisselen. Hiervoor zal er bij volgende prototypes extra knoppen toegevoegd worden om deze functies te bedienen. Het swipen tussen verschillende functies wordt wel als goed ervaren maar door een bug kan er maar naar één kant geswiped worden. 
 Doordat dit prototye in een te vroege status is om verder op te evalueren zal er na wat aanpassingen opnieuw een expert test afgenomen worden. Hierbij zullen de 10 heuristieken van Nielson ook bekeken worden. 
