@@ -473,6 +473,11 @@ De gebruikers zouden dit dashbaord in hun auto willen gebruiken en het zelf voor
 
 **Resulataten**
 
+<p align="center">
+<img align="center" width="600" alt="image" src="https://github.com/rensevdc/LightControl/assets/155004668/6f948fe7-9bd5-48da-8294-7c7006eddc0f">
+</p>
+
+
 **Conclusies en implicaties**
 
 ## Design  requirements
