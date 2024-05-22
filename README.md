@@ -165,18 +165,6 @@ Voor volgende prototypes zal er verder gewerkt worden met het swipe-paneel aange
 - RGB lichten
 -	Arduino prototypes die inspelen op het swipepaneel
 
-## Kritische reflectie
-
-Het basisidee kan in realiteit werken, dit is aangetoond geweest door de testen. Het eerste prototype werd meteen afgekeurd omdat het te ingewikkeld was om te gebruiken. De gebruikers verloren hun aandacht van de baan om de functie te zoeken. Het tweede en derde prototype was pakken beter dan het eerste. Hieruit blijkt dat hoe simpeler de bediening van de functies hoe beter de gebruikers zich op de weg kunnen focussen. Voor de laatste twee prototypes geldt er wel nog altijd dat ze goed moeten geïntegreerd worden in de wagen. Dit zal het een strakkere look geven en daarmee ook een hogere waarde. 
-
-De gebruikers vonden het werken met kleuren een goed idee. Het zal belangrijk worden dat deze kleuren duidelijk overkomen bij de gebruiker. Het is ook niet de bedoeling dat de volledige wagen ingekleurd wordt dus dit zal moeten weggewerkt worden. De gebruikers vinden het ook wel belangrijk dat deze kleuren nog ergens anders terugkomen. Bij de laatste wave van prototypes was het idee om de kleuren in een led-strip te verwerken goed, maar het viel minder op dan wanneer de volledige lamp zichtbaar was. Dit duidt er nog eens op hoe belangrijk het is om de kleuren in een HUD-systeem of in andere objecten te verwerken.
-
-Het werken via de cilinder vindt elke gebruiker heel goed, ze verkiezen dit boven andere manieren van werken. Het bevordert ook het tien voor twaalf rijden wat een goede gewoonte is om bij een ongeval de controle over de wagen beter te behouden. Wel wordt er gevraagd om dit beter in het stuur in te werken zodat het ook niet in de weg kan zitten tijdens het rijden of dat er niet per ongelijk een functie bediend wordt terwijl dit de bedoeling niet was.  
-
-Er zouden ook nog meer functies bediend moeten worden zoals het wisselen van playlist, of een andere navigatieroute kunnen bevestigen. Het wordt dus belangrijk dat we per hoofdfunctie verschillende sub functies kunnen bedienen (zoals hoger/lager zetten van muziek, en het veranderen van playlist). Ook zal er eens moeten gekeken worden naar de beste ergonomie van het product. Momenteel zit dit nog niet goed en zorgt dit ervoor dat de user experience naar beneden wordt getrokken.
-
-De gebruikers zouden dit verkiezen in hun wagen boven de hedendaagse manier van rijden indien het dezelfde prijs heeft en het nog wat verder uitgewerkt wordt. De gebruikers vinden dat ze minder afgeleid zijn van de baan en vinden het ook tof om op deze manier met de wagen te rijden.
-
 ## Anthopometrie
 
 **Doelstellingen**
@@ -185,7 +173,7 @@ De doelstelling van de Anthropometrie analyse is om het ergonomisch aspect van h
 
 **Materiaal & methoden**
 
-Om deze analyse goed uit te voeren zijn er bepaalde materialen en methodes nodig. Er zullen nieuwe prototypes gemaakt worden die de ergonomie van de bediening beter zal kunnen bekijken. Waar in de vorige testen vooral de sensory en cognitive ergonomics bekeken werden zal er nu dieper ingegaan worden op de physical ergonomics. 
+Om deze analyse goed uit te voeren zijn er bepaalde materialen en methodes nodig. Er zullen nieuwe prototypes gemaakt worden die de ergonomie van de bediening beter zal kunnen bekijken. Hierbij zullen vooral de physical ergonomics geanalyseerd worden.
 
 Belangrijke aspecten waar op gefocussed zal moeten worden zijn:
 - Op welke plaats de bediencilinder zal moeten komen.
@@ -193,15 +181,17 @@ Belangrijke aspecten waar op gefocussed zal moeten worden zijn:
 - Waar het swipepaneel zich moet bevinden.
 - Hoe ver het swipepaneel zich moet bevinden.
 
-De designmethode die zal worden gebuikt is: Design for adjustable (aangezien de zeten van de wagen per persoon kan ingesteld worden). De ergonomie zal in twee delen opgespitst worden. Eenerzijds zal de bediencilinder bekeken worden en anderzijds zal het swipepaneel bekeken worden. 
+De designmethode die zal worden gebuikt is: Design for adjustable (aangezien de zeten van de wagen per persoon kan ingesteld worden). De ergonomie zal in twee delen opgespitst worden (het swipepaneel en de bedienring).
+
+**Reslustaten**
 
 **Swipepaneel**
 
 **Ergonomische aspecten**
 
-Het eerste aspect dat bekeken wordt voor het swipepaneel is hoe ver het gemonteerd moet zijn t.o.v. de bestuurder. Zoals in onderstaande figuur te zien is, zou het swipepaneel best in een cirkel met een straal tussen de 394 en 508 mm komen te staan waarbij het middelpunt de rechterscouder van de bestuurder is en het eindpunte de hand van de bestuurder. (Zhanfeng, 2018)[^4] 
-Een volgend ascpect is te bepalen hoe diep het paneel moet wegzitten in het dashboard. 
-Ook hiervoor wordt er naar onderstaande figuur verwezen. De beste hoogte om het display te bedienen is op elbooghoogte. Dit komt meestal overeen met een hoogte tussen de 150 mm onder elbooghoogte en 250 mm boven elbooghoogte. De diepte van het dashboard (x-as) wordt kleiner naarmate het display hoger of lager komt te staan. Zo is op elbooghoogte deze nog maximaal 50cm ten opzichte van de borst. Indien de hand op 250 mm boven de elbooghoogte geposistioneerd is wordt de diepte maximaal 600 mm. En ten laatste wanneer de hand zich op 150mm onder de elbooghoogte bevind is de maximale diepte 400 mm van de borst af. (Blumstengel, 2019)[^5]
+Het eerste aspect dat bekeken wordt is hoever het swipepaneel gemonteerd moet worden t.o.v. de bestuurder. Zoals in onderstaande figuur te zien is, zou het swipepaneel best in een gebied tussen twee cirkel met een straal tussen de 394 en 508 mm geplaatst worden (met als middelpunt de rechterschouder van de bestuurder). (Zhanfeng, 2018)[^4] 
+
+De beste hoogte om het display te bedienen is op elbooghoogte zoals op onderstaande figuur. Dit komt meestal overeen met een hoogte tussen de 250 mm en 350 mm t.o.v. de basis van de versnellingspook. Ook bevindt het swipepaneel zich best niet verder dan 590 mm t.o.v. het midden van het stuur. (Blumstengel, 2019)[^5]
 
 <p float="left">
   <img align="top" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/6eaba38c-1336-4648-9423-11f3994a7f10" width="500" />
@@ -211,61 +201,52 @@ Ook hiervoor wordt er naar onderstaande figuur verwezen. De beste hoogte om het 
 
 **Standaardderivaties en percentielen**
 
-Via de DINBELG worden enkele maten bekeken voor de bevolking. 
+Via de DINBELG worden enkele maten bekeken voor 5% tot 95% van de bevolking. 
 
-Rijkdiepte: De gemiddelde rijkdiepte is 767 mm, voor 95,5% van de bevolking is de rijkdiepte in een zittende houding tussen de 667 en 867 mm. Hieruit blijkt dat 95,5% van de bevolking zeker aan de maximale opgestelde diepte van het swipepaneel geraakt. 
+| Afmeting | Gemiddelde (mm) | Z-waarde | SD | Min (mm) | Max (mm) |
+| --- | --- | --- | --- | --- | --- |
+| Rijkdiepte | 767 | 1,65 | 50 | 684,5 | 849,5 |
+| Schouderbreedte | 438 | 1,65 | 32 | 385,2 | 490,8 |
+| Ellebooghoogte | 244 | 1,65 | 24 | 204,4 | 283,6 |
 
-Schouderbreedte: De gemiddelde schouderbreedte is 438 mm, voor 95,5% van de bevolking geldt dat in een zittende houding de schouderbreedte tussen 374 en 502 mm ligt. Het swipepaneel ligt dus best op een minimale afstand van 251 mm van het midden van het stuur (502/2 mm) en een maximale afstand van 695 mm (374/2 + 508 mm) van het midden van het stuur af. 
-
-Ellebooghoogte: De gemiddelde ellebooghoogte is 244 mm, voor 95,5% van de bevolking in een zittende houding ligt de ellebooghouding tussen 196 en 292 mm. Het swipepaneel moet dus op een hoogte van minimaal 46 mm (196 -150 mm) en maximaal 542 mm (292 +250 mm) staan t.o.v. het zitvlak. 
-
+Merk hierbij dat de afstand tenopzicht van het stuur minimaal 192,6 mm en maximaal 245,4 mm is. Dit doordat er maar voor de helft van een schouderbreedte rekening moet gehouden worden. Het swipepaneel komt best ook hoger dan de ellebooghoogte aangezien bestuurder niet rijden in de auto met een arm die 90° geplooid is. Ook zal rijkdiepte een kleinere waarde hebben doordat de bestuurder meestal niet in de wagen rijdt met een volledig gestrekte arm. 
 
 **Simulatie**
 
-Vervolgens worden deze waarden in een Siemens NX simulatie geanalyseerd. Er worden verschillende situaties bekeken, het swipepaneel wordt telkens op een andere plaats gezet, de eerste manier is op een afstand van 250 mm van het stuur en op een maximale afstand van 508mm van de schouder van de bestuurder vandaan (cirkel rond shcouder), ook wordt het op schoduerhoogte gezet (100 mm boven ellebooghoogte). Zoals te zien is op onderstaande figuur is de rechter arm hoogte buiten de comfort zone, de schouderpositie zitten juist op de rand van comfortabel, dit blijft zo voor elke verschillende positie en heeft dus niks te maken met de positie van het swipepaneel. 
+Vervolgens worden deze waarden in een Siemens NX simulatie geanalyseerd. Er worden verschillende situaties bekeken waarbij het swipepaneel wordt verplaatst. De eerste manier is op een afstand van 245,4 mm t.o.v. het midden van het stuur. Ook op een afstand die 648,5 mm t.o.v. de rechterschouder. Zoals te zien is op onderstaande figuur is de rechter arm hoogte buiten de comfort zone, de schouderpositie zitten juist op de rand van comfortabel (dit blijft zo voor elke  simulatie, dus heeft dit niks te maken met de positie van het swipepaneel). 
 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/4404519c-4530-4c7d-b497-929f125680d1">
 </p>
 
-De volgende positie is indien het swipepaneel swipepaneel op een afstand van 394 mm ten opzichte van de schouder geplaatst wordt. De andere waarden veranderen niet, hieruit blijkt dat de arm elevation een nog slechtere comfortabilieteit heeft dan bij de vorige opstelling. De andere waarden blijven ongeveer gelijk.
+De volgende positie is indien het swipepaneel swipepaneel op een afstand van 400 mm ten opzichte van de schouder geplaatst wordt. De andere waarde veranderd niet. Hieruit blijkt dat de arm elevation een nog slechtere waarde heeft dan bij de vorige opstelling.
 
-Vervolgens wordt het scherm terug op de 508 mm geplaatst t.o.v. de schouder, deze keer staat het scherm op een hoogte van 250 mm boven de elleboog. Hierbij is de arm elevation nogmaals slechter dan voordien. Indien het scherm op een hoogte van 100 mm onder de elleboog geplaatst wordt is de arm elevation beter een pak beter. Hoe lager het swipepaneel staat hoe comfortabeler deze positie aanvaard wordt. Het zal moeten blijken uit gebruikerstesten welke positie de beste is bij een beweging van het stuur naar het swipepaneel heen. 
-
-Om een swipebeweging te maken wordt het op elke positie als een comfortabele positie gezien. 
+Vervolgens wordt het scherm terug op de 648,5 mm geplaatst t.o.v. de schouder, deze keer staat het scherm op een hoogte van 283,6 mm ten opzichte van het zitvlak (ongeveer gelijk aan de basis van de versnellingspook). Hierbij is de arm elevation nogmaals slechter dan voordien. Indien het scherm op een hoogte van 204,4 mm geplaatst wordt is de arm elevation beter.
 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/Lightcontrol-ergonomics/assets/155004668/8e0a45ee-d865-4466-b5c2-8035d5d743ae">
 </p>
 
-Voor het swipepaneel geldt dus dat dit het best tussen een afstand van 251 mm en 695 mm van het midden van het stuur zit. Het zit op een diepte tussen twee cirkels met een straal van 394 mm en 508 mm bekeken vanaf de schouder (middelpunt). Op een hoogte tussen 46 mm en 542mm ten opzichte van het zitvlak bevestigd zit. In het volgende deel zullen de gebruikerstesten beschreven worden.
-
-**Protocol_testen_swipepaneel:** https://acrobat.adobe.com/id/urn:aaid:sc:EU:86257e14-afbf-47a2-a1fc-788938a581b1
-
 **Resultaten**
-
-**Swipepaneel** 
-
-Het testprotocol voor deze test staat in de bijlage. 
 
 **Bediencilinder**
 
 **Het stuur**
 
-Om het ergonomisch aspect van het bedieningswiel en de andere knoppen te bepalen word eerst gekeken naar het stuur in het algemeen. Hierbij zijn er drie zones die van belang zijn, de voorkant en de rand. Op de voorkant kunnen verschillende elementen geplaatst worden zoals knoppen of touchpads. Aan de achterkant kunnen de shiftpanelen zitten of de hendels voor richtingaanwijzers of ruitenwissers. De bedieningscilinder zou dan gemonteerd worden op de rand. De hoofdfunctie van het stuur is het besturen van de auto, dit gebeurd in het xy-vlak. Aangzien het stuur gepositioneert staat in het xy-vlak zullen extra bewegingen in het xy-vlak voor extra besturingsfuncties op het stuur. Daarom zijn duw of trek bewegingen in de z-richting de voorkeur om interacties op het stuur te plaatsen, ook beeldschermen en veegbewegingen zijn best gericht in de z-richting.
+Om het ergonomisch aspect van het bedieningswiel en de andere knoppen te bepalen word eerst gekeken naar het stuur in het algemeen. De bedieningscilinder zou gemonteerd worden op de rand. Het draaien van het stuur wordt gemanipuleerd in het xy-vlak. Duw op trekbewegingen (voor de bedienring) worden dus best in de z-richting gedaan.
 
 <p float="left">
   <img align="top" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/6df68a08-4f89-4739-9d77-b8f2976434cb" width="500" />
   <img align="top" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/a616de61-f869-4a70-ad78-544bf44e7f44" width="500" />
 </p>
 
-In moderne wagens wordt er veel gebruik gemaakt van knoppen op het stuur. De knoppen op het stuur bestaan meestal uit drukknopen in de Z-richting of een rollbeweging rond de x-as. Deze knoppen zorgen dat er veel functies op het stuur mogelijk zijn en maken het stuur een multifunctioneel bestuurcenter van de auto. De knoppen zullen geplaatst moeten worden zodat niet gewilde interactie vermeden word. De meeste acties op het stuur worden uitgevoerd door de duim, dit gebeurt tijdens het sturen. De andere vingers houden dan het stuur vast. De positie van de handen op het stuur zijn 10 en 2 volgens de klok. Deze positie zorgt ervoor dat bij het crashen van het voertuig de airbag de armen niet tegen het lichaam aanduwd. In het geval dat we dan een interactie uitvoeren op het stuur is de tijd die men neemt om de knop te bedienen echter korter als de knop op het stuur zit dan als de knop in het dashboard verwerkt zit. Deze interactieknoppen zouden dan ook makkelijk berijkbaar moeten zijn en als het kan blind bedienbaar zijn. Dit is simpel te bekomen door de knoppen groter te maken en een duidelijke schijding tussen de knoppen.
+De knoppen op het stuur bestaan meestal uit drukknopen in de Z-richting of een rollbeweging rond de x-as. De knoppen zullen geplaatst moeten worden zodat niet gewilde interactie vermeden word. De meeste acties op het stuur worden uitgevoerd door de duim. De positie van de handen op het stuur zijn 10 en 2 volgens de klok. Deze positie zorgt ervoor dat bij het crashen van het voertuig de airbag de armen niet tegen het lichaam aanduwd. 
 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/ec0dd831-f80b-4bbd-8f22-da584bfc313d">
 </p>
 
-De achterkant van het stuur maakt gebruik van alle vingers naast de duim. Meervingerige trek acties zijn vaak gebruikt en simpel te gebruiken, deze zullen wel binnen het berijk van de vingers moeten liggen. In dit gedeelte worden meeste interacties gedaan terwijl het stuur vastgehouden wordt. Deze eigenschap wordt dan ook gedeeld met de andere zones op het stuur. Ook hier moeten de knoppen zo geplaatst worden dat deze niet gewilde interactie vermeiden. Op de rand van het stuur kan men ook enkele functies aanbrengen zoals bvb. knijp en draai bewegingen of veeg bewegingen. Hierbij worden de regels ook weer toegepast.
+Op de rand van het stuur kan men ook enkele functies aanbrengen zoals bvb. knijp en draai bewegingen of veeg bewegingen. Hierbij worden de regels ook weer toegepast.
 
 <p float="left">
   <img align="top" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/35741724-7077-4019-b271-6601478d55ba" width="500" />
@@ -274,46 +255,46 @@ De achterkant van het stuur maakt gebruik van alle vingers naast de duim. Meervi
 
 **Fielresearch**
 
-Om de positie van de ring op het stuur te bepalen moet er bepaald worden waar de handen van de bestuurder op het stuur zelf aanwezig is en waar deze bijna nooit passeerd. Tijdens de periode van een week zullen de onderzoekers iedereen filmen waarmee men in een auto zal zitten. Hier filmen deze onderzoekers de handen en achteraf kunnen via de beelden bepaald worden waar de handen van de bestuurder zich bevinden.
+Om de positie van de ring op het stuur te bepalen moet er bekeken worden waar de handen van de bestuurder gepositioneerd zijn tijdens het rijden. Als passagier worden de handplaatsingen van verschillende bestuurders gemapped zodat achteraf de beste plaatsing van de bedienring bepaald kan worden.
 
 <p float="left">
   <img align="top" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/271459b4-5844-4c85-b824-13f01644f353" width="500" />
   <img align="top" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/52255704-3116-4d55-8f03-0d21ed6376b6" width="500" />
 </p>
 
-**Reseltaten Onderzoek**
-
-Tijdens het bekijken van de beelden hebben we enkele verschillende bestuurders bekeken en zien hierbij een vast patroon bij het rijden. De rachter hand wordt vaak van het stuur gehaald. De linker hand heeft de neiging om naar boven of beneden te glijden langs het stuur. Tijdens het draaien van de auto wordt de hand op een vaste positie geplaatst of neemt doet men de standaar draai en doorgrijpen. Tijdens de draai en grijp beweging zijn er 3 punten die vastgegrepen worden: 12u, 4u en 8u. In onderstaande figuur zijn de groene gebieden degene die het meest aangeraakt worden tijdens het rijde. Naarmate de kleur naar oranje toeneemt zijn de plaatsen die minder aangeraakt worden en de witte plaatsen worden amper aangeraakt.
+Uit de fieldresearch blijkt dat de rechterhand vaak van het stuur gehaald wordt. De linkerhand beweegt meer langs het stuur. Tijdens de draai en grijp beweging zijn er 3 punten die vastgegrepen worden: 12u, 4u en 8u. In onderstaande figuur zijn de groene gebieden degene die het meest aangeraakt worden tijdens het rijde. Naarmate de kleur naar oranje toeneemt zijn de plaatsen die minder aangeraakt worden en de witte plaatsen worden amper aangeraakt.
 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/966f5bd0-bb0c-47d1-ab25-8f44204000fe">
 </p>
 
+**Swipepaneel**
+
 **Gebruikerstesten (N=4)**
 
 Het voorgaande ergonomische onderzoek wordt ook nog eens getest met gebruikers. Het concept wordt weer in twee delen opgesplitst: het swipepaneel en het bedieningscilinder. De bedoeling van deze testen is om na te gaan of afstanden van het voorgaand onderzoek ook kloppen in de praktijk. 
-Het prototype waarvan gebruik gemaakt wordt bestaat uit een kartonnen plaat die in de wagen geplaatsts wordt waarop er negen verdelingen staan die telkens een apparte locatie van het swipepaneel moeten aanduiden. De bedoeling is dat de gebruiker over elke positie swiped en aangeeft of dit comfortabel aanvoelt of niet. Deze waarden worden vervolgens gemapped waardoor de ideale positie gevonden wordt. Voor het bedieningscilinder wordt er op het stuur vier mogelijke locaties afgeplats met schilderstape. De gerbuiker moet ook hier aangeven op welke positie deze het bedieningscilinder het comfortableste kan bedienen. Hieronder is de schematische en de praktische uitvoering van deze test te zien. 
+Het prototype waarvan gebruik gemaakt wordt bestaat uit een kartonnen plaat die in de wagen geplaatsts wordt waarop er negen verdelingen staan die telkens een apparte locatie van het swipepaneel moeten aanduiden. De gebruiker swiped over elke positie en geeft vervolgens aan hoe dit aanvoelt. Dit wordt dan gemapped op een template. Voor het bedieningscilinder wordt er op het stuur vier mogelijke locaties afgeplats met schilderstape. Ook hier geeft de gebruiker aan welke positie het best aanvoelt. 
 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/5b673fa3-b226-4b89-a94f-64fb850188aa">
 </p>
 
-Uit deze testen bleek voor het swipepaneel dat de meest comfortabele plaats tussen 1 en 2 ligt. Dit geldt voor elke gebruiker die gestets is geweest. Deze positie wordt gekozen omdat het dicht bij het stuur zit en de gebruikers niet teveel moet bewegen met hun arm om de functies te kunnen bedienen. Ook staat het paneel op die positie niet te hoog of te laag ten opzichte van het stuur. 
-Na metingen blijkt dat het swipepaneeltussen 100 en 250 mm van de rechterkantvan het stuur moet geplaatst worden, op een hoogte tussen 370 en 420 mm ten opzichte van de basis van de versnellingspook. Op een afstand tussen de 400 en 600 mm van de rechterschouder van de bestuurder zit.
+Uit de testen dat de meest comfortabele plaats voor eht swipepaneel tussen 1 en 2 ligt. Deze positie wordt gekozen doordat het dicht genoeg bij het stuur zit. Ook staat het paneel op die positie niet te hoog of te laag ten opzichte van het stuur. 
+Na metingen blijkt dat het swipepaneeltussen 100 en 250 mm van de rechterkantvan het stuur moet geplaatst worden, op een hoogte tussen 370 en 420 mm ten opzichte van de basis van de versnellingspook. Ook op een afstand tussen de 400 en 600 mm van de rechterschouder van de bestuurder zit.
 
 Uit de testen van het bedieningscilinder blijkt dat de beste positie voor elke gebruiker op de rechterbovenkant van het stuur plaatsvind. Deze test werd uitgevoerd met zowel links als rechtshandige gebruikers. Dit wordt als de beste positie aanvaard omdat de gerbuikers meteen na het swipen de bedieningsring kunnen manipuleren met diezelfde hand. Nadien wordt de positie op het stuur gemeten en deze ligt op een hoek van 45° tegen de klok in ten opzichte van het midden van het stuur. 
 
-**Reflectering onderzoek**
-
-De waarden uit de gebruikerstesten worden vergeleken met de waarden uit het voorgaande onderzoek: Tussen de 61 en 505 mm van de rechterkant van het stuur. De waarde uit de test ligt tussen dit interval en geeft een meer specifieke waarde (100-250mm). De hoogte ligt tussen de 46 en 542 mm ten opzichte van de basis van de versnellingspook. De waarde uit de testen ligt ook nu weer tussen dit interval (370-420 mm). Ook nu wordt er een beter interval gevonden. Het swipepaneel moet zich tussen de 394 en 508 mm van de rechterschouder van de gerbuiker plaatsvinden. De gesteste waarde ligt ook binnen dit interval (400-600 mm). 
-
-Voor de bedieningsring blijkt dat de beste positie op een hoek van 45° ten opzicht van het midden van het stuur ligt. Indien deze waarde vergeleken wordt met de fieldresearch dan blijkt dat deze positie dicht bij een plaats op het stuur ligt waar de hand van de bestuurder het vaakst komt tijdens het rijden. Hierdoor kan de funtie makkelijk bediend worden zonder dat de bestuurder zijn hand moet verleggen op het stuur. Ook was de opmerking van één gebruiker dat dit ook het tien voor twee rijgedrag bevorderd wat wel een goeie aanwinst is. 
-
 **Conclusies & implicaties**
 
-Uit het onderzoek en de gebruikerstesten valt te concluderen dat het swipepaneel op een postie tussen de 100 en 250 mm van de rechterkant van het stuur ligt. Op een positie tussen de 370 en 420 mm van de basis van de versnellingspook ligt. En op een positie tussen de 400 en 600 mm ten opzichte van de rechterschouder van de bestuurder ligt. 
+| Afmeting | Vooronderzoek (mm) | Gebruikerstest (mm) |
+| --- | --- | --- |
+| Rijkdiepte | 400 - 648,5 | 400 - 600 | 
+| Schouderbreedte | 192,6 - 245,4 | 100 - 250 | 
+| Ellebooghoogte | 204,4 - 283,6 | 370 - 420 | 
 
-De bedieningsring ligt op een hoek van 45° aan de rechterbovenkant ten opzichte van het midden van het stuur. 
+Zoals vooraf aangegeven is verschillen de waarden van de ellebooghoogte doordat deze in het vooronderzoek bij een arm die 90° gebogen is werd bekeken. De andere waardes liggen ongeveer wel in hetzelfde interval.
+
+Voor de bedieningsring blijkt dat de beste positie op een hoek van 45° ten opzicht van het midden van het stuur ligt. Indien deze waarde vergeleken wordt met de fieldresearch dan blijkt dat deze positie dicht bij een plaats op het stuur ligt waar de hand van de bestuurder het vaakst komt tijdens het rijden.
 
 > [!NOTE]
 > Designrequirements
