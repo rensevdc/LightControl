@@ -308,76 +308,66 @@ Voor de bedieningsring blijkt dat de beste positie op een hoek van 45° ten opzi
 
 **Doelstellingen**
 
-De doelstelling van dit deelonderzoek is om de gebruiksvriendelijkheid en UX aspecten van het prototype in diepgang te bekijken. Aan de hand van experttesten (N=2) en gebruikerstesten (N=4) zal dit aspect van het dashboard verbeterd worden.
+De doelstelling van dit deelonderzoek is om de gebruiksvriendelijkheid en UX aspecten van het prototype in diepgang te bekijken. Aan de hand van twee experttesten (N=2) en gebruikerstesten (N=4) zal dit aspect van het dashboard verbeterd worden.
 
 **Materiaal en methoden**
 
-Om de expert en gebruikerstesten tot een goed eind te laten komen zijn er nieuwe prototypes nodig die meer focussen op de UX aspecten van het dashboard zoals de bediening van functies met het bediencilinder, de connectie tussen de functies en de lichtsignalen en de werking van het swipepaneel. Aan de hand van Arduino en Protopie wordt er een systeem ontwerpen waarbij er op een gsm geswiped wordt om een display aan te sturen. Indien er op de gsm geswiped wordt kan het display tussen drie situaties wisselen (Spotify (groen), Klimaatregeling (rood) en temperatuurregeling (blauw)). Voor het onderdeel van spotify kan via een potentiometer het volume van afspelende muziek aangepast worden. Voor de klimaatregeling kan er tussen vier verschillende bedieningen verwisseld worden met de potentiometer. Om de temperatuur kan ook veranderen door aan de potentiometer te draaien. 
-In totaal worden er twee experttesten en vier gebruikerstesten gedaan. Voor al deze testen werd er een deel via The Wizzard of Ozz testing gewerkt en een deel via een echt werkende display en swipepaneel. 
+Aan de hand van Arduino en Protopie wordt er een systeem gemaakt waarbij er op een gsm geswiped wordt om een display aan te sturen. Indien er op de gsm geswiped wordt kan het display tussen drie situaties wisselen (Spotify (groen), Klimaatregeling (rood) en temperatuurregeling (blauw)). Voor het onderdeel van spotify kan via een potentiometer het volume van afspelende muziek aangepast worden. Voor de klimaatregeling kan er tussen vier verschillende bedieningen verwisseld worden met de potentiometer. Om de temperatuur kan ook veranderen door aan de potentiometer te draaien. 
+In totaal worden er twee experttesten en vier gebruikerstesten gedaan.
 
-*Werking eerste prototype interface*: https://ugentbe-my.sharepoint.com/:v:/r/personal/rense_vandecasteele_ugent_be/Documents/2%20IO/Gebruiksgericht%20ontwerpen/test_display_1.mp4?csf=1&web=1&e=6Ev8QQ
+https://github.com/rensevdc/LightControl/assets/155004668/27d68c95-c239-464f-94fb-af8cbf75979e
 
 **Resultaten**
 
 **Expert test 1 (N=2)**
 
 Uit de experttesten blijkt dat de interface nog niet in orde is. Er moeten meer iconen gebruikt worden om aan te geven op welke functie de gebruiker zich begeeft. De Spotify bediening met de potentiometer werkt goed maar ook hier is er nog een functie nodig om de muziek te kunnen pauzeren en van playlist te wisselen. Hiervoor zal er bij volgende prototypes extra knoppen toegevoegd worden om deze functies te bedienen. Het swipen tussen verschillende functies wordt wel als goed ervaren maar door een bug kan er maar naar één kant geswiped worden. 
-Doordat dit prototye in een te vroege status is om verder op te evalueren zal er na wat aanpassingen opnieuw een expert test afgenomen worden. Hierbij zullen de 10 heuristieken van Nielson ook bekeken worden. 
+Doordat dit prototye in een te vroege status is om verder op te evalueren zal er na wat aanpassingen opnieuw een expert test afgenomen worden.
 
 **Gebruikerstesten (N=4)**
 
-**Materialen en methoden**
-
-Voor de gebruikerstesten wordt het eerste prototype aangepast met de feedback uit het eerste prototype. De aanpassingen die gemaakt worden zijn betere iconen op het klimaatmenu, een cijferwaarde voor de temperatuurregeling, een intensiteitsregeling voor airco, voorruit of achterruitregeling. Ook worden er twee knoppen toegevoegd om extra functies beter te kunnen bedienen. Er zijn extra animaties en overgangen tussen de verschillende displays. De methode die toegepast wordt om deze testen te doen is concepttesting met een diepgaand interview achterna.
-
-Het protoype is hetzelfde opgebouwd zoals het eerste prototype maar met twee extra knoppen en een ander interface. 
-
-**Resultaten**
+Voor de gebruikerstesten wordt het eerste prototype aangepast met de feedback uit de experttesten. De aanpassingen die gemaakt worden zijn betere iconen op het klimaatmenu, een cijferwaarde voor de temperatuurregeling, een intensiteitsregeling voor airco, voorruit of achterruitregeling. Ook worden er twee knoppen toegevoegd om extra functies beter te kunnen bedienen. Er zijn extra animaties en overgangen tussen de verschillende displays. De methode die toegepast wordt om deze testen te doen is concepttesting met een diepgaand interview achterna.
 
 *Bediening Spotify:*
-Op het spotifymenu zat er een kleine bug in de code waardoor de pauzeknop maar voor één nummer werkte. Dit zorgde voor wat verwarring bij de gebruikers. De knoppen vonden ze handig te gebruiken vooral de pauze en doorspoelknop. De interface vinden ze zeer duidelijk, wel zou de pauze knop nog moeten veranderen van icoon. (1) Eén van de gebruikers klikte te lang op de knoppen waardoor deze meerdere signalen doorstuurde naar protopie en de juiste functie dus soms niet berijkt werd. Het idee om vooringestelde playlist in te voegen in een app vinden de gebruikers goed, één van de gebruikers vond dat hij zich gelimiteerd zou voelen aangezien deze vaak van playlist veranderde.
+De knoppen vinden ze handig te gebruiken vooral de pauze en doorspoelknop. De interface vinden ze duidelijk, wel zou de pauze knop nog moeten veranderen van icoon. (1) Er is een aanpassing nodig aan de bediening van de knoppen doordat deze meerdere signalen doorgeeft indien de knop te lang ingedrukt is.
 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/81bc21f6-f091-4e1a-a659-05754d3d6fa0">
 </p>
 
 *Bediening temperatuurregeling:*
-De interface voor de temperatuur te regelen vonden de gebruikers ook goed om te bedienen. Hierbij is het weergeven van de temperatuur op het display wel een verbetering aangezien dit nu preciezer kan geregeld worden. Er werd aangegeven dat het handiger zou zijn dat het display opent indien er aan het bedieningsring gedraaid wordt en dan na vijf seconden inactief te zijn weer weg te gaan. Ook hierbij is er een bug in de code waarbij er indien er op een knop geklikt wordt het display naar het klimaatmenu terugkeert. Bij de intenciteitsregeling is het duidelijk dat er tussen 20 standen gegaan kan worden. De witte kleur van de leds duiden duidelijk aan dat er geen temperatuur maar intenciteit geregeld wordt. 
+Door het toevoegen van een cijferwaarde wordt de bediening van deze interface duidelijker. Bij de intenciteitsregeling is het duidelijk dat er tussen 20 standen gegaan kan worden. De witte kleur van de leds duiden duidelijk aan dat er geen temperatuur maar intenciteit geregeld wordt. 
 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/0ef47f86-ab79-47e2-89ac-f716fa04a187">
 </p>
 
 *Bediening klimaatmenu:*
-Nu er iconen aan het klimaatmenu toegevoegd zijn wordt het meteen duidelijk wat de bedoeling van dit menu is. De gebruikers vonden het goed dat de verschillende vakken verandereden van grootte om aan te geven op welke functie er gefloat word. Het rood worden van de vakken geeft ook een goeie feedback hierbij. Eén gebruiker vond het verloop tegen de klok in van het selecteren van de functie niet natuurlijk aanvoeld en dat het beter zou zijn om de funties met de klok mee te laten bewegen of op een andere manier. (aangegeven door de rode pijl) Het overgaan naar de temperatuurklok met de knoppen vinden de gerbuikers ook handig, maar ze zouden nog een extra bevesteging willen om aan te geven dat ze de functie veranderd hebben zoals een extra keer klikken op een knop.
+Door de iconene is het duidelijker wat de bedoeling van deze interface is. Het vergroten en verkleinen van de vakken was is een goeie manier om de poitie aan te geven. Het rood worden van de vakken geeft ook een goeie feedback hierbij. Eén gebruiker vond het verloop tegen de klok in van het selecteren van de functie niet natuurlijk aanvoeld en dat het beter zou zijn om de funties met de klok mee te laten bewegen of op een andere manier. (aangegeven door de rode pijl) Het overgaan naar de temperatuurklok met de knoppen vinden de gerbuikers ook handig, maar ze zouden nog een extra bevesteging willen om aan te geven dat ze de functie veranderd hebben zoals een extra keer klikken op een knop.
 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/5d3c28f0-fbdf-4e63-ac49-e976b376383d">
 </p>
 
 *Knoppen:*
-Bij deze test werd er met twee knoppen gewerkt. Bij de bediening met spotify werd de pauze knop rap gevonden maar door een bug werkte deze vaak niet op de juiste manier. Een tweede knop dient om van playlist te veranderen en deze werd wel op een goeie manier bediend. De gebruikers vonden het vaak moeilijk om te weten waarvoor de knoppen juist dienden, ze willen nog een extra icoon om dit aan te geven. 
-Bij het klimaatmenu is het ook twijfelen welke van de twee knoppen er juist dient om over te gaan naar de temperatuurregeling. De knoppen zijn wel een aanwinst om het dashbaord te bedienen en zijn vaak een goeie extra feedback. De beste positie voor deze knoppen is dat deze allemaal recht staan volgens de gebruikers.
+De knoppen zijn een aanwinst om het dashbaord te bedienen en zijn vaak een goeie feedback om een functie aan te passen. De beste positie voor deze knoppen is dat deze allemaal recht staan volgens de gebruikers.
 
 *Swipepaneel:*
-Voor het swipepaneel (gsm) blijkt dat dit makkelijk te bedienen is. Sommige gebruikers swipen wel te rap op de gsm waardoor de LED-strip niet het juiste kleur behoud. Door een bug in protopie kan er maar lang een kant geswiped worden, de gerbuikers willen wel lang beide kanten swipen. 
-Sommige gebruikers swipen maar met één vinger en andere swipen met hun volledige hand. Deze verschillende bedienmanieren kunnen de functies bedienen. 
-De gebruikers vinden het een goed idee om hun gsm als database te gebruiken om een gepersonaliseerd dashboard te krijgen. Ook vinden ze het beter om een sensor in te bouwen in het swipepaneel dan dat ze hun gsm zouden leggen in op het dashboard om vervolgens zo hun functies te bedienen.
+Voor het swipepaneel (gsm) blijkt dat dit makkelijk te bedienen is. Het zou beter zijn indien er een sensor zou zijn die de beweging van hun hand tracked en de functie aanpast. Dit zal in een andere test onderzocht worden.
 
 *Bedienring:*
-Om de bedieningsring te begruiken werd er gerbuik gemaakt van een potentiometer. Dit sluit momenteel nog niet aan op de echte werking van de bedieningsring. De gebruikers vinden het een goeie manier om de funties in diepgang te bedienen. Er werd wel gezegd dat het beter zou zijn om met een kliksysteem te werken zodat ze een zekere tussenstanden hebben om op terug te vallen. 
-Deze feature vinden de gerbuikers een meerwaarde aan het concept en zouden ze graag in hun auto willen installeren. Het geeft de bediening van het dashboard een veel aangenamere manier van werken.
+Om de bedieningsring te begruiken werd er gerbuik gemaakt van een potentiometer. Dit sluit momenteel nog niet aan op de echte werking van de bedieningsring. De gebruikers vinden het een goeie manier om de funties in diepgang te bedienen. 
+Deze feature vinden de gebruikers een meerwaarde aan het concept en zouden ze graag in hun auto willen installeren.
 
 *Layout:*
 De layout van het display is vaak duidelijk genoeg om te weten welke interface bij welke functie hoort. De gebruikers vinden wel dat dit nog wat mooier gemaakt kan worden. 
-Het gebruik van kleuren vinden ze een goeie aanvulling maar dit neemt wel de focus weg van de LEDstrip. De iconen staan momenteel tamelijk groot waardoor de aandacht eerder op de interfaces gericht zijn en minder op de ledstrip zelf om de functies te bedienen. 
-De iconen die gebruikt worden zijn ook allemaal duidelijk. Er zouden nog functies kunnen bijkomen voor een GPS, telefoon opnemen/bellen en cruisecontrol.
+Het gebruik van kleuren vinden ze een goeie aanvulling maar dit neemt wel de focus weg van de LEDstrip. 
 
 *Lichtfeedback:*
-Door het gerbuik van een display die tamelijk groot is en met dezelfde kleuren werkt als de LEDstrip vinden de gerbuikers dat deze wat op de achtergrond komt te staan. De gebruikers vinden wel dat dit een toffe extra is aan het dashboard en ze denken ook dat wanneer ze het dashboard wat gewoon zouden worden dat ze eerder zouden letten op de kleuren en minder op het display. 
+De gebruikers vinden wel dat dit een toffe extra is aan het dashboard en ze denken ook dat wanneer ze het dashboard wat gewoon zouden worden dat ze eerder zouden letten op de kleuren en minder op het display. 
 
 *Afleiding:*
-De gebruikers vinden in het algemeen dat ze door dit display minder moeten zoeken om de juiste functies te vinden. Ze kunnen ook voorhun blijven kijken waardoor hun ogen op de baan gericht blijven. 
+De gebruikers vinden in het algemeen dat ze door dit display minder moeten zoeken om de juiste functies te vinden. Ze kunnen ook vooruit blijven kijken waardoor hun ogen op de baan gericht blijven. 
 Door de projectie op de voorruit zouden ze ook minder naar beneden moeten kijken om info af te lezen. 
 De gebruikers zouden dit dashboard wel in hun wagen willen inbouwen aangezien ze het veel veiliger vinden om functies op deze manier in de wagen te bouwen. Ook zouden ze dit willen aanraden bij andere bestuurders. 
 Doordat de interface alleen de nodige info toont vinden de gerbuikers dit veel minder complex om te gebruiken dan hedendaagse dashbaords. 
@@ -385,10 +375,10 @@ Doordat de interface alleen de nodige info toont vinden de gerbuikers dit veel m
 **Conclusies & implicaties**
 
 De belangerijkste conclusies zijn dat het dashboard wel degelijk werkt. Uit de testen blijkt dat gebruikers dit graag gebruiken en dat het een veel minder complexe werking heeft dan hedendaagse dashboards. 
-DE interface is duidelijk opgebouw maar bevat nog een paar fouten en bugs. De knoppen moeten beter werken en zouden ook een icoon mogen hebben zodat het duidelijk is waarvoor deze dienen. Over het algemeen zou de layout van het dashboard wat mooier mogen zijn. Er kunnen nog wat meer animaties bijkomen en een minder opvallend kleurengebruik zodat de focus meer ligt op de LEDstrip. 
-De bediening wordt duidelijk door de potentiometer en het swipepaneel. De gebruikers vinden dit een aangename en zelf toffe manier om functies aan te passen. Wel ontbreken er nog een paar functies zoals telefoongesprekken, cruisecontrol en contacten. De bedienring zou een kliksysteem kunnen hebben zodat er teruggevallen kan worden op standaardtusseninstellingen. 
-Om minder afgeleid te zijn zou het beter zijn moest het display uitvallen na vijf seconden als er geen functie bediend wordt. Ook zou het display wat kleiner mogen zijn zodat het wat minder opvalt en ook weer de LEDstrip de bovenhand kan nemen.  Bij de elke interface is er vaak nog een extra bevesteging nodig die aangeeft indier er een functie aangepast werd. 
-De gebruikers zouden dit dashbaord in hun auto willen gebruiken en het zelf vooropnemen omdat het veel veiliger is dan ingewikkelde touchscreens om te complexe knoppen. Ook zouden ze dit aanraden bij andere bestuurders indien het volledig uitgewerkt is.
+Over het algemeen zou de layout van het dashboard wat mooier mogen zijn.  
+De bediening wordt duidelijk door de potentiometer en het swipepaneel. De gebruikers vinden dit een aangename en zelf toffe manier om functies aan te passen. 
+Om minder afgeleid te zijn zou het beter zijn moest het display uitvallen na vijf seconden als er geen functie bediend wordt. Ook zou het display wat kleiner mogen zijn zodat het wat minder opvalt en ook weer de LEDstrip de bovenhand kan nemen. Bij de elke interface is er vaak nog een extra bevesteging nodig die aangeeft indier er een functie aangepast werd. 
+De gebruikers zouden dit dashbaord in hun auto willen gebruiken en het zelf vooropnemen omdat het veel veiliger is dan ingewikkelde touchscreens om te complexe knoppen.
 
 > [!NOTE]
 > Designrequirements
@@ -401,13 +391,9 @@ De gebruikers zouden dit dashbaord in hun auto willen gebruiken en het zelf voor
 
 Protocol expertesten (met 10 heuristieken): https://acrobat.adobe.com/id/urn:aaid:sc:EU:e2d8e9e2-8357-4fb2-a962-19639df5569f
 
-**Materiaal en methoden**
-
-Bij de tweede expert testen werd er weer een nieuw prototype gebruikt. Het display werd aangepast met de feedback uit de voorgaande testen. De werking blijft echter hetzelfde: er zijn drie grote functies (muziek, temperatuurregeling en klimaatsysteem). De layout, iconen, interactie en feedback van de interface werd vanuit een ander perspectief bekeken. Er worden lichtere kleuren gebruikt zodat het minder opvalt in de wagen. Door twee aparte interfaces te maken wordt er achteraf bepaald uit welke onderdelen van beide interfaces het best overkomen. Deze keer wordt er getest met zowel een gsm die dient als een fysiek swipesysteem en een grove sensor die vanop een afstand bediend kan worden. Na de test werden de expert gevraagd om een vragenlijst met de 10 heuristieken in te vullen om zo te bekijken of de werking en bediening van de interface goed scoort op user Experience.
+Bij de tweede expert testen werd er weer een nieuw prototype gebruikt. Het display werd aangepast met de feedback uit de voorgaande testen. De werking blijft echter hetzelfde. De layout, iconen, interactie en feedback van de interface werd vanuit een ander perspectief bekeken. Er worden lichtere kleuren gebruikt zodat het minder opvalt in de wagen. Door twee aparte interfaces te maken wordt er achteraf bepaald uit welke onderdelen van beide interfaces het best overkomen. Deze keer wordt er getest met zowel een gsm die dient als een fysiek swipesysteem en een grove sensor die vanop een afstand bediend kan worden. Na de test werden de expert gevraagd om een vragenlijst met de 10 heuristieken in te vullen om zo te bekijken of de werking en bediening van de interface goed scoort op user Experience.
 
 https://github.com/rensevdc/LightControl/assets/155004668/ff5a35de-5090-4249-b663-6f9598e03a4b
-
-**Resultaten**
 
 *Bediening Spotify:* 
 Voor de bediening van Spotify blijkt dat de onderste situatie beter aanvaard wordt. Beide experts vinden deze meer herkenbaar dan de nieuwe bovenste bediening. Om de bovenste beter te maken zou de betekenis van de bollen (het wisselen van playslist) beter moeten aangegeven zijn. Het aangeven van een schaal die het volume voorsteld wordt als goed ondervonden. 
