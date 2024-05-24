@@ -453,7 +453,7 @@ Het doel van de interaction design fase is om de finale interacties van de gebru
 Voor dit onderdeel wordt een kart omgebouwd zodat hierop de bedieningsring (potentiometer), knoppen en het swipesysteem op gemonteerd worden (een houten opstelling waar een gsm en grove sensor in passen die modulair verwisseld kunnen worden). Achter het stuur komt een display te staan (pc scherm) die de interface laat zien. Op het swipesysteem komt een LEDstrip te liggen die de kleurenindicatie weergeeft. Ook nu wordt er via protopie en arduino gewerkt (de arduino code en protopie files zijn onderaan dit onderdeel te vinden).
 
 <p align="center">
-<img align="center" width="900" alt="image" src=" ![Uploading IMG20240524153139.jpg…]() ">
+<img align="center" width="900" alt="image" src="https://github.com/rensevdc/LightControl/assets/160232035/f7e556c6-ed84-4a73-99c3-b3a5e2323136">
 </p>
 
 Ook wordt er een human product interaction flowchart en interaction modalities opgesteld. Hierdoor zal de werking en onderlinge connecties van het prototype beter bekeken kunnen worden. 
@@ -490,16 +490,43 @@ Ten laatste wordt er in dit prototype ook gebruikt gemaakt van het zicht van de 
 
 Voor de finale test werden enkele buitenstaanders in de kart geplaatst. Hier werden enkele opdrachten gegeven om te kijken hoe de testpersonen reaggeerden op een nieuw model waar men niets van wist. Achteraf werden ook enkele vragen gesteld over het model en wat zei er van vonden. De tweede testpersoon was aanwezig bij de test met de eerste testpersoon. Dit geeft ons een duidelijk beelt hoe snel iemand de besturing begrijpt zonder zelf te interacteren met de besturing. 
 
-**Bevindingen bij testpersoon 1**
+**Results from testperson 1**
 
 Bij de eerste testpersoon moest er duidelijk bij het eerste contact nog wat gezocht worden naar hoe alles werkte. De swipesensor werd aangezien als een knop. Het besturingswiel was ook niet meteen duidelijk. De functies van alles werd vrij snel duidelijk voor testpersoon 1 en zij was hier dan ook snel soepel mee weg. De interactie verliep vlot en was simpel. De reactie van testpersoon 1 was zeer positief (zie meer in deel: Questions after test).
 
-**Bevindingen bij testpersoon 2**
+**Results from testperson 2**
 
 Bij de tweede testpersoon was alles direct duidelijk. Ze had ook alles gezien en vond dit vrij simpel om zelf uit te voeren. De reactie van testpersoon kwam overeen met die van testpersoon 1.
+
+**Questions after test**
+- Wat waren de bevindingen van het dashboard?
+
+    "Leuk gedaan, we vonden het een tof en goed idee. De iconen op het dashboard zelf waren echt duidelijk, behalve het verschil tussen voor- en achterruitverwarming. Het was een simpel en makkelijk model om te gerbuiken en we zien al veel elementen in hedendaagse wagens."
+
+- Zou u dit zelf willen in uw toekomstige auto?
+
+    "Zeker, ik merk nu al in mijn wagen dat ik veel bezig ben met het scherm in de midden of mijn GSM. Dit zou mij toch iets veiliger over de baan laten gaan."
+
+- Vondt u dat u een veiliger gevoel had in de wagen?
+
+    "Ja, zoals ik al zei: nu voel ik me vaak  onveilig terwijl ik bezig ben met instellingen op het scherm midden in mijn wagen."
+
+- Werdt u afgeleid door het veranderen van de lichtkleur in de wagen?
+
+    "Nee, zeker niet in het begin zagen we dit zelf niet. Het licht zou zelf wat feller mogen. Ook leuk dat het zich mee aanpast aan de temperatuur of het volume van de muziek."
+
+- Had u het scherm nog nodig om te weten welke functie u bediende?
+- Denkt u dat u deze makkelijk uit het hoofd zou leren?
+
+    "In het moment zelf moest ik wel nog kijken, maar volgens mij leer je dat ook snel uit je hoofd. Hoe meer functies er ook in zitten hoe moeilijker het wordt om dit uit je hooft te weten."
+
+- Zou u een app waarin je de besturing en de kleuren kan personaliseren nuttig vinden?
+
+    "Dat zou een heel leuk extra zijn. Niet alleen kan je zelf de functies kiezen de jij nodig acht in de wagen, maar ook kan je een persoonlijke touch aan je wagen geven."
+
 **Conclusies en implicaties**
 
-
+Het consept en het final model is een vrij geslaagd ontwerp die door simpelheid en eenvoudigheid een veiligere rijervaring bied aan de chauffeur. Er is veel positieve feetback, maar er moet nog wat aan ge-finetuned worden. Een app ontwerpen zou een grote meerwaarde geven aan de chauffeur om zo zelf te bepalen wat hij/zij nodig heeft achter het stuur. De no-screen interface heeft een positieve invloed op de tijd die je ogen van de baan houden. Alle controls op het stuur plaatsen was een taktische beslissing aangezien we zien dat tijdens de test er vrij weinig een hand van het stuur ging en dit telkens voor een korte tijd. De reactie van de testpersonen zelf was positief, ze waren verwonderd van het model en zouden onmiddelijk dit zelf willen in hun wagen. De technologie is allemaal aanwezig en het idee zou morgen op straat kunnen rondrijden als het enkel van de technologie afhing.
 
 ## Design  requirements
 
