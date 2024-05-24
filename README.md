@@ -482,6 +482,17 @@ Ten laatste wordt er in dit prototype ook gebruikt gemaakt van het zicht van de 
 <img align="center" width="900" alt="image" src="https://github.com/rensevdc/LightControl/assets/155004668/50f93f47-7b05-445f-9d1e-3c9ae77e0a61">
 </p>
 
+**final tests**
+
+Voor de finale test werden enkele buitenstaanders in de kart geplaatst. Hier werden enkele opdrachten gegeven om te kijken hoe de testpersonen reaggeerden op een nieuw model waar men niets van wist. Achteraf werden ook enkele vragen gesteld over het model en wat zei er van vonden. De tweede testpersoon was aanwezig bij de test met de eerste testpersoon. Dit geeft ons een duidelijk beelt hoe snel iemand de besturing begrijpt zonder zelf te interacteren met de besturing. 
+
+**Bevindingen bij testpersoon 1**
+
+Bij de eerste testpersoon moest er duidelijk bij het eerste contact nog wat gezocht worden naar hoe alles werkte. De swipesensor werd aangezien als een knop. Het besturingswiel was ook niet meteen duidelijk. De functies van alles werd vrij snel duidelijk voor testpersoon 1 en zij was hier dan ook snel soepel mee weg. De interactie verliep vlot en was simpel. De reactie van testpersoon 1 was zeer positief (zie meer in deel: Questions after test).
+
+**Bevindingen bij testpersoon 2**
+
+Bij de tweede testpersoon was alles direct duidelijk. Ze had ook alles gezien en vond dit vrij simpel om zelf uit te voeren. De reactie van testpersoon kwam overeen met die van testpersoon 1.
 **Conclusies en implicaties**
 
 
