@@ -66,13 +66,13 @@ Naast online onderzoek werden er ook interviews met verschillende bestuurders ge
 
 **Resultaten**
 
-Uit het vooronderzoek wordt er al een algemeen beeld gegeven waar de focus moet liggen. Aangezien de grootste afleiding ontstaat bij het gebruiken van touchscreen wordt er voor een screenfree display gekozen d.w.z. waar er zo weinig mogelijk tot geen schermen aanwezig zijn. Er wordt voorkeur gegeven om de controls bij het stuur te houden en niet op een andere plaats zoals het dashboard. Er zal dus gestreefd worden naar een centraal bestuurssysteem waar weinig tot geen schermen aanwezig zijn en een interface op het stuur die acties binnen bepaalde onderdelen van het besturingssysteem kan voltooien. Uit onderzoek zien we ook dat tijdens het rijden met het voertuig weinig instellingen moeten aangepast worden en er zelf geen vraag is naar het kunnen sturen of lezen van berichten. De instellingsmenu van de wagen wordt vrijwel niet gebruikt en zal dus ook niet snel beschikbaar moeten zijn.
+Uit het vooronderzoek wordt er al een algemeen beeld gegeven waar de focus moet liggen. Aangezien de grootste afleiding ontstaat bij het gebruiken van touchscreen wordt er voor een screenfree display gekozen d.w.z. waar er zo weinig mogelijk tot geen schermen aanwezig zijn. Er wordt voorkeur gegeven om de controls bij het stuur te houden en niet op een andere plaats zoals het dashboard. Er zal dus gestreefd worden naar een centraal besturingssysteem waar weinig tot geen schermen aanwezig zijn en een interface op het stuur die acties binnen bepaalde onderdelen van het besturingssysteem kan voltooien. Uit onderzoek zien we ook dat tijdens het rijden met het voertuig weinig instellingen moeten aangepast worden en er zelfs geen vraag is naar het kunnen sturen of lezen van berichten. Het instellingsmenu van de wagen wordt vrijwel niet gebruikt en zal dus ook niet snel beschikbaar moeten zijn.
 
-Mogelijke technologiën die gebruikt kunnen worden zijn AR-technologie om de navigatie te bedienen, verschillende knoppen op het stuur, spraaktechnologie, ect. Om zonder schermen te werken moet er een andere manier gevonden worden om feedback aan de bestuurder te geven. Dit kan gebeuren via trilfuncties, spraakassistentie, kleurengebruik, info op het windscherm, ect.
+Mogelijke technologiën die gebruikt kunnen worden zijn AR-technologie om de navigatie te bedienen, verschillende knoppen op het stuur, spraaktechnologie, ect. Om zonder schermen te werken moet er een andere manier gevonden worden om feedback aan de bestuurder te geven. Dit kan gebeuren via trilfuncties, spraakassistentie, kleurgebruik, info op het windscherm, ect.
 
 **Conclusies & implicaties**
 
-Uit het vooronderzoek is het duidelijk geworden aan welke aspecten het dashboard moet voldoen. Het belangrijkste aspect is veiligheid, de bestuurder moet veilig het dashboard kunnen bedienen en moet zo weinig mogelijk zijn ogen van de baan afhalen. Het is ook duidelijk dat er veel verschillende functies moeten bediend worden, er zal dus een manier moeten gezocht worden om al deze functies te kunnen bedienen zonder een scherm of te veel ingewikkelde knoppen. Natuurlijk moet het dashboard ook nog in de wagen passen en moet deze een mooi afgewerkte look krijgen.
+Uit het vooronderzoek is het duidelijk geworden aan welke aspecten het dashboard moet voldoen. Het belangrijkste aspect is veiligheid, de bestuurder moet veilig het dashboard kunnen bedienen en moet zo weinig mogelijk zijn ogen van de baan afhalen. Het is ook duidelijk dat er veel verschillende functies moeten bediend worden. Er zal dus een manier moeten gezocht worden om al deze functies te kunnen bedienen zonder een scherm of te veel ingewikkelde knoppen. Natuurlijk moet het dashboard ook nog in de wagen passen en moet deze een mooi afgewerkte look krijgen.
 > [!NOTE]
 > Designrequirements
 > - De bestuurder mag niet afgeleid zijn van de weg
@@ -83,11 +83,11 @@ Uit het vooronderzoek is het duidelijk geworden aan welke aspecten het dashboard
 
 **Doelstellingen**
 
-De doelstelling van de definition fase was om onze concepten te testen bij gebruikers. Hieruit kan beslist worden met welk concept er verder gewerkt wordt. Ook wordt er gezien waar de sterke en zwakke punten in het gekozen concept zitten en kunnen deze nog verder uitgewerkt worden. Het hoofddoel is om te weten of het concept kan werken of niet.
+De doelstelling van de definition fase was om onze concepten te testen bij gebruikers. Hieruit kan beslist worden met welk concept er verder gewerkt wordt. Ook wordt er gekeken waar de sterke en zwakke punten in het gekozen concept zitten en worden deze nog verder uitgewerkt. Het hoofddoel is om te weten of het concept kan werken of niet.
 
 **Materiaal & methoden**
 
-Het materiaal dat gebruikt wordt zijn de zes prototypes, een PlayStation met een racesimulator, een PlayStation stuur met pedalen, een muziek box en een RGB-lamp die op afstand bediend kan worden. 
+Het materiaal dat gebruikt wordt zijn de zes prototypes: een PlayStation met een racesimulator, een PlayStation stuur met pedalen, een muziek box en een RGB-lamp die op afstand bediend kan worden. 
 De methode die gebruikt wordt is de wizard of Oz testing. Hierbij werden er testen gedaan waarbij de interviewer op de achtergrond de omstandigheden veranderde. 
 
 Aan de gebruiker werd er gevraagd om een traject op een racespel af te leggen (hierbij komt die wat obstakels tegen zoals bochten, tegenliggend verkeer, dieren dat over de baan heen lopen, ect.) De baan werd weergegeven via ingame navigatie op 'The Crew 2'. Eens de gebruiker de bediening gewoon is geworden van het stuur en pedalen wordt er per prototype gevraagd om een functie in te stellen (dit kan muziek, klimaatregeling, temperatuur, ect. zijn). Als de gebruiker op de juiste manier de prototypes bediend, wordt het kleur van de functie aangegeven en veranderde de omstandigheden (muziek luider/stiller, kleur feller/minder fel). Voor zowel de eerste en tweede wave van de testen werden de prototypes bij telkens drie gebruikers getest. 
