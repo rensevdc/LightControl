@@ -32,7 +32,7 @@ Ook is er besloten geweest dat tijdens het rijden er geen scherm mag gebruikt wo
 Het eerste semester was opgedeeld in twee grote fasen: de discovery fase en de definition fase. Zoals in de figuur hieronder te zien is werd er per fase met andere methodes het doel bereikt.
 
 <p align="center">
-<img align="center" width="1000" alt="image" src="https://github.com/rensevdc/LightControl/assets/155004668/db57edee-0c60-4e33-bf19-15f9f6b755c0">
+<img align="center" width="1000" alt="image" src="https://github.com/rensevdc/LightControl/assets/155004668/51141c7f-e42c-4e1c-befe-b339d1bc7cdc">
 </p>
 
 In de eerste deelfase (vooronderzoek) werd er nagedacht over het probleem die opgelost moest worden. Via een Literatuuronderzoek (met internetbronnen) werd er informatie opgedaan over dit onderwerp. Het was belangrijk om deze info goed te ontleden om het probleem te vinden. Na een literatuuronderzoek werd er naar GRAND STUDIO gegaan om de eisen van de opdrachtgevers beter in beeld te krijgen. Hierbij werden er heel wat dingen opgeklaard. Ten laatste werden er user interviews afgelegd. Hierbij werd er afgetoetst wat de gebruiker verwachte van een dashboard en op welke manieren de gebruikers afgeleid worden in de wagen. Al deze informatie werd gebundeld in een rapport en zo werden de eisen van het dashboard bepaald. Hierna werd uit al de bekomen info bepaald wat de belangerijkste aspecten voor het dashboard zijn. Dit werd aan de hand van een WWWWWH, persona en decision framewrok gedaan. 
