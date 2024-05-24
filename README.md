@@ -453,7 +453,7 @@ Het doel van de interaction design fase is om de finale interacties van de gebru
 Voor dit onderdeel wordt een kart omgebouwd zodat hierop de bedieningsring (potentiometer), knoppen en het swipesysteem op gemonteerd worden (een houten opstelling waar een gsm en grove sensor in passen die modulair verwisseld kunnen worden). Achter het stuur komt een display te staan (pc scherm) die de interface laat zien. Op het swipesysteem komt een LEDstrip te liggen die de kleurenindicatie weergeeft. Ook nu wordt er via protopie en arduino gewerkt (de arduino code en protopie files zijn onderaan dit onderdeel te vinden).
 
 <p align="center">
-<img align="center" width="900" alt="image" src="">
+<img align="center" width="900" alt="image" src=" ![Uploading IMG20240524153139.jpg…]() ">
 </p>
 
 Ook wordt er een human product interaction flowchart en interaction modalities opgesteld. Hierdoor zal de werking en onderlinge connecties van het prototype beter bekeken kunnen worden. 
