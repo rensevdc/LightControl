@@ -406,24 +406,11 @@ Voor de zetelverwarmingsintensiteit vinden bijde experts de bediening met drie g
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/c1f5b67c-604e-45f1-8d22-b997e34225f3">
 </p>
 
-*Swipepaneel:*
-Het swipen of bewegen over de grovesensor wordt als natuurlijk ondervonden en de experts vinden het een goeie manier om de hoofdfuncties te bedienen. Het wordt zelf als leuk ervaren en geeft dus een meerwaarde aan de ueser experience. De experts gebruiken telkens een beweging van links naar recht of omgekeerd omdat dit het meest natuurlijk aanvoeld. 
-
-*Bedienring:*
-Het verder instellen van de subfunties met een bedienring vinden de experten ook goed en leuk om te gebruiken. Ze vinden ook dat het een veiliger gevoel geeft doordat hun handen op het stuur blijven staan. Indien dit echt zou werken (momenteel met wizzard of Oz testing) zou dit een zeer goeie functie zijn in de wagen. 
-
-*Layout:*
-De layout zou nog beter kunnen maar ze vinden het beide niet slecht. 
-
-*Lichtfeedback:*
-Door een sober interface nemen de kleuren van de LEDstrip meer de bovenhand. Het wordt rap duidelijk op welke functie de experten zich begeven voordat ze op het display kijken. Het zou goed zijn mochten de lichten niet volledig uitslaan indien de bediencilinder (potentiometer) naar beneden gedraaid wordt. 
-
-*Afleiding:*
-Over het algemeen vinden de experts dat er minder afleiding achter het stuur is. De interface wordt momenteel tamelijk groot afgebeeld waardoor het ook wel opvalt. Indien dit ingewerkt zou zitten in een HUD systeem of indien het op de voorruit geprojecteerd zou worden, denken de experts wel dat het veel minder afleiding zou geven dan hedendaagse dashboards. 
-
 **10 heuristieken:**
 
 Na de testen en de bevraging hebben de experts een invulblad gekregen met de 10 heuristieken op en een schaal. Er werd hen gevraagd om deze in te vullen en waar nodig ook feedback op te geven. Dit was telkens op een schaal van 1 tot en met 5 of met een schaal eerder niet - eerder wel. Naast een heuristiek staat telkens tussen haakjes welke score er gegeven is. *bv. (4-5) de eertse expert gaf een score van 4/5 en de tweede expert gaf een score van 5/5*.
+
+Analyse 10 heuristieken: https://acrobat.adobe.com/id/urn:aaid:sc:EU:30cf4c6a-3f0b-40a6-a126-7f0843af3a9e
 
 *Regelmatig gebruik:* (5 - 4)
 De experts vinden het een innovatief systeem om mee te werken en vinden de bediening met de cilinder en swipesysteem zeer tof. 
@@ -436,21 +423,6 @@ Door een simpele bediening wordt het dashboard als eenvoudeig ervaren. Ook het s
 
 *Hulp nodig van een technisch persoon:* (eerder niet - eerder niet)
 Het systeem makkelijk te bedienen dus de expert vinden ook niet de gebruikers hulp zouden nodig hebben van een persoon met de nodige kennis. 
-
-*Functies goed geïntegreerd:* (4-5)
-De fucnties zijn meetal duidelijk weergegeven. Er is meestal genoeg feedback indien er iets aangepast wordt.
-
-*Rappe bediening:* (4-4)
-Jongere mensen zouden er rapper mee overweg kunnen dan 50 plussers, maar dit neemt niet weg van de eenvoudigheid van het systeem. 
-
-*Moeizaam te bedienen:* (eerder niet-eerder niet)
-De exeprts vinden het niet moeizaam te bedienen.
-
-*Zelfzeker om het systeem te bedienen:* (5-4)
-Het heeft eerst wat wenning nodig maar na het eens te gebruiken wordt het systeem bedienen als goed en tof ervaren.
-
-*Dingen leren vooraleer het systeem te gebruiken:* (eerder niet-eerder niet)
-DE experts vinden het niet nodig om vooraf dingen te moeten leren om het systeem te bedienen.
 
 **Conclusies & implicaties**
 
