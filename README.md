@@ -556,7 +556,7 @@ https://acrobat.adobe.com/id/urn:aaid:sc:EU:efc3a025-2f44-4f5d-b754-e5034d521561
 **Protocol_1:**
 https://acrobat.adobe.com/id/urn:aaid:sc:EU:645fee3d-4fa2-422e-8594-370484b4276c
 
-**Uitgetypte testen_1:**
+**Analyse testen_1:**
 https://acrobat.adobe.com/id/urn:aaid:sc:EU:ec5d19d6-077b-4219-a105-6aac02018bfe
 
 https://acrobat.adobe.com/id/urn:aaid:sc:EU:9f1b6491-b301-471e-9b52-2fa587c7459f
@@ -565,6 +565,299 @@ https://acrobat.adobe.com/id/urn:aaid:sc:EU:8f522c22-b66b-4867-83d1-d8d3f87b41f9
 
 **Protocol_2:**
 https://acrobat.adobe.com/id/urn:aaid:sc:EU:9778ee46-1f50-4665-b808-45dea4393aeb
+
+**Protocol ergonomie**
+https://acrobat.adobe.com/id/urn:aaid:sc:EU:689d6388-93ca-42be-b201-4ee03acd4694
+
+**Analyse ergonomie**
+https://acrobat.adobe.com/id/urn:aaid:sc:EU:d949970a-55bf-4ad1-9b35-8e741b673c48
+
+**Protocol UX design**
+https://acrobat.adobe.com/id/urn:aaid:sc:EU:fea94173-9b86-4974-9ea0-6944431b008b
+
+**Analyse UX design**
+https://acrobat.adobe.com/id/urn:aaid:sc:EU:e7551518-8e3a-4134-9b19-b6a5b97a3953
+
+**Protocol UX design experts**
+https://acrobat.adobe.com/id/urn:aaid:sc:EU:6b84e563-7dd9-409d-ad3f-324a481537d3
+
+**Analyse UX design experts**
+https://acrobat.adobe.com/id/urn:aaid:sc:eu:6527ee51-fd73-4385-8622-84373df9e4fb
+
+**Protocol interaction design**
+
+**Analyse interaction design**
+
+**Code arduino**
+[Uploa
+#include <FastLED.h>
+#include <Wire.h>
+#include "paj7620.h"
+#define NUM_LEDS 40
+#define rotarySensor A1
+#define knop_play 8
+#define knop_playlist 10
+#define LED_PIN 6
+#define ledPin 6
+
+#define GES_REACTION_TIME 500 // You can adjust the reaction time according to the actual circumstance.
+#define GES_ENTRY_TIME 800 // When you want to recognize the Forward/Backward gestures, your gestures' reaction time must less than GES_ENTRY_TIME(0.8s). 
+#define GES_QUIT_TIME 1000
+
+CRGB leds[NUM_LEDS];
+
+String oldScreenbuttonState = "led_0";
+String newScreenbuttonState ="led_0";
+int oldSensorValue;
+int knopstatus = 0;
+
+
+void setup() {
+  Serial.begin(9600);
+  FastLED.addLeds<WS2812B, LED_PIN, GRB>(leds, NUM_LEDS);
+  pinMode(ledPin, OUTPUT);
+  pinMode(rotarySensor, INPUT);
+  pinMode(knop_play, INPUT_PULLUP);
+  pinMode(knop_playlist, INPUT_PULLUP);
+
+  uint8_t error = 0;
+
+  Serial.println("\nPAJ7620U2 TEST DEMO: Recognize 9 gestures.");
+ 
+ 
+error = paj7620Init();// initialize Paj7620 registers
+if (error) 
+{
+Serial.print("INIT ERROR,CODE:");
+Serial.println(error);
+}
+else
+{
+Serial.println("INIT OK");
+}
+Serial.println("Please input your gestures:\n");
+}
+
+void loop() {
+
+int sensorValue = analogRead(rotarySensor)*10.2;
+int sensorvalue_marge = (round(sensorValue/5)*5);
+
+
+String knopstatus_nieuw_play;
+String knopstatus_nieuw_playlist;
+String knopstatus_oud_play;
+String knopstatus_oud_playlist;
+
+
+//Serial.println(abs(oldSensorValue - sensorvalue_marge));
+
+  if (abs(oldSensorValue - sensorvalue_marge)>5){
+    Serial.print("angle||");
+    Serial.println(sensorvalue_marge);
+    FastLED.setBrightness(sensorvalue_marge/10+20);
+    FastLED.show();
+    oldSensorValue = sensorvalue_marge;
+  }
+
+  byte knopstatus = digitalRead(knop_play);
+
+  if (sensorvalue_marge == 0){
+    knopstatus_nieuw_play = "knop_0";}
+  else if (sensorvalue_marge < 245){
+    knopstatus_nieuw_play = "knop_0";}
+  else if ( sensorvalue_marge < 500){
+    knopstatus_nieuw_play = "knop_1";}
+  else if (sensorvalue_marge < 770){
+    knopstatus_nieuw_play = "knop_2";}
+  else if (sensorvalue_marge < 1025){
+    knopstatus_nieuw_play = "knop_3";}  
+
+  if(knopstatus == LOW){
+    if(knopstatus_oud_play != knopstatus_nieuw_play){
+      knopstatus_oud_play = knopstatus_nieuw_play;
+      Serial.println(knopstatus_nieuw_play);
+      delay(300);
+    }
+    }
+
+  byte knopstatus_playlist = digitalRead(knop_playlist);
+
+  if (sensorvalue_marge != 0){
+    knopstatus_nieuw_playlist = "knop_5";}
+
+  if(knopstatus_playlist == LOW){
+    if(knopstatus_oud_playlist != knopstatus_nieuw_playlist){
+      knopstatus_oud_playlist = knopstatus_nieuw_playlist;
+      Serial.println(knopstatus_nieuw_playlist);
+      delay(300);
+    }
+    }
+  
+
+  if(Serial.available()){
+      newScreenbuttonState = Serial.readStringUntil(';');
+  }
+
+  if(newScreenbuttonState == "led_0"){
+    for (int i = 0; i < NUM_LEDS; i += 1) {
+    leds[i] = CRGB::Red;
+  }
+  
+  FastLED.show();
+  
+    oldScreenbuttonState = newScreenbuttonState;
+  }
+  if(newScreenbuttonState == "led_1"){
+    for (int i = 0; i < NUM_LEDS; i += 1) {
+    leds[i] = CRGB::Green; //
+    
+
+  }
+  
+  FastLED.show();
+
+    oldScreenbuttonState = newScreenbuttonState;
+  }
+
+  if(newScreenbuttonState == "led_2"){
+    for (int i = 0; i < NUM_LEDS; i += 1) {
+  leds[i] = CRGB::DarkBlue;
+  }
+
+
+  FastLED.show();
+
+    oldScreenbuttonState = newScreenbuttonState;
+  }
+
+if(newScreenbuttonState == "led_3"){
+    for (int i = 0; i < NUM_LEDS; i += 1) {
+  leds[i] = CRGB::Red;
+  }
+
+
+  FastLED.show();
+
+    oldScreenbuttonState = newScreenbuttonState;
+  }
+
+  uint8_t data = 0, data1 = 0, error;
+ 
+ 
+error = paj7620ReadReg(0x43, 1, &data);// Read Bank_0_Reg_0x43/0x44 for gesture result.
+if (!error) 
+{
+switch (data) // When different gestures be detected, the variable 'data' will be set to different values by paj7620ReadReg(0x43, 1, &data).
+{
+case GES_RIGHT_FLAG:
+delay(GES_ENTRY_TIME);
+paj7620ReadReg(0x43, 1, &data);
+if(data == GES_FORWARD_FLAG) 
+{
+Serial.println("Forward");
+delay(GES_QUIT_TIME);
+}
+else if(data == GES_BACKWARD_FLAG) 
+{
+Serial.println("Backward");
+delay(GES_QUIT_TIME);
+}
+else
+{
+Serial.println("Right");
+}          
+break;
+case GES_LEFT_FLAG: 
+delay(GES_ENTRY_TIME);
+paj7620ReadReg(0x43, 1, &data);
+if(data == GES_FORWARD_FLAG) 
+{
+Serial.println("Forward");
+delay(GES_QUIT_TIME);
+}
+else if(data == GES_BACKWARD_FLAG) 
+{
+Serial.println("Backward");
+delay(GES_QUIT_TIME);
+}
+else
+{
+Serial.println("Left");
+}          
+break;
+case GES_UP_FLAG:
+delay(GES_ENTRY_TIME);
+paj7620ReadReg(0x43, 1, &data);
+if(data == GES_FORWARD_FLAG) 
+{
+Serial.println("Forward");
+delay(GES_QUIT_TIME);
+}
+else if(data == GES_BACKWARD_FLAG) 
+{
+Serial.println("Backward");
+delay(GES_QUIT_TIME);
+}
+else
+{
+Serial.println("Up");
+}          
+break;
+case GES_DOWN_FLAG:
+delay(GES_ENTRY_TIME);
+paj7620ReadReg(0x43, 1, &data);
+if(data == GES_FORWARD_FLAG) 
+{
+Serial.println("Forward");
+delay(GES_QUIT_TIME);
+}
+else if(data == GES_BACKWARD_FLAG) 
+{
+Serial.println("Backward");
+delay(GES_QUIT_TIME);
+}
+else
+{
+Serial.println("Down");
+}          
+break;
+case GES_FORWARD_FLAG:
+Serial.println("Forward");
+delay(GES_QUIT_TIME);
+break;
+case GES_BACKWARD_FLAG:  
+Serial.println("Backward");
+delay(GES_QUIT_TIME);
+break;
+case GES_CLOCKWISE_FLAG:
+Serial.println("Clockwise");
+break;
+case GES_COUNT_CLOCKWISE_FLAG:
+Serial.println("anti-clockwise");
+break;  
+default:
+paj7620ReadReg(0x44, 1, &data1);
+if (data1 == GES_WAVE_FLAG) 
+{
+Serial.println("wave");
+}
+break;
+}
+}
+delay(100);
+
+}
+ding LedS_swipepaneel.ino…]()
+
+**Files interfaces**
+
+https://cloud.protopie.io/p/30c71e7211e512dd43887452
+
+https://cloud.protopie.io/p/3f1bccdcaeeecfb6b0c15d8d
+
+**Files swipepaneel**
+https://cloud.protopie.io/p/a6c0744e0f9ae9ab82494031
 
 **Informed consent:**
 https://acrobat.adobe.com/id/urn:aaid:sc:EU:691bc083-4918-43dd-b07e-24ed760b7df1
