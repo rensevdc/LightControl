@@ -18,6 +18,9 @@ Door gebruik te maken van twee onderdelen en geen touchscreen wordt de afleiding
 <img align="middle" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/b2dcd549-1412-4568-902f-9afe4e874f5a">
 </p>
 
+<p align="center">
+<img align="middle" width="600" alt="image" src="https://github.com/rensevdc/LightControl/assets/155004668/dbb4c3e3-a795-4dd9-b8cb-b28698bd6fcc">
+</p>
 
 ## Introductie
 
