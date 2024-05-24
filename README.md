@@ -312,7 +312,7 @@ De doelstelling van dit deelonderzoek is om de gebruiksvriendelijkheid en UX asp
 
 **Materiaal en methoden**
 
-Aan de hand van Arduino en Protopie wordt er een systeem gemaakt waarbij er op een gsm geswiped wordt om een display aan te sturen. Indien er op de gsm geswiped wordt kan het display tussen drie situaties wisselen (Spotify (groen), Klimaatregeling (rood) en temperatuurregeling (blauw)). Voor het onderdeel van spotify kan via een potentiometer het volume van afspelende muziek aangepast worden. Voor de klimaatregeling kan er tussen vier verschillende bedieningen verwisseld worden met de potentiometer. Om de temperatuur kan ook veranderen door aan de potentiometer te draaien. 
+Aan de hand van Arduino en Protopie wordt er een systeem gemaakt waarbij er op een gsm geswiped wordt om een display aan te sturen. Indien er op de gsm geswiped wordt kan het display tussen drie situaties wisselen (Spotify (groen), Klimaatregeling (rood) en temperatuurregeling (blauw)). Voor het onderdeel van spotify kan via een potentiometer het volume van afspelende muziek aangepast worden. Voor de klimaatregeling kan er tussen vier verschillende bedieningen verwisseld worden met de potentiometer. De temperatuur kan ook veranderen door aan de potentiometer te draaien. 
 
 https://github.com/rensevdc/LightControl/assets/155004668/27d68c95-c239-464f-94fb-af8cbf75979e
 
@@ -325,7 +325,9 @@ Doordat dit prototye in een te vroege status is om verder op te evalueren zal er
 
 **Gebruikerstesten (N=4)**
 
-Voor de gebruikerstesten wordt het eerste prototype aangepast met de feedback uit de experttesten. De aanpassingen die gemaakt worden zijn betere iconen op het klimaatmenu, een cijferwaarde voor de temperatuurregeling, een intensiteitsregeling voor airco, voorruit of achterruitregeling. Ook worden er twee knoppen toegevoegd om extra functies beter te kunnen bedienen. Er zijn extra animaties en overgangen tussen de verschillende displays. De methode die toegepast wordt om deze testen te doen is concepttesting met een diepgaand interview achterna.
+Voor de gebruikerstesten wordt het eerste prototype aangepast met de feedback uit de experttesten. De aanpassingen die gemaakt worden zijn betere iconen op het klimaatmenu, een cijferwaarde voor de temperatuurregeling, een intensiteitsregeling voor airco, voorruit of achterruitregeling. Ook worden er twee knoppen toegevoegd om extra functies beter te kunnen bedienen.
+
+De analyse van de gebruikerstesten is te vinden onder deze link: https://acrobat.adobe.com/id/urn:aaid:sc:EU:e694e1f7-4db2-437c-85ce-4aed0f00de9a 
 
 *Bediening Spotify:*
 De knoppen vinden ze handig te gebruiken vooral de pauze en doorspoelknop. De interface vinden ze duidelijk, wel zou de pauze knop nog moeten veranderen van icoon. (1) Er is een aanpassing nodig aan de bediening van de knoppen doordat deze meerdere signalen doorgeeft indien de knop te lang ingedrukt is.
@@ -347,29 +349,6 @@ Door de iconen is het duidelijker wat de bedoeling van deze interface is. Het ve
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/5d3c28f0-fbdf-4e63-ac49-e976b376383d">
 </p>
-
-*Knoppen:*
-De knoppen zijn een aanwinst om het dashbaord te bedienen en zijn vaak een goeie feedback om een functie aan te passen. De beste positie voor deze knoppen is dat deze allemaal recht staan volgens de gebruikers.
-
-*Swipepaneel:*
-Voor het swipepaneel (gsm) blijkt dat dit makkelijk te bedienen is. Het zou beter zijn indien er een sensor zou zijn die de beweging van hun hand tracked en de functie aanpast. Dit zal in een andere test onderzocht worden.
-
-*Bedienring:*
-Om de bedieningsring te begruiken werd er gerbuik gemaakt van een potentiometer. Dit sluit momenteel nog niet aan op de echte werking van de bedieningsring. De gebruikers vinden het een goeie manier om de funties in diepgang te bedienen. 
-Deze feature vinden de gebruikers een meerwaarde aan het concept en zouden ze graag in hun auto willen installeren.
-
-*Layout:*
-De layout van het display is vaak duidelijk genoeg om te weten welke interface bij welke functie hoort. De gebruikers vinden wel dat dit nog wat mooier gemaakt kan worden. 
-Het gebruik van kleuren vinden ze een goeie aanvulling maar dit neemt wel de focus weg van de LEDstrip. 
-
-*Lichtfeedback:*
-De gebruikers vinden wel dat dit een toffe extra is aan het dashboard en ze denken ook dat wanneer ze het dashboard wat gewoon zouden worden dat ze eerder zouden letten op de kleuren en minder op het display. 
-
-*Afleiding:*
-De gebruikers vinden in het algemeen dat ze door dit display minder moeten zoeken om de juiste functies te vinden. Ze kunnen ook vooruit blijven kijken waardoor hun ogen op de baan gericht blijven. 
-Door de projectie op de voorruit zouden ze ook minder naar beneden moeten kijken om info af te lezen. 
-De gebruikers zouden dit dashboard wel in hun wagen willen inbouwen aangezien ze het veel veiliger vinden om functies op deze manier in de wagen te bouwen. Ook zouden ze dit willen aanraden bij andere bestuurders. 
-Doordat de interface alleen de nodige info toont vinden de gerbuikers dit veel minder complex om te gebruiken dan hedendaagse dashbaords. 
 
 **Conclusies & implicaties**
 
