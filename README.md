@@ -1,3 +1,4 @@
+
 # Lightcontrol
 *Functies in de wagen bedienen aan de hand van een swipe-paneel en kleurengebruik.* 
 
@@ -7,7 +8,7 @@ Datum: 24/01/2024
 
 ## Samenvatting
 
-Tegenwoordig zijn er veel touchscreens en knoppen aanwezig in de wagen om functies te bedienen. Deze kunnen zeer handig zijn omdat ze veel mogelijkheden bieden om functies aan te passen in de wagen. Maar door een overaanbod van knoppen of een te ingewikkelde interface kan de bestuurder rap afgeleid worden in de wagen. Door interviews af te nemen en een literatuuronderzoek uit te voeren is er besloten geweest dat bestuurders afgeleid worden omdat ze moeten multitasken en zo hun focus van de weg verliezen. 
+Tegenwoordig zijn er veel touchscreens en knoppen aanwezig in de wagen om functies te bedienen. Deze kunnen zeer handig zijn omdat ze veel mogelijkheden bieden om functies aan te passen in de wagen. Maar door een overaanbod van knoppen of een te ingewikkelde interface kan de bestuurder snel afgeleid worden in de wagen. Door interviews af te nemen en een literatuuronderzoek uit te voeren is er besloten geweest dat bestuurders afgeleid worden omdat ze moeten multitasken en zo hun focus van de weg verliezen. 
 
 Een oplossing die de afleiding in de wagen kan verminderen is om te werken via een bediening waarbij de bestuurder zijn ogen niet van de weg moet halen. Ons idee is om via een swipe-paneel een hoofdfunctie te bedienen zoals: muziek, navigatie, klimaat, etc. Per hoofdfunctie kan er een sub functie bediend worden. Dit gebeurt via een draaiend deel op het stuur (cilinder) die naar voor of naar achter toe kan draaien. De bestuurder weet welke functie die aan het bedienen is door lichtsignalen. Elke functie heeft zijn eigen kleur die vooraf in een app kunnen ingesteld worden. Belangrijke functies zoals de snelheid, waarschuwingssymbolen, brandstofpijl, ect. Worden weergegeven op een HUD-scherm die zich in het zicht van de bestuurder bevindt. De navigatie wordt geregeld via een AR-projectie met pijlen die de richting aangeven.
 
@@ -35,7 +36,7 @@ Het eerste semester was opgedeeld in twee grote fasen: de discovery fase en de d
 <img align="center" width="1000" alt="image" src="https://github.com/rensevdc/LightControl/assets/155004668/51141c7f-e42c-4e1c-befe-b339d1bc7cdc">
 </p>
 
-In de eerste deelfase (vooronderzoek) werd er nagedacht over het probleem die opgelost moest worden. Via een Literatuuronderzoek (met internetbronnen) werd er informatie opgedaan over dit onderwerp. Het was belangrijk om deze info goed te ontleden om het probleem te vinden. Na een literatuuronderzoek werd er naar GRAND STUDIO gegaan om de eisen van de opdrachtgevers beter in beeld te krijgen. Hierbij werden er heel wat dingen opgeklaard. Ten laatste werden er user interviews afgelegd. Hierbij werd er afgetoetst wat de gebruiker verwachte van een dashboard en op welke manieren de gebruikers afgeleid worden in de wagen. Al deze informatie werd gebundeld in een rapport en zo werden de eisen van het dashboard bepaald. Hierna werd uit al de bekomen info bepaald wat de belangerijkste aspecten voor het dashboard zijn. Dit werd aan de hand van een WWWWWH, persona en decision framewrok gedaan. 
+In de eerste deelfase (vooronderzoek) werd er nagedacht over het probleem die opgelost moest worden. Via een Literatuuronderzoek (met internetbronnen) werd er informatie opgedaan over dit onderwerp. Het was belangrijk om deze info goed te ontleden om het probleem te vinden. Na een literatuuronderzoek werd er naar GRAND STUDIO gegaan om de eisen van de opdrachtgevers beter in beeld te krijgen. Hierbij werden er heel wat dingen opgeklaard. Ten laatste werden er user interviews afgelegd. Hierbij werd er afgetoetst wat de gebruiker verwachte van een dashboard en op welke manieren de gebruikers afgeleid worden in de wagen. Al deze informatie werd gebundeld in een snelport en zo werden de eisen van het dashboard bepaald. Hierna werd uit al de bekomen info bepaald wat de belangerijkste aspecten voor het dashboard zijn. Dit werd aan de hand van een WWWWWH, persona en decision framewrok gedaan. 
 
 De tweede deelfase bestond uit het maken van concepten. Dit startte door een brainstormsessie in de les gebruiksgericht ontwerpen. Hierbij werden er ideeën uitgewisseld en nieuwe gedachtegangen konden ook plaatsvinden. Op deze ideeën werd er een COCD-analyse toegepast om de beste ideeën in kaart te kunnen berengen. Na deze brainstormsessie werden er concepten bedacht die volstaan aan de eisen en wensen van het dashboard. Ten laatste werden de concepten gepitched aan de hand van een kleine video. 
 
@@ -109,13 +110,13 @@ Bij de draaiknop is er een ander verhaal. Het was bij elke gebruiker duidelijk d
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/066b2366-78d4-4849-ae6a-5de688a39cdf">
 </p>
 
-Voor het swipe-paneel werden dezelfde resultaten bekomen als bij de draai bediending. Het was rap duidelijk wat er verwacht werd bij het prototype en de functies werden rap gevonden. Hierbij week de auto nog minder van de baan af dan bij de voorgaande prototypes (dit heeft ook voor een deel te maken dat ze de bediening van het spel beter onder de knie kregen). Naar het einde toe van deze test week de auto ook niet meer van de baan af.
+Voor het swipe-paneel werden dezelfde resultaten bekomen als bij de draai bediending. Het was snel duidelijk wat er verwacht werd bij het prototype en de functies werden snel gevonden. Hierbij week de auto nog minder van de baan af dan bij de voorgaande prototypes (dit heeft ook voor een deel te maken dat ze de bediening van het spel beter onder de knie kregen). Naar het einde toe van deze test week de auto ook niet meer van de baan af.
 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/fb8c64eb-e69b-42f1-8e96-7a473cbc84f5">
 </p>
 
-Voor het bedienen van de sub-functies werd er rap gevonden dat er een het deel op het stuur moest gedraaid worden. Dit vonden de gebruikers een zeer goed onderdeel van de prototypes. *‘Dit stimuleerd ook het tien voor twee rijgedrag!’*
+Voor het bedienen van de sub-functies werd er snel gevonden dat er een het deel op het stuur moest gedraaid worden. Dit vonden de gebruikers een zeer goed onderdeel van de prototypes. *‘Dit stimuleerd ook het tien voor twee rijgedrag!’*
 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/1b3d2cf9-15eb-43f4-b61b-270253f844cc">
@@ -153,7 +154,7 @@ Voor volgende prototypes zal er verder gewerkt worden met het swipe-paneel aange
 > - Hoofdfuncties moeten in minder dan 3 seconden bediend worden
 > - Subfuncties moeten in minder dan 5 sec bediend worden
 > - De LEDstrip moet ook zichtbaar zijn overdag
-> - De bedienring moet ingebouwd zijn in het stuur
+> - De bedieningsring moet ingebouwd zijn in het stuur
 > - Het dashboard mag niet complex zijn
 
 **Bill of materials**
@@ -181,7 +182,7 @@ Belangrijke aspecten waar op gefocussed zal moeten worden zijn:
 - Waar het swipepaneel zich moet bevinden.
 - Hoe ver het swipepaneel zich moet bevinden.
 
-De designmethode die zal worden gebuikt is: Design for adjustable (aangezien de zeten van de wagen per persoon kan ingesteld worden). De ergonomie zal in twee delen opgespitst worden (het swipepaneel en de bedienring).
+De designmethode die zal worden gebuikt is: Design for adjustable (aangezien de zeten van de wagen per persoon kan ingesteld worden). De ergonomie zal in twee delen opgespitst worden (het swipepaneel en de bedieningsring).
 
 **Reslustaten**
 
@@ -233,7 +234,7 @@ Vervolgens wordt het scherm terug op de 648,5 mm geplaatst t.o.v. de schouder, d
 
 **Het stuur**
 
-Om het ergonomisch aspect van het bedieningswiel en de andere knoppen te bepalen word eerst gekeken naar het stuur in het algemeen. De bedieningscilinder zou gemonteerd worden op de rand. Het draaien van het stuur wordt gemanipuleerd in het xy-vlak. Duw op trekbewegingen (voor de bedienring) worden dus best in de z-richting gedaan.
+Om het ergonomisch aspect van het bedieningswiel en de andere knoppen te bepalen word eerst gekeken naar het stuur in het algemeen. De bedieningscilinder zou gemonteerd worden op de rand. Het draaien van het stuur wordt gemanipuleerd in het xy-vlak. Duw op trekbewegingen (voor de bedieningsring) worden dus best in de z-richting gedaan.
 
 <p float="left">
   <img align="top" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/6df68a08-4f89-4739-9d77-b8f2976434cb" width="500" />
@@ -255,7 +256,7 @@ Op de rand van het stuur kan men ook enkele functies aanbrengen zoals bvb. knijp
 
 **Fielresearch**
 
-Om de positie van de ring op het stuur te bepalen moet er bekeken worden waar de handen van de bestuurder gepositioneerd zijn tijdens het rijden. Als passagier worden de handplaatsingen van verschillende bestuurders gemapped zodat achteraf de beste plaatsing van de bedienring bepaald kan worden.
+Om de positie van de ring op het stuur te bepalen moet er bekeken worden waar de handen van de bestuurder gepositioneerd zijn tijdens het rijden. Als passagier worden de handplaatsingen van verschillende bestuurders gemapped zodat achteraf de beste plaatsing van de bedieningsring bepaald kan worden.
 
 <p float="left">
   <img align="top" src="https://github.com/rensevdc/UCD_SEM1/assets/160232035/271459b4-5844-4c85-b824-13f01644f353" width="500" />
@@ -301,7 +302,7 @@ Voor de bedieningsring blijkt dat de beste positie op een hoek van 45° ten opzi
 > - Het swipepaneel zit tussen de 100 en 250 mm van de rechterkant van het stuur
 > - Het swipepaneel zit op een hoogte tussen de 370 en 420 mm van de basis van de versnellingspook
 > - Het swipepaneel zit tussen de 400 en 600 mm ten opzichte van de rechterschouder van de bestuurder
-> - De bedienring zit op een hoek van 45° ten opzichte van het midden van het stuur
+> - De bedieningsring zit op een hoek van 45° ten opzichte van het midden van het stuur
 > - Het dashboard moet bedienbaar zijn voor 95% van de populatie
 
 ## Human Mind
@@ -400,7 +401,7 @@ Ook bij het aangeven van de intensiteit van de airco/voor of achterruit verwarmi
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/6f34e32c-83a7-4079-a37b-fa334c6f5141">
 </p>
 
-Voor de zetelverwarmingsintensiteit vinden bijde experts de bediening met drie grote balken de beste omdat de zetelverwarming vaak niet met een exacte waarde maar met een standensysteem werkt. 
+Voor de zetelverwarmingsintensiteit vinden beide experts de bediening met drie grote balken de beste omdat de zetelverwarming vaak niet met een exacte waarde maar met een standensysteem werkt. 
 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/c1f5b67c-604e-45f1-8d22-b997e34225f3">
@@ -416,7 +417,7 @@ Analyse 10 heuristieken: https://acrobat.adobe.com/id/urn:aaid:sc:EU:30cf4c6a-3f
 De experts vinden het een innovatief systeem om mee te werken en vinden de bediening met de cilinder en swipesysteem zeer tof. 
 
 *onnodig complex:* (helemaal niet - helemaal niet)
-De experts vinden het systeem niet complex en denken ook dat andere gebruikers er rap mee weg zullen zijn.
+De experts vinden het systeem niet complex en denken ook dat andere gebruikers er snel mee weg zullen zijn.
 
 *gemakklijk te gebruiken:* (5 - 5)
 Door een simpele bediening wordt het dashboard als eenvoudeig ervaren. Ook het swipesysteem maakt het makkelijk om functies van elkaar te onderscheiden. Het kleurengebruik geeft dan ook weer een extra bevesteging.
@@ -446,7 +447,7 @@ Het doel van de interaction design fase is om de finale interacties van de gebru
 
 **Meterialen en methoden**
 
-Voor dit onderdeel wordt een cart omgebouwd zodat hierop de bedienring (potentiometer), knoppen en het swipesysteem op gemonteerd worden (een houten opstelling waar een gsm en grove sensor in passen die modulair verwisseld kunnen worden). Achter het stuur komt een display te staan (pc scherm) die de interface laat zien. Op het swipesysteem komt een ledstrip te liggen die de kleurenindicatie weergeeft. Ook nu wordt er via protopie en arduino gewerkt (de arduino code en protopie files zijn onderaan dit onderdeel te vinden).
+Voor dit onderdeel wordt een cart omgebouwd zodat hierop de bedieningsring (potentiometer), knoppen en het swipesysteem op gemonteerd worden (een houten opstelling waar een gsm en grove sensor in passen die modulair verwisseld kunnen worden). Achter het stuur komt een display te staan (pc scherm) die de interface laat zien. Op het swipesysteem komt een LEDstrip te liggen die de kleurenindicatie weergeeft. Ook nu wordt er via protopie en arduino gewerkt (de arduino code en protopie files zijn onderaan dit onderdeel te vinden).
 
 Ook wordt er een human product interaction flowchart en interaction modalities opgesteld. Hierdoor zal de werking en onderlinge connecties van het prototype beter bekeken kunnen worden. 
 
@@ -454,7 +455,7 @@ Ook wordt er een human product interaction flowchart en interaction modalities o
 
 **Human/product interaction flowchart**
 
-Onderaan is de interaction flowchart van dit prototype te zien. Zoals eerder aangehaalt is kunnen drie hoofdfuncties van het dashboard bediend worden. Deze kunnen verwisseld worden door het swipesysteem die langs bijde kanten werkt. Voor het muziek onderdeel geldt dat indien er aan de bedienring (potentiometer) gedraaid wordt dat de muziek luider of stiller zal afspelen. Indien er op de eerste knop gedrukt wordt zal de muziek pauzeren of terug afspelen. Indien er op de tweede knop gedrukt wordt zal er van playlist verwisseld worden. 
+Onderaan is de interaction flowchart van dit prototype te zien. Zoals eerder aangehaalt is kunnen drie hoofdfuncties van het dashboard bediend worden. Deze kunnen verwisseld worden door het swipesysteem die langs beide kanten werkt. Voor het muziek onderdeel geldt dat indien er aan de bedieningring (potentiometer) gedraaid wordt dat de muziek luider of stiller zal afspelen. Indien er op de eerste knop gedrukt wordt zal de muziek pauzeren of terug afspelen. Indien er op de tweede knop gedrukt wordt zal er van playlist verwisseld worden. 
 
 Voor de temperatuurregeling geldt er dat indier er aan de controlring gedraaid wordt dat de temperatuur verhoogd of verlaagd. 
 
@@ -472,7 +473,7 @@ In het eerste deel worden de tastzintuigen van de gebruiker in beeld gebracht. B
 
 In het volgende deel wordt het gehoor bekeken. Hier is er alleen een output onderdeel. In het muziekgedeelte van de interface worden er twee nummers afgespeeld. Ook kan via een potentiometer de muziek luider of stiller afspelen. Dit wordt door speakers tot bij de gebruiker gebracht. 
 
-Ten laatste wordt er in dit prototype ook gebruikt gemaakt van het zicht van de gebruiker. Hierbij wordt er zowel input als output gekregen van de gebruiker. Aan de input kant wordt er tussen functies van de interface verwisseld doordat de gebruiker met zijn hand over een grove sensor beweegt (van links naar rechts of omgekeerd). Bij de output horen het scherm en de ledstrip. De ledstrip geeft een extra feedback aan de gebruiker als deze zich op de juiste functie bevinden.  
+Ten laatste wordt er in dit prototype ook gebruikt gemaakt van het zicht van de gebruiker. Hierbij wordt er zowel input als output gekregen van de gebruiker. Aan de input kant wordt er tussen functies van de interface verwisseld doordat de gebruiker met zijn hand over een grove sensor beweegt (van links naar rechts of omgekeerd). Bij de output horen het scherm en de LEDstrip. De LEDstrip geeft een extra feedback aan de gebruiker als deze zich op de juiste functie bevinden.  
 
 <p align="center">
 <img align="center" width="900" alt="image" src="https://github.com/rensevdc/LightControl/assets/155004668/50f93f47-7b05-445f-9d1e-3c9ae77e0a61">
@@ -492,16 +493,16 @@ Ten laatste wordt er in dit prototype ook gebruikt gemaakt van het zicht van de 
 | 1.3 | Hoofdfuncties moeten in minder dan 3 seconden bediend worden | Define user test |
 | 1.4 | Subfuncties moeten in minder dan 5 sec bediend worden | Define user test |
 | 1.5 | De LEDstrip moet ook zichtbaar zijn overdag | Define user test |
-| 1.6 | De bedienring moet ingebouwd zijn in het stuur | Define user test |
+| 1.6 | De bedieningsring moet ingebouwd zijn in het stuur | Define user test |
 | 1.7 | Het dashboard mag niet complex zijn | Define user test |
 | **Deel 2** | **Swipepaneel** |
 | 2.1 | Het swipepaneel zit tussen de 100 en 250 mm van de rechterkant van het stuur | Ergonomische testen |
 | 2.2 | Het swipepaneel zit op een hoogte tussen de 370 en 420 mm van de basis van de versnellingspook | Ergonomische testen |
 | 2.3 | Het swipepaneel zit tussen de 400 en 600 mm ten opzichte van de rechterschouder van de bestuurder | Ergonomische testen |
 | **Deel 3** | **Bediening** |
-| 3.1 | De bedienring zit op een hoek van 45° ten opzichte van het midden van het stuur | Ergonomische testen |
-| 3.2 | De bedienring moet ingebouwd zijn in het stuur | Ergonomische testen |
-| 3.3 | De bedienring heeft een textruu nodig zodat deze opvalt | Develop 1 |
+| 3.1 | De bedieningsring zit op een hoek van 45° ten opzichte van het midden van het stuur | Ergonomische testen |
+| 3.2 | De bedieningsring moet ingebouwd zijn in het stuur | Ergonomische testen |
+| 3.3 | De bedieningsring heeft een textruu nodig zodat deze opvalt | Develop 1 |
 | **Deel 4** | **Interface** |
 | 4.1 | De interface heeft een aantrekkelijke layout | Develop 2 user test |
 | 4.2 | De interface is makkelijk te bedienen | Develop 2 expert test |
