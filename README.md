@@ -313,7 +313,6 @@ De doelstelling van dit deelonderzoek is om de gebruiksvriendelijkheid en UX asp
 **Materiaal en methoden**
 
 Aan de hand van Arduino en Protopie wordt er een systeem gemaakt waarbij er op een gsm geswiped wordt om een display aan te sturen. Indien er op de gsm geswiped wordt kan het display tussen drie situaties wisselen (Spotify (groen), Klimaatregeling (rood) en temperatuurregeling (blauw)). Voor het onderdeel van spotify kan via een potentiometer het volume van afspelende muziek aangepast worden. Voor de klimaatregeling kan er tussen vier verschillende bedieningen verwisseld worden met de potentiometer. Om de temperatuur kan ook veranderen door aan de potentiometer te draaien. 
-In totaal worden er twee experttesten en vier gebruikerstesten gedaan.
 
 https://github.com/rensevdc/LightControl/assets/155004668/27d68c95-c239-464f-94fb-af8cbf75979e
 
@@ -343,7 +342,7 @@ Door het toevoegen van een cijferwaarde wordt de bediening van deze interface du
 </p>
 
 *Bediening klimaatmenu:*
-Door de iconene is het duidelijker wat de bedoeling van deze interface is. Het vergroten en verkleinen van de vakken was is een goeie manier om de poitie aan te geven. Het rood worden van de vakken geeft ook een goeie feedback hierbij. Eén gebruiker vond het verloop tegen de klok in van het selecteren van de functie niet natuurlijk aanvoeld en dat het beter zou zijn om de funties met de klok mee te laten bewegen of op een andere manier. (aangegeven door de rode pijl) Het overgaan naar de temperatuurklok met de knoppen vinden de gerbuikers ook handig, maar ze zouden nog een extra bevesteging willen om aan te geven dat ze de functie veranderd hebben zoals een extra keer klikken op een knop.
+Door de iconen is het duidelijker wat de bedoeling van deze interface is. Het vergroten en verkleinen van de vakken was is een goeie manier om de poitie aan te geven. Het rood worden van de vakken geeft ook een goeie feedback hierbij. Eén gebruiker vond het verloop tegen de klok in van het selecteren van de functie niet natuurlijk aanvoeld en dat het beter zou zijn om de funties met de klok mee te laten bewegen of op een andere manier (aangegeven door de rode pijl). Het overgaan naar de temperatuurklok met de knoppen vinden de gerbuikers ook handig, maar ze zouden nog een extra bevesteging willen om aan te geven dat ze de functie veranderd hebben zoals een extra keer klikken op een knop.
 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/5d3c28f0-fbdf-4e63-ac49-e976b376383d">
@@ -391,7 +390,7 @@ De gebruikers zouden dit dashbaord in hun auto willen gebruiken en het zelf voor
 
 Protocol expertesten (met 10 heuristieken): https://acrobat.adobe.com/id/urn:aaid:sc:EU:e2d8e9e2-8357-4fb2-a962-19639df5569f
 
-Bij de tweede expert testen werd er weer een nieuw prototype gebruikt. Het display werd aangepast met de feedback uit de voorgaande testen. De werking blijft echter hetzelfde. De layout, iconen, interactie en feedback van de interface werd vanuit een ander perspectief bekeken. Er worden lichtere kleuren gebruikt zodat het minder opvalt in de wagen. Door twee aparte interfaces te maken wordt er achteraf bepaald uit welke onderdelen van beide interfaces het best overkomen. Deze keer wordt er getest met zowel een gsm die dient als een fysiek swipesysteem en een grove sensor die vanop een afstand bediend kan worden. Na de test werden de expert gevraagd om een vragenlijst met de 10 heuristieken in te vullen om zo te bekijken of de werking en bediening van de interface goed scoort op user Experience.
+Bij de tweede expert testen werd er weer een nieuw prototype gebruikt. Het display werd aangepast met de feedback uit de voorgaande testen. De werking blijft echter hetzelfde. Door twee aparte interfaces te maken wordt er achteraf bepaald uit welke onderdelen van beide interfaces het best overkomen. Deze keer wordt er getest met zowel een gsm die dient als een fysiek swipesysteem en een grove sensor die vanop een afstand bediend kan worden. Na de test werden de expert gevraagd om een vragenlijst met de 10 heuristieken in te vullen om zo te bekijken of de werking en bediening van de interface goed scoort op user Experience.
 
 https://github.com/rensevdc/LightControl/assets/155004668/ff5a35de-5090-4249-b663-6f9598e03a4b
 
@@ -410,13 +409,13 @@ De experts vinden dat het beter is om een getalwaarde af te lezen voor de temper
 </p>
 
 *Bediening klimaatmenu:* 
-Hierbij vindt de ene expert de bovenste en de andere expert de onderste bediening beter. De bovenste wordt beter ondervonden doordat het duidelijker is met de rode pijl op welke functie ze juist staan. Het zou wel beter zijn mocht de layout hiervan wat meer diepgang krijgen. De onderste bediening wordt dan aan de andere kant beter ondervonden doordat het overzichtelijker is. De nieuwe iconenen voor de voor en achterruitontdooing zijn nog wat ingewikkeld. De rest van de werking is duidelijk en geeft een meerwaarde aan de wagen.
+Hierbij vindt de ene expert de bovenste en de andere expert de onderste bediening beter. De bovenste wordt beter ondervonden doordat het duidelijker is met de rode pijl op welke functie ze juist staan. Het zou wel beter zijn mocht de layout hiervan wat meer diepgang krijgen. De onderste bediening wordt dan aan de andere kant beter ondervonden doordat het overzichtelijker is. 
 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/66156fdc-433c-43c7-8f77-9c4bdb8e7804">
 </p>
 
-Ook bij het aangeven van de intensiteit van de airco/voor of achterruit verwarming is er een meningsverschil tussen de experts. De bediening links wordt goed ervaren doordat de intensiteit niet echt een waarde nodig heeft en de bediening recht wordt beter ervaren juist doordat er wel een getalwaarde staat. Uit verdere testen zal moeten blijken welke van de twee bij andere gebruikers als beste ondervonden wordt. 
+Ook bij het aangeven van de intensiteit van de airco/voor of achterruit verwarming is er een meningsverschil tussen de experts. De bediening links wordt goed ervaren doordat de intensiteit niet echt een waarde nodig heeft en de bediening recht wordt beter ervaren juist doordat er wel een getalwaarde staat.
 
 <p align="center">
 <img align="center" width="600" alt="image" src="https://github.com/rensevdc/UCD_SEM1/assets/155004668/6f34e32c-83a7-4079-a37b-fa334c6f5141">
@@ -429,7 +428,7 @@ Voor de zetelverwarmingsintensiteit vinden bijde experts de bediening met drie g
 </p>
 
 *Swipepaneel:*
-Het swipen wordt als natuurlijk ondervonden en de experts vinden het een goeie manier om de hoofdfuncties te bedienen. Het wordt zelf als leuk ervaren en geeft dus een meerwaarde aan de ueser experience. De experts gebruiken telkens een beweging van links naar recht of omgekeerd omdat dit het meest natuurlijk aanvoeld. Deze werking kan dus verder ingebouwd worden in een sensor of nieuw prototype.
+Het swipen of bewegen over de grovesensor wordt als natuurlijk ondervonden en de experts vinden het een goeie manier om de hoofdfuncties te bedienen. Het wordt zelf als leuk ervaren en geeft dus een meerwaarde aan de ueser experience. De experts gebruiken telkens een beweging van links naar recht of omgekeerd omdat dit het meest natuurlijk aanvoeld. 
 
 *Bedienring:*
 Het verder instellen van de subfunties met een bedienring vinden de experten ook goed en leuk om te gebruiken. Ze vinden ook dat het een veiliger gevoel geeft doordat hun handen op het stuur blijven staan. Indien dit echt zou werken (momenteel met wizzard of Oz testing) zou dit een zeer goeie functie zijn in de wagen. 
