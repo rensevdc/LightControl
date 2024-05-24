@@ -587,6 +587,9 @@ https://acrobat.adobe.com/id/urn:aaid:sc:EU:6b84e563-7dd9-409d-ad3f-324a481537d3
 **Analyse UX design experts**
 https://acrobat.adobe.com/id/urn:aaid:sc:eu:6527ee51-fd73-4385-8622-84373df9e4fb
 
+**Protocol Final Design**
+https://ugentbe-my.sharepoint.com/:b:/g/personal/jarre_buyck_ugent_be/ERmhdY2axzlEs7fOAvOHj2sBLVCF5xtru5bPaKRAQSlxWg?e=JKfRDd
+
 **Protocol interaction design**
 
 **Analyse interaction design**
